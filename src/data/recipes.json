@@ -1088,8 +1088,8 @@
       {
         "name": "Eggs",
         "unit": "kg",
-        "min_qty": 12.0,
-        "max_qty": 14.0
+        "min_qty": 0.72,
+        "max_qty": 0.84
       },
       {
         "name": "Onion",
