@@ -271,3 +271,8 @@ tbody tr:hover {
   color: #4472c4;
   font-size: 0.9rem;
 }
+
+.per-piece-cost {
+  color: #666;
+  font-size: 0.85rem;
+}

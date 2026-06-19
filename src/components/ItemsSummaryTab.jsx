@@ -21,12 +21,18 @@ function ItemsSummaryTab({ recipes, getPrice, onItemSelect }) {
       let displayMinCost = minCost
       let displayMaxCost = maxCost
       let displayUnit = "KG"
+      let perPieceMin = null
+      let perPieceMax = null
 
       if (uom.display_uom === "PCS" && uom.pieces_per_kg) {
         // For piece-based items, calculate per-piece cost
         displayMinCost = minCost / uom.pieces_per_kg
         displayMaxCost = maxCost / uom.pieces_per_kg
         displayUnit = uom.pieces_per_kg === 1 ? "PC" : `${uom.pieces_per_kg} PCS`
+
+        // Also calculate per 1 piece
+        perPieceMin = minCost / uom.pieces_per_kg
+        perPieceMax = maxCost / uom.pieces_per_kg
       }
 
       return {
@@ -35,7 +41,10 @@ function ItemsSummaryTab({ recipes, getPrice, onItemSelect }) {
         maxCost,
         displayMinCost,
         displayMaxCost,
-        displayUnit
+        displayUnit,
+        perPieceMin,
+        perPieceMax,
+        hasPieces: uom.display_uom === "PCS"
       }
     })
   }, [recipes, getPrice])
@@ -70,6 +79,7 @@ function ItemsSummaryTab({ recipes, getPrice, onItemSelect }) {
               <th className="number-right">Min Price</th>
               <th className="number-right">Max Price</th>
               <th className="number-right">UOM</th>
+              <th className="number-right">Per 1 PC</th>
               <th className="number-right">Cooking Loss</th>
             </tr>
           </thead>
@@ -80,6 +90,9 @@ function ItemsSummaryTab({ recipes, getPrice, onItemSelect }) {
                 <td className="number-right cost-highlight">₹{item.displayMinCost.toFixed(2)}</td>
                 <td className="number-right cost-highlight">₹{item.displayMaxCost.toFixed(2)}</td>
                 <td className="number-right uom-badge">{item.displayUnit}</td>
+                <td className="number-right per-piece-cost">
+                  {item.hasPieces ? `₹${item.perPieceMin.toFixed(2)} - ₹${item.perPieceMax.toFixed(2)}` : '-'}
+                </td>
                 <td className="number-right">{item.cooking_loss_percent}%</td>
               </tr>
             ))}
