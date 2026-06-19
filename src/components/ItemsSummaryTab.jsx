@@ -1,4 +1,5 @@
 import { useState, useMemo } from 'react'
+import uomConfig from '../data/uom_config.json'
 
 function ItemsSummaryTab({ recipes, getPrice, onItemSelect }) {
   const [searchTerm, setSearchTerm] = useState('')
@@ -12,7 +13,30 @@ function ItemsSummaryTab({ recipes, getPrice, onItemSelect }) {
         minCost += ing.min_qty * price
         maxCost += ing.max_qty * price
       })
-      return { ...item, minCost, maxCost }
+
+      // Get UOM config for this item
+      const uom = uomConfig[item.name] || { display_uom: "KG", pieces_per_kg: null }
+
+      // Calculate display price based on UOM
+      let displayMinCost = minCost
+      let displayMaxCost = maxCost
+      let displayUnit = "KG"
+
+      if (uom.display_uom === "PCS" && uom.pieces_per_kg) {
+        // For piece-based items, calculate per-piece cost
+        displayMinCost = minCost / uom.pieces_per_kg
+        displayMaxCost = maxCost / uom.pieces_per_kg
+        displayUnit = uom.pieces_per_kg === 1 ? "PC" : `${uom.pieces_per_kg} PCS`
+      }
+
+      return {
+        ...item,
+        minCost,
+        maxCost,
+        displayMinCost,
+        displayMaxCost,
+        displayUnit
+      }
     })
   }, [recipes, getPrice])
 
@@ -43,20 +67,20 @@ function ItemsSummaryTab({ recipes, getPrice, onItemSelect }) {
           <thead>
             <tr>
               <th>Item Name</th>
-              <th className="number-right">Min Cost (₹)</th>
-              <th className="number-right">Max Cost (₹)</th>
+              <th className="number-right">Min Price</th>
+              <th className="number-right">Max Price</th>
+              <th className="number-right">UOM</th>
               <th className="number-right">Cooking Loss</th>
-              <th>Output</th>
             </tr>
           </thead>
           <tbody>
             {filtered.map((item) => (
               <tr key={item.name} className="item-row" onClick={() => onItemSelect(item)}>
                 <td>{item.name}</td>
-                <td className="number-right cost-highlight">₹{item.minCost.toFixed(2)}</td>
-                <td className="number-right cost-highlight">₹{item.maxCost.toFixed(2)}</td>
+                <td className="number-right cost-highlight">₹{item.displayMinCost.toFixed(2)}</td>
+                <td className="number-right cost-highlight">₹{item.displayMaxCost.toFixed(2)}</td>
+                <td className="number-right uom-badge">{item.displayUnit}</td>
                 <td className="number-right">{item.cooking_loss_percent}%</td>
-                <td>1 kg</td>
               </tr>
             ))}
           </tbody>
