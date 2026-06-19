@@ -1,0 +1,5539 @@
+[
+  {
+    "id": 1,
+    "name": "Veg Manchuria",
+    "ingredients": [
+      {
+        "name": "Cabbage (grated)",
+        "unit": "kg",
+        "min_qty": 0.35,
+        "max_qty": 0.45,
+        "unit_cost": 18.0
+      },
+      {
+        "name": "Carrot (grated)",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12,
+        "unit_cost": 25.0
+      },
+      {
+        "name": "French Beans (finely chopped)",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06,
+        "unit_cost": 40.0
+      },
+      {
+        "name": "Capsicum (finely chopped)",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05,
+        "unit_cost": 35.0
+      },
+      {
+        "name": "Onion (finely chopped, for sauce)",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12,
+        "unit_cost": 22.0
+      },
+      {
+        "name": "Spring Onion (greens & whites)",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.04,
+        "unit_cost": 40.0
+      },
+      {
+        "name": "Cornflour (for balls + slurry)",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.14,
+        "unit_cost": 42.0
+      },
+      {
+        "name": "Maida (all purpose flour)",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06,
+        "unit_cost": 32.0
+      },
+      {
+        "name": "Ginger (in-house paste)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025,
+        "unit_cost": 120.0
+      },
+      {
+        "name": "Garlic (in-house paste)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025,
+        "unit_cost": 90.0
+      },
+      {
+        "name": "Green Chilli (in-house paste)",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Soy Sauce",
+        "unit": "kg",
+        "min_qty": 0.025,
+        "max_qty": 0.035,
+        "unit_cost": 85.0
+      },
+      {
+        "name": "Tomato Ketchup/Sauce",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 70.0
+      },
+      {
+        "name": "Vinegar",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 40.0
+      },
+      {
+        "name": "Red Chilli Sauce",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 80.0
+      },
+      {
+        "name": "Refined Oil (for deep frying, absorbed)",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.18,
+        "unit_cost": 110.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 12.0
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 450.0
+      },
+      {
+        "name": "Sugar",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 38.0
+      },
+      {
+        "name": "Water (for sauce/gravy)",
+        "unit": "kg",
+        "min_qty": 0.2,
+        "max_qty": 0.3,
+        "unit_cost": 0.5
+      },
+      {
+        "name": "MSG (Ajinomoto)",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003,
+        "unit_cost": 200.0
+      }
+    ],
+    "totals": {
+      "min_qty": 1.181,
+      "max_qty": 1.705,
+      "min_cost": 42.68,
+      "max_cost": 63.38
+    },
+    "cooking_loss": 18
+  },
+  {
+    "id": 2,
+    "name": "Hara Bhara Kebab",
+    "ingredients": [
+      {
+        "name": "Spinach (Palak)",
+        "unit": "kg",
+        "min_qty": 0.55,
+        "max_qty": 0.7,
+        "unit_cost": 25.0
+      },
+      {
+        "name": "Potato (boiled, mashed)",
+        "unit": "kg",
+        "min_qty": 0.22,
+        "max_qty": 0.28,
+        "unit_cost": 22.0
+      },
+      {
+        "name": "Green Peas (fresh/frozen)",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.16,
+        "unit_cost": 70.0
+      },
+      {
+        "name": "Chana Dal (soaked & cooked)",
+        "unit": "kg",
+        "min_qty": 0.06,
+        "max_qty": 0.08,
+        "unit_cost": 80.0
+      },
+      {
+        "name": "Paneer (crumbled)",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.07,
+        "unit_cost": 300.0
+      },
+      {
+        "name": "Cornflour (binder)",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.035,
+        "unit_cost": 55.0
+      },
+      {
+        "name": "Breadcrumbs (coating)",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05,
+        "unit_cost": 70.0
+      },
+      {
+        "name": "Ginger-Garlic Paste (in-house: raw ginger ₹100/kg, garlic ₹80/kg, blended)",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 95.0
+      },
+      {
+        "name": "Green Chillies",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 40.0
+      },
+      {
+        "name": "Fresh Coriander Leaves",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 30.0
+      },
+      {
+        "name": "Oil (for shallow frying, absorbed)",
+        "unit": "kg",
+        "min_qty": 0.06,
+        "max_qty": 0.08,
+        "unit_cost": 120.0
+      },
+      {
+        "name": "Garam Masala (in-house: raw whole spices avg ₹400/kg)",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 400.0
+      },
+      {
+        "name": "Chaat Masala (in-house: dry mango, cumin, black salt etc.)",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 350.0
+      },
+      {
+        "name": "Cumin Powder (in-house: whole cumin ₹280/kg ground)",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 280.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 12.0
+      },
+      {
+        "name": "Amchur (Dry Mango Powder)",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 200.0
+      }
+    ],
+    "totals": {
+      "min_qty": 1.186,
+      "max_qty": 1.571,
+      "min_cost": 65.4,
+      "max_cost": 90.22
+    },
+    "cooking_loss": 13
+  },
+  {
+    "id": 3,
+    "name": "Crispy Corn",
+    "ingredients": [
+      {
+        "name": "Sweet Corn Kernels (frozen/fresh)",
+        "unit": "kg",
+        "min_qty": 0.65,
+        "max_qty": 0.78,
+        "unit_cost": 55.0
+      },
+      {
+        "name": "Cornflour",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.1,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Rice Flour",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.045,
+        "unit_cost": 50.0
+      },
+      {
+        "name": "Maida (All Purpose Flour)",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 35.0
+      },
+      {
+        "name": "Capsicum (Bell Pepper)",
+        "unit": "kg",
+        "min_qty": 0.06,
+        "max_qty": 0.08,
+        "unit_cost": 40.0
+      },
+      {
+        "name": "Onion",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.07,
+        "unit_cost": 25.0
+      },
+      {
+        "name": "Green Chilli",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Garlic (for in-house paste)",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 120.0
+      },
+      {
+        "name": "Curry Leaves",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 150.0
+      },
+      {
+        "name": "Oil (for deep frying - absorbed)",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.14,
+        "unit_cost": 110.0
+      },
+      {
+        "name": "Oil (for sautéing)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 110.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 15.0
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 450.0
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 200.0
+      },
+      {
+        "name": "Soy Sauce",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 120.0
+      },
+      {
+        "name": "Vinegar",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 45.0
+      },
+      {
+        "name": "Sugar",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 40.0
+      },
+      {
+        "name": "Spring Onion Greens",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 60.0
+      }
+    ],
+    "totals": {
+      "min_qty": 1.079,
+      "max_qty": 1.376,
+      "min_cost": 66.2,
+      "max_cost": 85.76
+    },
+    "cooking_loss": 15
+  },
+  {
+    "id": 4,
+    "name": "Veg Spring Rolls",
+    "ingredients": [
+      {
+        "name": "Maida (All Purpose Flour - for sheets)",
+        "unit": "kg",
+        "min_qty": 0.18,
+        "max_qty": 0.22,
+        "unit_cost": 38.0
+      },
+      {
+        "name": "Cornflour (for sheet batter)",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 55.0
+      },
+      {
+        "name": "Cabbage (shredded)",
+        "unit": "kg",
+        "min_qty": 0.25,
+        "max_qty": 0.3,
+        "unit_cost": 18.0
+      },
+      {
+        "name": "Carrot (julienned)",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.15,
+        "unit_cost": 28.0
+      },
+      {
+        "name": "Capsicum (julienned)",
+        "unit": "kg",
+        "min_qty": 0.06,
+        "max_qty": 0.08,
+        "unit_cost": 45.0
+      },
+      {
+        "name": "French Beans (finely chopped)",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.07,
+        "unit_cost": 35.0
+      },
+      {
+        "name": "Spring Onion (chopped)",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06,
+        "unit_cost": 35.0
+      },
+      {
+        "name": "Glass Noodles/Vermicelli",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06,
+        "unit_cost": 55.0
+      },
+      {
+        "name": "Ginger-Garlic Paste (in-house: ginger ₹90/kg + garlic ₹70/kg)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 80.0
+      },
+      {
+        "name": "Soy Sauce",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 90.0
+      },
+      {
+        "name": "Vinegar",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 35.0
+      },
+      {
+        "name": "Refined Oil (for cooking filling)",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.04,
+        "unit_cost": 120.0
+      },
+      {
+        "name": "Refined Oil (absorbed during deep frying)",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.14,
+        "unit_cost": 120.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 12.0
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 450.0
+      },
+      {
+        "name": "Sugar",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 40.0
+      },
+      {
+        "name": "MSG/Ajinomoto (optional)",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003,
+        "unit_cost": 200.0
+      }
+    ],
+    "totals": {
+      "min_qty": 0.946,
+      "max_qty": 1.23,
+      "min_cost": 44.33,
+      "max_cost": 59.79
+    },
+    "cooking_loss": 15
+  },
+  {
+    "id": 5,
+    "name": "Pachi Mirchi Kodi Kebab",
+    "ingredients": [
+      {
+        "name": "Chicken (bone-in pieces)",
+        "unit": "kg",
+        "min_qty": 0.75,
+        "max_qty": 0.9,
+        "unit_cost": 150.0
+      },
+      {
+        "name": "Green Chillies (for paste)",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Fresh Coriander Leaves",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05,
+        "unit_cost": 40.0
+      },
+      {
+        "name": "Fresh Mint Leaves (Pudina)",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Onions",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.15,
+        "unit_cost": 30.0
+      },
+      {
+        "name": "Ginger (for paste, in-house)",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 120.0
+      },
+      {
+        "name": "Garlic (for paste, in-house)",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 100.0
+      },
+      {
+        "name": "Curd (Yogurt)",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.08,
+        "unit_cost": 50.0
+      },
+      {
+        "name": "Lemon Juice",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Besan (Gram Flour)",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 55.0
+      },
+      {
+        "name": "Rice Flour",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.02,
+        "unit_cost": 45.0
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 150.0
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 200.0
+      },
+      {
+        "name": "Cumin Powder (Jeera)",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 250.0
+      },
+      {
+        "name": "Garam Masala (in-house)",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 350.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.012,
+        "max_qty": 0.018,
+        "unit_cost": 12.0
+      },
+      {
+        "name": "Oil (for shallow frying)",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.15,
+        "unit_cost": 110.0
+      },
+      {
+        "name": "Curry Leaves",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 80.0
+      },
+      {
+        "name": "Egg (for binding)",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.06,
+        "unit_cost": 130.0
+      }
+    ],
+    "totals": {
+      "min_qty": 1.301,
+      "max_qty": 1.729,
+      "min_cost": 153.64,
+      "max_cost": 195.96
+    },
+    "cooking_loss": 18
+  },
+  {
+    "id": 6,
+    "name": "Andhra Kodi Vepudu",
+    "ingredients": [
+      {
+        "name": "Chicken with bone (curry cut)",
+        "unit": "kg",
+        "min_qty": 0.9,
+        "max_qty": 1.1,
+        "unit_cost": 140.0
+      },
+      {
+        "name": "Onions (sliced/ground)",
+        "unit": "kg",
+        "min_qty": 0.18,
+        "max_qty": 0.25,
+        "unit_cost": 25.0
+      },
+      {
+        "name": "Ginger (for in-house paste)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 100.0
+      },
+      {
+        "name": "Garlic (for in-house paste)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 100.0
+      },
+      {
+        "name": "Green chillies",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025,
+        "unit_cost": 50.0
+      },
+      {
+        "name": "Curry leaves",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 120.0
+      },
+      {
+        "name": "Sunflower oil",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12,
+        "unit_cost": 110.0
+      },
+      {
+        "name": "Red chilli powder",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025,
+        "unit_cost": 200.0
+      },
+      {
+        "name": "Turmeric powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 160.0
+      },
+      {
+        "name": "Coriander powder (in-house ground)",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 120.0
+      },
+      {
+        "name": "Cumin seeds",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 280.0
+      },
+      {
+        "name": "Mustard seeds",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 140.0
+      },
+      {
+        "name": "Black pepper (in-house vepudu masala)",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 550.0
+      },
+      {
+        "name": "Fennel seeds (in-house vepudu masala)",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.004,
+        "unit_cost": 180.0
+      },
+      {
+        "name": "Cinnamon (in-house vepudu masala)",
+        "unit": "kg",
+        "min_qty": 0.001,
+        "max_qty": 0.002,
+        "unit_cost": 500.0
+      },
+      {
+        "name": "Cloves (in-house vepudu masala)",
+        "unit": "kg",
+        "min_qty": 0.001,
+        "max_qty": 0.002,
+        "unit_cost": 900.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 12.0
+      },
+      {
+        "name": "Lemon juice",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 60.0
+      }
+    ],
+    "totals": {
+      "min_qty": 1.273,
+      "max_qty": 1.644,
+      "min_cost": 154.28,
+      "max_cost": 197.55
+    },
+    "cooking_loss": 18
+  },
+  {
+    "id": 7,
+    "name": "Chicken Pakoda",
+    "ingredients": [
+      {
+        "name": "Chicken (boneless)",
+        "unit": "kg",
+        "min_qty": 0.55,
+        "max_qty": 0.65,
+        "unit_cost": 210.0
+      },
+      {
+        "name": "Gram Flour (Besan)",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.15,
+        "unit_cost": 75.0
+      },
+      {
+        "name": "Rice Flour",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.04,
+        "unit_cost": 48.0
+      },
+      {
+        "name": "Onion (finely chopped)",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.1,
+        "unit_cost": 25.0
+      },
+      {
+        "name": "Egg",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.06,
+        "unit_cost": 70.0
+      },
+      {
+        "name": "Ginger-Garlic Paste (in-house)",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 85.0
+      },
+      {
+        "name": "Green Chilli Paste (in-house)",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 50.0
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 220.0
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 160.0
+      },
+      {
+        "name": "Coriander Powder",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 150.0
+      },
+      {
+        "name": "Garam Masala (in-house)",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 300.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 17.0
+      },
+      {
+        "name": "Curry Leaves",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 120.0
+      },
+      {
+        "name": "Refined Oil (absorbed during frying)",
+        "unit": "kg",
+        "min_qty": 0.15,
+        "max_qty": 0.2,
+        "unit_cost": 115.0
+      },
+      {
+        "name": "Lemon Juice",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 60.0
+      }
+    ],
+    "totals": {
+      "min_qty": 1.054,
+      "max_qty": 1.313,
+      "min_cost": 156.15,
+      "max_cost": 190.93
+    },
+    "cooking_loss": 18
+  },
+  {
+    "id": 8,
+    "name": "Chilli Chicken",
+    "ingredients": [
+      {
+        "name": "Boneless Chicken (thigh/breast)",
+        "unit": "kg",
+        "min_qty": 0.55,
+        "max_qty": 0.65,
+        "unit_cost": 235.0
+      },
+      {
+        "name": "Cornflour",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06,
+        "unit_cost": 55.0
+      },
+      {
+        "name": "Maida (All Purpose Flour)",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 32.0
+      },
+      {
+        "name": "Egg",
+        "unit": "piece",
+        "min_qty": 2.0,
+        "max_qty": 3.0,
+        "unit_cost": 5.5
+      },
+      {
+        "name": "Capsicum (Bell Pepper)",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12,
+        "unit_cost": 50.0
+      },
+      {
+        "name": "Onion",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12,
+        "unit_cost": 30.0
+      },
+      {
+        "name": "Spring Onion",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05,
+        "unit_cost": 50.0
+      },
+      {
+        "name": "Ginger (for in-house paste)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025,
+        "unit_cost": 100.0
+      },
+      {
+        "name": "Garlic (for in-house paste)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025,
+        "unit_cost": 100.0
+      },
+      {
+        "name": "Green Chilli (for in-house paste)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025,
+        "unit_cost": 50.0
+      },
+      {
+        "name": "Soy Sauce",
+        "unit": "litre",
+        "min_qty": 0.025,
+        "max_qty": 0.035,
+        "unit_cost": 90.0
+      },
+      {
+        "name": "Vinegar",
+        "unit": "litre",
+        "min_qty": 0.015,
+        "max_qty": 0.025,
+        "unit_cost": 35.0
+      },
+      {
+        "name": "Refined Oil (for deep frying - net absorbed)",
+        "unit": "litre",
+        "min_qty": 0.1,
+        "max_qty": 0.15,
+        "unit_cost": 110.0
+      },
+      {
+        "name": "Sugar",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01,
+        "unit_cost": 42.0
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 700.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 12.0
+      },
+      {
+        "name": "Red Chilli Powder (Kashmiri)",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 250.0
+      },
+      {
+        "name": "Ajinomoto (MSG) - optional",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003,
+        "unit_cost": 200.0
+      }
+    ],
+    "totals": {
+      "min_qty": 3.008,
+      "max_qty": 4.353,
+      "min_cost": 172.58,
+      "max_cost": 219.05
+    },
+    "cooking_loss": 18
+  },
+  {
+    "id": 9,
+    "name": "Pepper Egg fry",
+    "ingredients": [
+      {
+        "name": "Eggs (boiled, halved)",
+        "unit": "pieces",
+        "min_qty": 12.0,
+        "max_qty": 14.0,
+        "unit_cost": 5.65
+      },
+      {
+        "name": "Onion (sliced thin)",
+        "unit": "kg",
+        "min_qty": 0.18,
+        "max_qty": 0.25,
+        "unit_cost": 18.0
+      },
+      {
+        "name": "Ginger (for in-house paste)",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 80.0
+      },
+      {
+        "name": "Garlic (for in-house paste)",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 100.0
+      },
+      {
+        "name": "Green Chilli (slit)",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.02,
+        "unit_cost": 40.0
+      },
+      {
+        "name": "Black Pepper (crushed/coarse)",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 550.0
+      },
+      {
+        "name": "Curry Leaves (fresh)",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 150.0
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 160.0
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 200.0
+      },
+      {
+        "name": "Fennel Seeds (saunf)",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 180.0
+      },
+      {
+        "name": "Refined Oil (for frying)",
+        "unit": "kg",
+        "min_qty": 0.06,
+        "max_qty": 0.08,
+        "unit_cost": 120.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 12.0
+      },
+      {
+        "name": "Tomato (chopped)",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12,
+        "unit_cost": 20.0
+      }
+    ],
+    "totals": {
+      "min_qty": 12.382,
+      "max_qty": 14.55,
+      "min_cost": 89.31,
+      "max_cost": 110.34
+    },
+    "cooking_loss": 15
+  },
+  {
+    "id": 10,
+    "name": "Chicken 65",
+    "ingredients": [
+      {
+        "name": "Boneless Chicken (thigh/breast cubes)",
+        "unit": "kg",
+        "min_qty": 0.85,
+        "max_qty": 1.0,
+        "unit_cost": 220.0
+      },
+      {
+        "name": "Corn Starch",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Rice Flour",
+        "unit": "kg",
+        "min_qty": 0.025,
+        "max_qty": 0.035,
+        "unit_cost": 50.0
+      },
+      {
+        "name": "Curd (Yogurt)",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.07,
+        "unit_cost": 50.0
+      },
+      {
+        "name": "Egg (whole/white)",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05,
+        "unit_cost": 72.0
+      },
+      {
+        "name": "Refined Oil (for deep frying, absorbed)",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.15,
+        "unit_cost": 110.0
+      },
+      {
+        "name": "Ginger-Garlic Paste (in-house: ginger ₹80/kg + garlic ₹120/kg + oil)",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 105.0
+      },
+      {
+        "name": "Kashmiri Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025,
+        "unit_cost": 280.0
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 150.0
+      },
+      {
+        "name": "Garam Masala (in-house: whole spices blend)",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 450.0
+      },
+      {
+        "name": "Curry Leaves",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 100.0
+      },
+      {
+        "name": "Green Chillies",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 40.0
+      },
+      {
+        "name": "Lemon Juice",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 12.0
+      },
+      {
+        "name": "Sugar",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 40.0
+      },
+      {
+        "name": "Food Colour (Red, optional)",
+        "unit": "kg",
+        "min_qty": 0.001,
+        "max_qty": 0.002,
+        "unit_cost": 500.0
+      }
+    ],
+    "totals": {
+      "min_qty": 1.186,
+      "max_qty": 1.508,
+      "min_cost": 219.48,
+      "max_cost": 269.89
+    },
+    "cooking_loss": 18
+  },
+  {
+    "id": 11,
+    "name": "Chicken Hariyali Tikka",
+    "ingredients": [
+      {
+        "name": "Chicken Boneless (thigh/breast)",
+        "unit": "kg",
+        "min_qty": 1.05,
+        "max_qty": 1.25,
+        "unit_cost": 235.0
+      },
+      {
+        "name": "Yogurt/Curd (in-house from milk)",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.15,
+        "unit_cost": 48.0
+      },
+      {
+        "name": "Fresh Coriander Leaves",
+        "unit": "kg",
+        "min_qty": 0.06,
+        "max_qty": 0.08,
+        "unit_cost": 35.0
+      },
+      {
+        "name": "Fresh Mint Leaves",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06,
+        "unit_cost": 50.0
+      },
+      {
+        "name": "Spinach (for green color)",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05,
+        "unit_cost": 25.0
+      },
+      {
+        "name": "Green Chillies",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025,
+        "unit_cost": 50.0
+      },
+      {
+        "name": "Ginger (for in-house paste)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 100.0
+      },
+      {
+        "name": "Garlic (for in-house paste)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 100.0
+      },
+      {
+        "name": "Lemon Juice",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025,
+        "unit_cost": 70.0
+      },
+      {
+        "name": "Mustard Oil / Cooking Oil",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05,
+        "unit_cost": 130.0
+      },
+      {
+        "name": "Kashmiri Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 280.0
+      },
+      {
+        "name": "Cumin Powder",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 240.0
+      },
+      {
+        "name": "Coriander Powder",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 160.0
+      },
+      {
+        "name": "Garam Masala (in-house blend)",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 350.0
+      },
+      {
+        "name": "Chaat Masala",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 200.0
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003,
+        "unit_cost": 150.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.012,
+        "max_qty": 0.018,
+        "unit_cost": 15.0
+      },
+      {
+        "name": "Butter/Ghee (for basting)",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 450.0
+      },
+      {
+        "name": "Besan (Gram Flour - binding)",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 70.0
+      }
+    ],
+    "totals": {
+      "min_qty": 1.455,
+      "max_qty": 1.83,
+      "min_cost": 281.29,
+      "max_cost": 344.96
+    },
+    "cooking_loss": 22
+  },
+  {
+    "id": 12,
+    "name": "Boiled Peanuts fry",
+    "ingredients": [
+      {
+        "name": "Raw Peanuts (shelled)",
+        "unit": "kg",
+        "min_qty": 0.75,
+        "max_qty": 0.9,
+        "unit_cost": 105.0
+      },
+      {
+        "name": "Onion (chopped)",
+        "unit": "kg",
+        "min_qty": 0.15,
+        "max_qty": 0.2,
+        "unit_cost": 30.0
+      },
+      {
+        "name": "Curry Leaves",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 150.0
+      },
+      {
+        "name": "Dried Red Chillies",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 200.0
+      },
+      {
+        "name": "Green Chillies (slit)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Mustard Seeds",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 140.0
+      },
+      {
+        "name": "Urad Dal (for tempering)",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 110.0
+      },
+      {
+        "name": "Chana Dal (for tempering)",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 90.0
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 180.0
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 200.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.012,
+        "max_qty": 0.018,
+        "unit_cost": 15.0
+      },
+      {
+        "name": "Vegetable Oil (for frying/tempering)",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.07,
+        "unit_cost": 110.0
+      },
+      {
+        "name": "Garlic (crushed)",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 80.0
+      },
+      {
+        "name": "Lemon Juice",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 60.0
+      }
+    ],
+    "totals": {
+      "min_qty": 1.039,
+      "max_qty": 1.303,
+      "min_cost": 97.87,
+      "max_cost": 121.99
+    },
+    "cooking_loss": 15
+  },
+  {
+    "id": 13,
+    "name": "Cheese Nuggets",
+    "ingredients": [
+      {
+        "name": "Potato (boiled & mashed)",
+        "unit": "kg",
+        "min_qty": 0.45,
+        "max_qty": 0.55,
+        "unit_cost": 22.0
+      },
+      {
+        "name": "Processed Cheese / Mozzarella",
+        "unit": "kg",
+        "min_qty": 0.18,
+        "max_qty": 0.25,
+        "unit_cost": 340.0
+      },
+      {
+        "name": "Sweet Corn (boiled kernels)",
+        "unit": "kg",
+        "min_qty": 0.06,
+        "max_qty": 0.08,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Capsicum (finely chopped)",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05,
+        "unit_cost": 40.0
+      },
+      {
+        "name": "Carrot (grated)",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05,
+        "unit_cost": 25.0
+      },
+      {
+        "name": "Cornflour (binding + batter)",
+        "unit": "kg",
+        "min_qty": 0.06,
+        "max_qty": 0.08,
+        "unit_cost": 52.0
+      },
+      {
+        "name": "Maida / All-purpose flour (batter)",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06,
+        "unit_cost": 35.0
+      },
+      {
+        "name": "Breadcrumbs (coating)",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12,
+        "unit_cost": 65.0
+      },
+      {
+        "name": "Refined Oil (for deep frying - absorbed)",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.18,
+        "unit_cost": 110.0
+      },
+      {
+        "name": "Green Chilli Paste (in-house)",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Ginger-Garlic Paste (in-house)",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 70.0
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 450.0
+      },
+      {
+        "name": "Oregano / Mixed Herbs",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 400.0
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 180.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 12.0
+      }
+    ],
+    "totals": {
+      "min_qty": 1.084,
+      "max_qty": 1.475,
+      "min_cost": 103.78,
+      "max_cost": 145.99
+    },
+    "cooking_loss": 12
+  },
+  {
+    "id": 14,
+    "name": "Gobi Manchurian",
+    "ingredients": [
+      {
+        "name": "Cauliflower (florets)",
+        "unit": "kg",
+        "min_qty": 0.55,
+        "max_qty": 0.7,
+        "unit_cost": 25.0
+      },
+      {
+        "name": "Cornflour",
+        "unit": "kg",
+        "min_qty": 0.06,
+        "max_qty": 0.08,
+        "unit_cost": 45.0
+      },
+      {
+        "name": "Maida (All Purpose Flour)",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06,
+        "unit_cost": 32.0
+      },
+      {
+        "name": "Ginger (for paste, in-house)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025,
+        "unit_cost": 80.0
+      },
+      {
+        "name": "Garlic (for paste, in-house)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025,
+        "unit_cost": 90.0
+      },
+      {
+        "name": "Green Chilli (for paste, in-house)",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Onion (chopped)",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12,
+        "unit_cost": 25.0
+      },
+      {
+        "name": "Capsicum (chopped)",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05,
+        "unit_cost": 40.0
+      },
+      {
+        "name": "Spring Onion (greens)",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Soy Sauce",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 120.0
+      },
+      {
+        "name": "Red Chilli Sauce / Schezwan Sauce",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025,
+        "unit_cost": 110.0
+      },
+      {
+        "name": "Tomato Ketchup",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025,
+        "unit_cost": 85.0
+      },
+      {
+        "name": "Vinegar",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 40.0
+      },
+      {
+        "name": "Refined Oil (for deep frying, absorbed)",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.18,
+        "unit_cost": 110.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 12.0
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 450.0
+      },
+      {
+        "name": "MSG (Ajinomoto) - optional",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003,
+        "unit_cost": 200.0
+      },
+      {
+        "name": "Cornflour (for gravy slurry)",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 45.0
+      },
+      {
+        "name": "Water (for batter & gravy)",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.15,
+        "unit_cost": 0.5
+      }
+    ],
+    "totals": {
+      "min_qty": 1.123,
+      "max_qty": 1.565,
+      "min_cost": 46.55,
+      "max_cost": 67.57
+    },
+    "cooking_loss": 18
+  },
+  {
+    "id": 15,
+    "name": "Baby Corn Pakoda",
+    "ingredients": [
+      {
+        "name": "Baby Corn",
+        "unit": "kg",
+        "min_qty": 0.55,
+        "max_qty": 0.65,
+        "unit_cost": 90.0
+      },
+      {
+        "name": "Besan (Gram Flour)",
+        "unit": "kg",
+        "min_qty": 0.18,
+        "max_qty": 0.22,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Rice Flour",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06,
+        "unit_cost": 45.0
+      },
+      {
+        "name": "Corn Flour",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06,
+        "unit_cost": 50.0
+      },
+      {
+        "name": "Ginger-Garlic Paste (in-house)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025,
+        "unit_cost": 80.0
+      },
+      {
+        "name": "Green Chilli Paste (in-house)",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 180.0
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 150.0
+      },
+      {
+        "name": "Carom Seeds (Ajwain)",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 200.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 12.0
+      },
+      {
+        "name": "Oil (absorbed during frying)",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.18,
+        "unit_cost": 120.0
+      },
+      {
+        "name": "Coriander Leaves",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 30.0
+      },
+      {
+        "name": "Water (for batter)",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12,
+        "unit_cost": 0.5
+      }
+    ],
+    "totals": {
+      "min_qty": 1.067,
+      "max_qty": 1.379,
+      "min_cost": 83.13,
+      "max_cost": 106.32
+    },
+    "cooking_loss": 15
+  },
+  {
+    "id": 16,
+    "name": "Baby Corn Manchurian",
+    "ingredients": [
+      {
+        "name": "Baby Corn",
+        "unit": "kg",
+        "min_qty": 0.45,
+        "max_qty": 0.55,
+        "unit_cost": 80.0
+      },
+      {
+        "name": "Cornflour (for batter)",
+        "unit": "kg",
+        "min_qty": 0.06,
+        "max_qty": 0.08,
+        "unit_cost": 42.0
+      },
+      {
+        "name": "Maida / All Purpose Flour (for batter)",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.04,
+        "unit_cost": 32.0
+      },
+      {
+        "name": "Rice Flour (for batter)",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.02,
+        "unit_cost": 40.0
+      },
+      {
+        "name": "Onion (chopped)",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.1,
+        "unit_cost": 25.0
+      },
+      {
+        "name": "Capsicum (chopped)",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.07,
+        "unit_cost": 40.0
+      },
+      {
+        "name": "Spring Onion Greens",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Ginger (for in-house paste)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 120.0
+      },
+      {
+        "name": "Garlic (for in-house paste)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 80.0
+      },
+      {
+        "name": "Green Chilli (for in-house paste)",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Soy Sauce",
+        "unit": "kg",
+        "min_qty": 0.025,
+        "max_qty": 0.035,
+        "unit_cost": 90.0
+      },
+      {
+        "name": "Vinegar",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 40.0
+      },
+      {
+        "name": "Tomato Ketchup / Sauce",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 70.0
+      },
+      {
+        "name": "Red Chilli Sauce",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 85.0
+      },
+      {
+        "name": "Cornflour (for sauce slurry)",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 42.0
+      },
+      {
+        "name": "Refined Oil (for deep frying - absorbed)",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.14,
+        "unit_cost": 110.0
+      },
+      {
+        "name": "Refined Oil (for sauce sautéing)",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 110.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 12.0
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 450.0
+      },
+      {
+        "name": "Sugar",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 38.0
+      },
+      {
+        "name": "MSG / Ajinomoto (optional)",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003,
+        "unit_cost": 200.0
+      }
+    ],
+    "totals": {
+      "min_qty": 0.953,
+      "max_qty": 1.253,
+      "min_cost": 69.24,
+      "max_cost": 91.18
+    },
+    "cooking_loss": 18
+  },
+  {
+    "id": 17,
+    "name": "Mushroom Pakoda",
+    "ingredients": [
+      {
+        "name": "Button Mushroom (fresh, sliced)",
+        "unit": "kg",
+        "min_qty": 0.55,
+        "max_qty": 0.7,
+        "unit_cost": 90.0
+      },
+      {
+        "name": "Besan (Gram Flour)",
+        "unit": "kg",
+        "min_qty": 0.25,
+        "max_qty": 0.32,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Rice Flour",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06,
+        "unit_cost": 42.0
+      },
+      {
+        "name": "Oil (absorbed during deep frying)",
+        "unit": "kg",
+        "min_qty": 0.15,
+        "max_qty": 0.2,
+        "unit_cost": 115.0
+      },
+      {
+        "name": "Ginger-Garlic Paste (in-house: ginger ₹80/kg + garlic ₹90/kg + oil ₹115/kg)",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 95.0
+      },
+      {
+        "name": "Green Chilli Paste (in-house: green chillies ₹60/kg + salt)",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 65.0
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 180.0
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 150.0
+      },
+      {
+        "name": "Coriander Powder",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 140.0
+      },
+      {
+        "name": "Garam Masala (in-house: blend of whole spices avg ₹400/kg)",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 400.0
+      },
+      {
+        "name": "Carom Seeds (Ajwain)",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 200.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.012,
+        "max_qty": 0.015,
+        "unit_cost": 12.0
+      },
+      {
+        "name": "Curry Leaves",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 100.0
+      },
+      {
+        "name": "Water (for batter)",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12,
+        "unit_cost": 0.5
+      }
+    ],
+    "totals": {
+      "min_qty": 1.139,
+      "max_qty": 1.503,
+      "min_cost": 91.05,
+      "max_cost": 119.61
+    },
+    "cooking_loss": 12
+  },
+  {
+    "id": 18,
+    "name": "Chilly Garlic Mushroom",
+    "ingredients": [
+      {
+        "name": "Button Mushroom (fresh)",
+        "unit": "kg",
+        "min_qty": 0.55,
+        "max_qty": 0.7,
+        "unit_cost": 90.0
+      },
+      {
+        "name": "Cornflour (for coating)",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06,
+        "unit_cost": 70.0
+      },
+      {
+        "name": "Maida (all-purpose flour, for coating)",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 35.0
+      },
+      {
+        "name": "Garlic (fresh, for in-house paste)",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06,
+        "unit_cost": 100.0
+      },
+      {
+        "name": "Dried Red Chillies (for in-house chilli paste)",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 200.0
+      },
+      {
+        "name": "Green Chillies (fresh)",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Onion (sliced/diced)",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.15,
+        "unit_cost": 25.0
+      },
+      {
+        "name": "Capsicum / Bell Pepper",
+        "unit": "kg",
+        "min_qty": 0.06,
+        "max_qty": 0.08,
+        "unit_cost": 50.0
+      },
+      {
+        "name": "Spring Onion (greens + whites)",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Soy Sauce (in-house or bulk purchased)",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.04,
+        "unit_cost": 80.0
+      },
+      {
+        "name": "Vinegar (white/synthetic)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 30.0
+      },
+      {
+        "name": "Tomato Ketchup (bulk)",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 65.0
+      },
+      {
+        "name": "Red Chilli Sauce (bulk)",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.02,
+        "unit_cost": 70.0
+      },
+      {
+        "name": "Sugar",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01,
+        "unit_cost": 40.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 15.0
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 450.0
+      },
+      {
+        "name": "Cornflour (for sauce slurry)",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 70.0
+      },
+      {
+        "name": "Refined Oil (for frying & sautéing)",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.18,
+        "unit_cost": 110.0
+      },
+      {
+        "name": "Sesame Oil (finishing)",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 280.0
+      },
+      {
+        "name": "Ginger (fresh, for in-house paste)",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 80.0
+      }
+    ],
+    "totals": {
+      "min_qty": 1.096,
+      "max_qty": 1.515,
+      "min_cost": 89.52,
+      "max_cost": 123.17
+    },
+    "cooking_loss": 18
+  },
+  {
+    "id": 19,
+    "name": "Malai Broccoli",
+    "ingredients": [
+      {
+        "name": "Broccoli (florets)",
+        "unit": "kg",
+        "min_qty": 0.55,
+        "max_qty": 0.65,
+        "unit_cost": 80.0
+      },
+      {
+        "name": "Fresh Cream (full fat)",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.15,
+        "unit_cost": 220.0
+      },
+      {
+        "name": "Curd (yogurt)",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.13,
+        "unit_cost": 50.0
+      },
+      {
+        "name": "Cashew Paste (in-house from raw cashews)",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.07,
+        "unit_cost": 700.0
+      },
+      {
+        "name": "Ginger-Garlic Paste (in-house: 50% ginger ₹80/kg + 50% garlic ₹120/kg + oil)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 110.0
+      },
+      {
+        "name": "Refined Oil / Butter",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06,
+        "unit_cost": 150.0
+      },
+      {
+        "name": "Cornflour",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Gram Flour (besan)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025,
+        "unit_cost": 55.0
+      },
+      {
+        "name": "Green Chilli Paste (in-house: green chillies ₹60/kg)",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 65.0
+      },
+      {
+        "name": "Garam Masala (in-house blend: whole spices avg ₹600/kg)",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 600.0
+      },
+      {
+        "name": "Cardamom Powder (in-house ground)",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.004,
+        "unit_cost": 1800.0
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 500.0
+      },
+      {
+        "name": "Red Chilli Powder (Kashmiri)",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 280.0
+      },
+      {
+        "name": "Lemon Juice",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 80.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 15.0
+      },
+      {
+        "name": "Chaat Masala",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 200.0
+      },
+      {
+        "name": "Kasoori Methi (dried fenugreek leaves)",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 350.0
+      }
+    ],
+    "totals": {
+      "min_qty": 0.959,
+      "max_qty": 1.212,
+      "min_cost": 132.69,
+      "max_cost": 176.57
+    },
+    "cooking_loss": 15
+  },
+  {
+    "id": 20,
+    "name": "Hariyali Paneer Tikka",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "unit": "kg",
+        "min_qty": 0.7,
+        "max_qty": 0.85,
+        "unit_cost": 300.0
+      },
+      {
+        "name": "Thick Curd (Yogurt)",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.13,
+        "unit_cost": 55.0
+      },
+      {
+        "name": "Fresh Coriander Leaves",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06,
+        "unit_cost": 35.0
+      },
+      {
+        "name": "Fresh Mint Leaves",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.045,
+        "unit_cost": 50.0
+      },
+      {
+        "name": "Green Chillies",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025,
+        "unit_cost": 50.0
+      },
+      {
+        "name": "Ginger (for in-house paste)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 100.0
+      },
+      {
+        "name": "Garlic (for in-house paste)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 100.0
+      },
+      {
+        "name": "Capsicum / Bell Pepper",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12,
+        "unit_cost": 70.0
+      },
+      {
+        "name": "Onion (for skewers)",
+        "unit": "kg",
+        "min_qty": 0.06,
+        "max_qty": 0.1,
+        "unit_cost": 30.0
+      },
+      {
+        "name": "Besan (Gram Flour - roasted)",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 90.0
+      },
+      {
+        "name": "Mustard Oil / Cooking Oil",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06,
+        "unit_cost": 130.0
+      },
+      {
+        "name": "Lemon Juice",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025,
+        "unit_cost": 100.0
+      },
+      {
+        "name": "Chaat Masala (in-house: dry mango, cumin, black salt, etc.)",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 350.0
+      },
+      {
+        "name": "Garam Masala (in-house: cardamom, cloves, cinnamon, etc.)",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 450.0
+      },
+      {
+        "name": "Kasuri Methi (Dried Fenugreek Leaves)",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 300.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 15.0
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 200.0
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003,
+        "unit_cost": 150.0
+      }
+    ],
+    "totals": {
+      "min_qty": 1.154,
+      "max_qty": 1.523,
+      "min_cost": 243.07,
+      "max_cost": 304.33
+    },
+    "cooking_loss": 18
+  },
+  {
+    "id": 21,
+    "name": "Malai Paneer Tikka",
+    "ingredients": [
+      {
+        "name": "Paneer (cottage cheese)",
+        "unit": "kg",
+        "min_qty": 0.55,
+        "max_qty": 0.65,
+        "unit_cost": 300.0
+      },
+      {
+        "name": "Fresh Cream",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.1,
+        "unit_cost": 250.0
+      },
+      {
+        "name": "Hung Curd (Yogurt)",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.1,
+        "unit_cost": 50.0
+      },
+      {
+        "name": "Cashew Paste (raw cashew cost)",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.04,
+        "unit_cost": 750.0
+      },
+      {
+        "name": "Processed Cheese",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 350.0
+      },
+      {
+        "name": "Capsicum (Bell Peppers - mixed)",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.15,
+        "unit_cost": 50.0
+      },
+      {
+        "name": "Onion (cubed for skewers)",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.12,
+        "unit_cost": 25.0
+      },
+      {
+        "name": "Ginger-Garlic Paste (in-house: ginger ₹120/kg + garlic ₹100/kg)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 110.0
+      },
+      {
+        "name": "Green Chilli Paste (in-house)",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Lemon Juice",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 80.0
+      },
+      {
+        "name": "White Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 600.0
+      },
+      {
+        "name": "Cardamom Powder (in-house ground)",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003,
+        "unit_cost": 2000.0
+      },
+      {
+        "name": "Mace Powder (Javitri)",
+        "unit": "kg",
+        "min_qty": 0.001,
+        "max_qty": 0.002,
+        "unit_cost": 2500.0
+      },
+      {
+        "name": "Nutmeg Powder (Jaiphal)",
+        "unit": "kg",
+        "min_qty": 0.001,
+        "max_qty": 0.002,
+        "unit_cost": 1800.0
+      },
+      {
+        "name": "Chaat Masala",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 250.0
+      },
+      {
+        "name": "Kasuri Methi (dried fenugreek leaves)",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 400.0
+      },
+      {
+        "name": "Saffron (Kesar)",
+        "unit": "kg",
+        "min_qty": 0.0001,
+        "max_qty": 0.0002,
+        "unit_cost": 350000.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.012,
+        "unit_cost": 15.0
+      },
+      {
+        "name": "Refined Oil / Butter (for basting)",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.05,
+        "unit_cost": 150.0
+      },
+      {
+        "name": "Cornflour (binding agent)",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 55.0
+      },
+      {
+        "name": "Food Colour (orange/yellow - optional)",
+        "unit": "kg",
+        "min_qty": 0.0005,
+        "max_qty": 0.001,
+        "unit_cost": 500.0
+      }
+    ],
+    "totals": {
+      "min_qty": 1.0836,
+      "max_qty": 1.3352,
+      "min_cost": 283.75,
+      "max_cost": 379.85
+    },
+    "cooking_loss": 20
+  },
+  {
+    "id": 22,
+    "name": "Achari Paneer Tikka",
+    "ingredients": [
+      {
+        "name": "Paneer (fresh block)",
+        "unit": "kg",
+        "min_qty": 0.55,
+        "max_qty": 0.65,
+        "unit_cost": 280.0
+      },
+      {
+        "name": "Capsicum (green bell pepper)",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.15,
+        "unit_cost": 40.0
+      },
+      {
+        "name": "Onion (for skewering)",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12,
+        "unit_cost": 28.0
+      },
+      {
+        "name": "Colored bell pepper (red/yellow)",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.08,
+        "unit_cost": 80.0
+      },
+      {
+        "name": "Thick curd (hung yogurt)",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.15,
+        "unit_cost": 50.0
+      },
+      {
+        "name": "Mustard oil",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05,
+        "unit_cost": 180.0
+      },
+      {
+        "name": "Ginger-garlic paste (in-house: ginger ₹80/kg + garlic ₹120/kg + oil)",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 110.0
+      },
+      {
+        "name": "Red chilli powder (Kashmiri)",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 280.0
+      },
+      {
+        "name": "Turmeric powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 160.0
+      },
+      {
+        "name": "Fennel seeds (saunf)",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 200.0
+      },
+      {
+        "name": "Nigella seeds (kalonji)",
+        "unit": "kg",
+        "min_qty": 0.004,
+        "max_qty": 0.006,
+        "unit_cost": 220.0
+      },
+      {
+        "name": "Mustard seeds (rai)",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 120.0
+      },
+      {
+        "name": "Fenugreek seeds (methi dana)",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.004,
+        "unit_cost": 150.0
+      },
+      {
+        "name": "Cumin seeds (jeera)",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 320.0
+      },
+      {
+        "name": "Lemon juice (fresh)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Chaat masala (in-house: amchur, cumin, black salt, etc.)",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 250.0
+      },
+      {
+        "name": "Gram flour (besan - for binding marinade)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025,
+        "unit_cost": 70.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 15.0
+      },
+      {
+        "name": "Cooking oil (for grilling/basting)",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 130.0
+      }
+    ],
+    "totals": {
+      "min_qty": 1.021,
+      "max_qty": 1.375,
+      "min_cost": 188.98,
+      "max_cost": 236.77
+    },
+    "cooking_loss": 18
+  },
+  {
+    "id": 23,
+    "name": "Paneer Tikka",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "unit": "kg",
+        "min_qty": 0.55,
+        "max_qty": 0.65,
+        "unit_cost": 300.0
+      },
+      {
+        "name": "Capsicum (Bell Pepper)",
+        "unit": "kg",
+        "min_qty": 0.15,
+        "max_qty": 0.2,
+        "unit_cost": 50.0
+      },
+      {
+        "name": "Onion",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.18,
+        "unit_cost": 30.0
+      },
+      {
+        "name": "Tomato (for skewers)",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.08,
+        "unit_cost": 30.0
+      },
+      {
+        "name": "Curd / Yogurt (thick)",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.15,
+        "unit_cost": 55.0
+      },
+      {
+        "name": "Ginger-Garlic Paste (in-house: ginger ₹140/kg, garlic ₹100/kg, avg ₹120/kg)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025,
+        "unit_cost": 120.0
+      },
+      {
+        "name": "Mustard Oil / Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.04,
+        "unit_cost": 130.0
+      },
+      {
+        "name": "Lemon Juice",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 70.0
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 220.0
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 180.0
+      },
+      {
+        "name": "Cumin Powder",
+        "unit": "kg",
+        "min_qty": 0.004,
+        "max_qty": 0.006,
+        "unit_cost": 280.0
+      },
+      {
+        "name": "Coriander Powder",
+        "unit": "kg",
+        "min_qty": 0.004,
+        "max_qty": 0.006,
+        "unit_cost": 200.0
+      },
+      {
+        "name": "Garam Masala (in-house: blend of whole spices avg ₹350/kg)",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 350.0
+      },
+      {
+        "name": "Kasuri Methi (Dried Fenugreek Leaves)",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003,
+        "unit_cost": 300.0
+      },
+      {
+        "name": "Chaat Masala",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 250.0
+      },
+      {
+        "name": "Besan (Gram Flour)",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 65.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 15.0
+      },
+      {
+        "name": "Butter (for basting)",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 450.0
+      }
+    ],
+    "totals": {
+      "min_qty": 1.11,
+      "max_qty": 1.439,
+      "min_cost": 206.99,
+      "max_cost": 255.27
+    },
+    "cooking_loss": 20
+  },
+  {
+    "id": 24,
+    "name": "Paneer Manchurian",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "unit": "kg",
+        "min_qty": 0.45,
+        "max_qty": 0.55,
+        "unit_cost": 300.0
+      },
+      {
+        "name": "Cornflour (for batter)",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06,
+        "unit_cost": 50.0
+      },
+      {
+        "name": "Maida (for batter)",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 32.0
+      },
+      {
+        "name": "Refined Oil (for deep frying - absorbed)",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12,
+        "unit_cost": 120.0
+      },
+      {
+        "name": "Onion (chopped)",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.15,
+        "unit_cost": 25.0
+      },
+      {
+        "name": "Capsicum (diced)",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.1,
+        "unit_cost": 50.0
+      },
+      {
+        "name": "Spring Onion (chopped)",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05,
+        "unit_cost": 50.0
+      },
+      {
+        "name": "Ginger (fresh, for in-house paste)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 100.0
+      },
+      {
+        "name": "Garlic (fresh, for in-house paste)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 100.0
+      },
+      {
+        "name": "Green Chilli (chopped)",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 50.0
+      },
+      {
+        "name": "Soy Sauce (bulk)",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.04,
+        "unit_cost": 90.0
+      },
+      {
+        "name": "Chilli Sauce (bulk)",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 80.0
+      },
+      {
+        "name": "Tomato Ketchup (bulk)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025,
+        "unit_cost": 75.0
+      },
+      {
+        "name": "Vinegar",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 35.0
+      },
+      {
+        "name": "Cornflour (for sauce slurry)",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 50.0
+      },
+      {
+        "name": "Sugar",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 40.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 12.0
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003,
+        "unit_cost": 500.0
+      },
+      {
+        "name": "MSG (Ajinomoto - optional)",
+        "unit": "kg",
+        "min_qty": 0.001,
+        "max_qty": 0.002,
+        "unit_cost": 200.0
+      },
+      {
+        "name": "Water (for sauce)",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.08,
+        "unit_cost": 0.5
+      }
+    ],
+    "totals": {
+      "min_qty": 1.011,
+      "max_qty": 1.345,
+      "min_cost": 167.04,
+      "max_cost": 210.92
+    },
+    "cooking_loss": 15
+  },
+  {
+    "id": 25,
+    "name": "Paneer 65",
+    "ingredients": [
+      {
+        "name": "Paneer (fresh)",
+        "unit": "kg",
+        "min_qty": 0.55,
+        "max_qty": 0.65,
+        "unit_cost": 300.0
+      },
+      {
+        "name": "Refined Oil (for deep frying, net absorbed)",
+        "unit": "kg",
+        "min_qty": 0.15,
+        "max_qty": 0.2,
+        "unit_cost": 120.0
+      },
+      {
+        "name": "Cornflour",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06,
+        "unit_cost": 55.0
+      },
+      {
+        "name": "Rice Flour",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05,
+        "unit_cost": 45.0
+      },
+      {
+        "name": "Maida (All Purpose Flour)",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.04,
+        "unit_cost": 32.0
+      },
+      {
+        "name": "Curd (Yogurt)",
+        "unit": "kg",
+        "min_qty": 0.06,
+        "max_qty": 0.08,
+        "unit_cost": 55.0
+      },
+      {
+        "name": "Ginger-Garlic Paste (in-house)",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 90.0
+      },
+      {
+        "name": "Kashmiri Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 280.0
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 220.0
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 150.0
+      },
+      {
+        "name": "Garam Masala (in-house)",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 350.0
+      },
+      {
+        "name": "Curry Leaves",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 120.0
+      },
+      {
+        "name": "Green Chillies",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025,
+        "unit_cost": 50.0
+      },
+      {
+        "name": "Garlic (sliced for tempering)",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 100.0
+      },
+      {
+        "name": "Onion (sliced)",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.07,
+        "unit_cost": 25.0
+      },
+      {
+        "name": "Lemon Juice",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 70.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 12.0
+      },
+      {
+        "name": "Food Colour (orange/red, optional)",
+        "unit": "kg",
+        "min_qty": 0.001,
+        "max_qty": 0.002,
+        "unit_cost": 500.0
+      }
+    ],
+    "totals": {
+      "min_qty": 1.006,
+      "max_qty": 1.296,
+      "min_cost": 203.06,
+      "max_cost": 249.03
+    },
+    "cooking_loss": 15
+  },
+  {
+    "id": 26,
+    "name": "Boiled Egg",
+    "ingredients": [
+      {
+        "name": "Whole Eggs (with shell)",
+        "unit": "kg",
+        "min_qty": 1.1,
+        "max_qty": 1.25,
+        "unit_cost": 96.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01,
+        "unit_cost": 15.0
+      },
+      {
+        "name": "Water (for boiling)",
+        "unit": "kg",
+        "min_qty": 1.5,
+        "max_qty": 2.0,
+        "unit_cost": 0.5
+      }
+    ],
+    "totals": {
+      "min_qty": 2.605,
+      "max_qty": 3.26,
+      "min_cost": 106.42,
+      "max_cost": 121.15
+    },
+    "cooking_loss": 12
+  },
+  {
+    "id": 27,
+    "name": "Chilli Egg",
+    "ingredients": [
+      {
+        "name": "Eggs (boiled, halved)",
+        "unit": "kg",
+        "min_qty": 0.55,
+        "max_qty": 0.65,
+        "unit_cost": 95.0
+      },
+      {
+        "name": "Refined Oil (for deep frying + sauteing)",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.15,
+        "unit_cost": 120.0
+      },
+      {
+        "name": "Cornflour (for batter)",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06,
+        "unit_cost": 55.0
+      },
+      {
+        "name": "Maida / Plain Flour (for batter)",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05,
+        "unit_cost": 32.0
+      },
+      {
+        "name": "Onion (sliced)",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.13,
+        "unit_cost": 25.0
+      },
+      {
+        "name": "Capsicum / Bell Pepper (cubed)",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.1,
+        "unit_cost": 50.0
+      },
+      {
+        "name": "Ginger (fresh, chopped - for paste/garnish)",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 100.0
+      },
+      {
+        "name": "Garlic (fresh, chopped)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 100.0
+      },
+      {
+        "name": "Green Chilli (slit)",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 50.0
+      },
+      {
+        "name": "Spring Onion (chopped)",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 50.0
+      },
+      {
+        "name": "Soy Sauce",
+        "unit": "kg",
+        "min_qty": 0.025,
+        "max_qty": 0.035,
+        "unit_cost": 90.0
+      },
+      {
+        "name": "Red Chilli Sauce",
+        "unit": "kg",
+        "min_qty": 0.025,
+        "max_qty": 0.035,
+        "unit_cost": 80.0
+      },
+      {
+        "name": "Tomato Ketchup/Sauce",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 70.0
+      },
+      {
+        "name": "Vinegar",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 35.0
+      },
+      {
+        "name": "Cornflour (for sauce thickening slurry)",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 55.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 12.0
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003,
+        "unit_cost": 600.0
+      },
+      {
+        "name": "Sugar",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 40.0
+      },
+      {
+        "name": "Kashmiri Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 250.0
+      }
+    ],
+    "totals": {
+      "min_qty": 1.081,
+      "max_qty": 1.375,
+      "min_cost": 89.0,
+      "max_cost": 111.4
+    },
+    "cooking_loss": 15
+  },
+  {
+    "id": 28,
+    "name": "Chicken Malai Tikka",
+    "ingredients": [
+      {
+        "name": "Boneless Chicken (thigh/breast)",
+        "unit": "kg",
+        "min_qty": 0.85,
+        "max_qty": 1.0,
+        "unit_cost": 230.0
+      },
+      {
+        "name": "Yogurt (hung curd)",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12,
+        "unit_cost": 55.0
+      },
+      {
+        "name": "Fresh Cream",
+        "unit": "kg",
+        "min_qty": 0.06,
+        "max_qty": 0.08,
+        "unit_cost": 220.0
+      },
+      {
+        "name": "Cream Cheese / Processed Cheese",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06,
+        "unit_cost": 300.0
+      },
+      {
+        "name": "Ginger-Garlic Paste (in-house)",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.04,
+        "unit_cost": 80.0
+      },
+      {
+        "name": "Green Chilli Paste (in-house)",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Lemon Juice",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 80.0
+      },
+      {
+        "name": "Cornflour",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 55.0
+      },
+      {
+        "name": "Mustard Oil / Cooking Oil",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06,
+        "unit_cost": 130.0
+      },
+      {
+        "name": "White Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 650.0
+      },
+      {
+        "name": "Green Cardamom Powder",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003,
+        "unit_cost": 2200.0
+      },
+      {
+        "name": "Mace (Javitri) Powder",
+        "unit": "kg",
+        "min_qty": 0.001,
+        "max_qty": 0.002,
+        "unit_cost": 2800.0
+      },
+      {
+        "name": "Kasuri Methi (Dried Fenugreek Leaves)",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 400.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 15.0
+      },
+      {
+        "name": "Chat Masala",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 200.0
+      }
+    ],
+    "totals": {
+      "min_qty": 1.162,
+      "max_qty": 1.45,
+      "min_cost": 246.42,
+      "max_cost": 305.47
+    },
+    "cooking_loss": 22
+  },
+  {
+    "id": 29,
+    "name": "Chicken Joojeh Kebab",
+    "ingredients": [
+      {
+        "name": "Chicken Boneless (thigh/breast)",
+        "unit": "kg",
+        "min_qty": 0.95,
+        "max_qty": 1.15,
+        "unit_cost": 220.0
+      },
+      {
+        "name": "Yogurt (curd)",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12,
+        "unit_cost": 55.0
+      },
+      {
+        "name": "Onion (for marinade)",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12,
+        "unit_cost": 28.0
+      },
+      {
+        "name": "Lemon Juice",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Saffron (Kesar)",
+        "unit": "kg",
+        "min_qty": 0.0003,
+        "max_qty": 0.0005,
+        "unit_cost": 250000.0
+      },
+      {
+        "name": "Refined Oil / Butter (for basting)",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.08,
+        "unit_cost": 110.0
+      },
+      {
+        "name": "Ginger-Garlic Paste (in-house)",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.035,
+        "unit_cost": 80.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 18.0
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 450.0
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.004,
+        "unit_cost": 150.0
+      },
+      {
+        "name": "Red Chilli Powder (Kashmiri)",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 280.0
+      },
+      {
+        "name": "Capsicum (Bell Pepper - for skewering)",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.08,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Tomato (for skewering/garnish)",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06,
+        "unit_cost": 25.0
+      },
+      {
+        "name": "Charcoal/Fuel (for tandoor/grill - apportioned)",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.08,
+        "unit_cost": 30.0
+      }
+    ],
+    "totals": {
+      "min_qty": 1.3783,
+      "max_qty": 1.8145,
+      "min_cost": 308.31,
+      "max_cost": 416.38
+    },
+    "cooking_loss": 22
+  },
+  {
+    "id": 30,
+    "name": "Chicken Lollipop Pakoda",
+    "ingredients": [
+      {
+        "name": "Chicken Winglets/Drumettes (frenched into lollipop)",
+        "unit": "kg",
+        "min_qty": 0.75,
+        "max_qty": 0.9,
+        "unit_cost": 150.0
+      },
+      {
+        "name": "Gram Flour (Besan)",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.1,
+        "unit_cost": 55.0
+      },
+      {
+        "name": "Cornflour",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.07,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Rice Flour",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 45.0
+      },
+      {
+        "name": "Ginger-Garlic Paste (in-house: ginger ₹80/kg, garlic ₹90/kg, avg ₹85/kg)",
+        "unit": "kg",
+        "min_qty": 0.025,
+        "max_qty": 0.035,
+        "unit_cost": 85.0
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 180.0
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 450.0
+      },
+      {
+        "name": "Garam Masala (in-house: cinnamon, cloves, cardamom, cumin, coriander avg)",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 350.0
+      },
+      {
+        "name": "Lemon Juice",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 12.0
+      },
+      {
+        "name": "Food Colour (Orange/Red)",
+        "unit": "kg",
+        "min_qty": 0.001,
+        "max_qty": 0.002,
+        "unit_cost": 600.0
+      },
+      {
+        "name": "Egg (for batter binding)",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.06,
+        "unit_cost": 130.0
+      },
+      {
+        "name": "Refined Oil (for deep frying - absorbed)",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.15,
+        "unit_cost": 110.0
+      },
+      {
+        "name": "Kashmiri Chilli Powder (for colour)",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 250.0
+      },
+      {
+        "name": "Ajinomoto (MSG - optional)",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003,
+        "unit_cost": 200.0
+      }
+    ],
+    "totals": {
+      "min_qty": 1.12,
+      "max_qty": 1.412,
+      "min_cost": 147.03,
+      "max_cost": 183.92
+    },
+    "cooking_loss": 15
+  },
+  {
+    "id": 31,
+    "name": "Chilly Chicken Lollipop",
+    "ingredients": [
+      {
+        "name": "Chicken Winglets (Lollipop cut)",
+        "unit": "kg",
+        "min_qty": 0.75,
+        "max_qty": 0.9,
+        "unit_cost": 180.0
+      },
+      {
+        "name": "Refined Oil (for deep frying, absorbed)",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.15,
+        "unit_cost": 110.0
+      },
+      {
+        "name": "Cornflour",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Maida (All Purpose Flour)",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.04,
+        "unit_cost": 35.0
+      },
+      {
+        "name": "Egg",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.06,
+        "unit_cost": 130.0
+      },
+      {
+        "name": "Ginger (for in-house paste)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 80.0
+      },
+      {
+        "name": "Garlic (for in-house paste)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Green Chilli",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 40.0
+      },
+      {
+        "name": "Dry Red Chilli (Kashmiri)",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 200.0
+      },
+      {
+        "name": "Onion",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.1,
+        "unit_cost": 25.0
+      },
+      {
+        "name": "Capsicum",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.07,
+        "unit_cost": 40.0
+      },
+      {
+        "name": "Spring Onion",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Soy Sauce",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 90.0
+      },
+      {
+        "name": "Red Chilli Sauce",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 80.0
+      },
+      {
+        "name": "Tomato Ketchup",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 70.0
+      },
+      {
+        "name": "Vinegar",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.01,
+        "unit_cost": 40.0
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 500.0
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 180.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 12.0
+      },
+      {
+        "name": "Sugar",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 40.0
+      },
+      {
+        "name": "MSG (Ajinomoto)",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003,
+        "unit_cost": 200.0
+      }
+    ],
+    "totals": {
+      "min_qty": 1.271,
+      "max_qty": 1.591,
+      "min_cost": 174.69,
+      "max_cost": 214.64
+    },
+    "cooking_loss": 18
+  },
+  {
+    "id": 32,
+    "name": "Chicken Manchurian",
+    "ingredients": [
+      {
+        "name": "Boneless Chicken",
+        "unit": "kg",
+        "min_qty": 0.45,
+        "max_qty": 0.55,
+        "unit_cost": 220.0
+      },
+      {
+        "name": "Cornflour (for coating)",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06,
+        "unit_cost": 55.0
+      },
+      {
+        "name": "Maida / All Purpose Flour (for coating)",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05,
+        "unit_cost": 35.0
+      },
+      {
+        "name": "Eggs (for batter)",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.06,
+        "unit_cost": 130.0
+      },
+      {
+        "name": "Onion (chopped)",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.15,
+        "unit_cost": 25.0
+      },
+      {
+        "name": "Green Capsicum (chopped)",
+        "unit": "kg",
+        "min_qty": 0.06,
+        "max_qty": 0.08,
+        "unit_cost": 40.0
+      },
+      {
+        "name": "Spring Onion Greens",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Ginger (for in-house paste)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 120.0
+      },
+      {
+        "name": "Garlic (for in-house paste)",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 100.0
+      },
+      {
+        "name": "Green Chilli (for in-house paste)",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Soy Sauce",
+        "unit": "kg",
+        "min_qty": 0.025,
+        "max_qty": 0.035,
+        "unit_cost": 80.0
+      },
+      {
+        "name": "Vinegar",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 40.0
+      },
+      {
+        "name": "Red Chilli Sauce",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 75.0
+      },
+      {
+        "name": "Tomato Ketchup",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 70.0
+      },
+      {
+        "name": "Cornflour (for sauce slurry)",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 55.0
+      },
+      {
+        "name": "Sugar (brown/white)",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01,
+        "unit_cost": 40.0
+      },
+      {
+        "name": "Black Pepper Powder (in-house ground)",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 550.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 12.0
+      },
+      {
+        "name": "Refined Oil (for deep frying, absorbed portion)",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12,
+        "unit_cost": 110.0
+      },
+      {
+        "name": "Refined Oil (for sauce sautéing)",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 110.0
+      },
+      {
+        "name": "Water (for gravy/slurry)",
+        "unit": "kg",
+        "min_qty": 0.15,
+        "max_qty": 0.2,
+        "unit_cost": 0.5
+      }
+    ],
+    "totals": {
+      "min_qty": 1.151,
+      "max_qty": 1.552,
+      "min_cost": 138.32,
+      "max_cost": 177.56
+    },
+    "cooking_loss": 18
+  },
+  {
+    "id": 33,
+    "name": "Andhra Kodi Vepudu (Bone)",
+    "ingredients": [
+      {
+        "name": "Chicken with bone (curry cut)",
+        "unit": "kg",
+        "min_qty": 0.85,
+        "max_qty": 1.0,
+        "unit_cost": 150.0
+      },
+      {
+        "name": "Onions (sliced)",
+        "unit": "kg",
+        "min_qty": 0.15,
+        "max_qty": 0.2,
+        "unit_cost": 28.0
+      },
+      {
+        "name": "Oil (sunflower/refined)",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.1,
+        "unit_cost": 110.0
+      },
+      {
+        "name": "Ginger-garlic paste (in-house)",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.04,
+        "unit_cost": 95.0
+      },
+      {
+        "name": "Green chillies",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 50.0
+      },
+      {
+        "name": "Curry leaves",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 150.0
+      },
+      {
+        "name": "Red chilli powder (Guntur)",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 200.0
+      },
+      {
+        "name": "Turmeric powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 180.0
+      },
+      {
+        "name": "Coriander powder",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 140.0
+      },
+      {
+        "name": "Cumin powder",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 220.0
+      },
+      {
+        "name": "Black pepper powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 550.0
+      },
+      {
+        "name": "Garam masala (in-house)",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 350.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.012,
+        "max_qty": 0.015,
+        "unit_cost": 12.0
+      },
+      {
+        "name": "Lemon juice",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Coriander leaves (garnish)",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 40.0
+      }
+    ],
+    "totals": {
+      "min_qty": 1.208,
+      "max_qty": 1.484,
+      "min_cost": 156.43,
+      "max_cost": 190.59
+    },
+    "cooking_loss": 18
+  },
+  {
+    "id": 34,
+    "name": "Andhra Pepper Chicken (Oil Fry)",
+    "ingredients": [
+      {
+        "name": "Chicken with bone (cut pieces)",
+        "unit": "kg",
+        "min_qty": 0.75,
+        "max_qty": 0.9,
+        "unit_cost": 150.0
+      },
+      {
+        "name": "Onion (sliced)",
+        "unit": "kg",
+        "min_qty": 0.15,
+        "max_qty": 0.2,
+        "unit_cost": 28.0
+      },
+      {
+        "name": "Cooking oil (for deep/shallow fry)",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.18,
+        "unit_cost": 120.0
+      },
+      {
+        "name": "Black pepper (whole, crushed in-house)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025,
+        "unit_cost": 600.0
+      },
+      {
+        "name": "Ginger (for in-house paste)",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 80.0
+      },
+      {
+        "name": "Garlic (for in-house paste)",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 90.0
+      },
+      {
+        "name": "Green chillies",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025,
+        "unit_cost": 40.0
+      },
+      {
+        "name": "Curry leaves",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01,
+        "unit_cost": 100.0
+      },
+      {
+        "name": "Red chilli powder (in-house ground dry red chilli)",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 180.0
+      },
+      {
+        "name": "Turmeric powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 150.0
+      },
+      {
+        "name": "Cumin seeds",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 280.0
+      },
+      {
+        "name": "Cinnamon stick",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 550.0
+      },
+      {
+        "name": "Cloves",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.004,
+        "unit_cost": 900.0
+      },
+      {
+        "name": "Lemon juice",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.02,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 12.0
+      },
+      {
+        "name": "Coriander leaves (garnish)",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01,
+        "unit_cost": 60.0
+      }
+    ],
+    "totals": {
+      "min_qty": 1.143,
+      "max_qty": 1.482,
+      "min_cost": 152.72,
+      "max_cost": 198.32
+    },
+    "cooking_loss": 20
+  },
+  {
+    "id": 35,
+    "name": "Kaju Chicken Pakoda",
+    "ingredients": [
+      {
+        "name": "Boneless Chicken (thigh/breast, cut into pieces)",
+        "unit": "kg",
+        "min_qty": 0.5,
+        "max_qty": 0.6,
+        "unit_cost": 230.0
+      },
+      {
+        "name": "Cashew Nuts (broken/split, W450 grade)",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12,
+        "unit_cost": 750.0
+      },
+      {
+        "name": "Gram Flour (Besan)",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.15,
+        "unit_cost": 75.0
+      },
+      {
+        "name": "Rice Flour",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05,
+        "unit_cost": 48.0
+      },
+      {
+        "name": "Corn Flour",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 55.0
+      },
+      {
+        "name": "Ginger-Garlic Paste (in-house: ginger ₹80/kg, garlic ₹100/kg, blended)",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 95.0
+      },
+      {
+        "name": "Green Chilli Paste (in-house: green chillies ₹60/kg)",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 65.0
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 200.0
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 160.0
+      },
+      {
+        "name": "Coriander Powder",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 140.0
+      },
+      {
+        "name": "Garam Masala (in-house blend: clove, cardamom, cinnamon, pepper, etc.)",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 450.0
+      },
+      {
+        "name": "Chat Masala",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 250.0
+      },
+      {
+        "name": "Curry Leaves (fresh)",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 100.0
+      },
+      {
+        "name": "Curd/Yogurt (for marinade)",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06,
+        "unit_cost": 50.0
+      },
+      {
+        "name": "Egg (for batter binding)",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.06,
+        "unit_cost": 130.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.012,
+        "max_qty": 0.015,
+        "unit_cost": 15.0
+      },
+      {
+        "name": "Cooking Oil (net absorption during deep frying)",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.18,
+        "unit_cost": 115.0
+      },
+      {
+        "name": "Lemon Juice",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Fresh Coriander Leaves (garnish)",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 60.0
+      }
+    ],
+    "totals": {
+      "min_qty": 1.046,
+      "max_qty": 1.379,
+      "min_cost": 218.75,
+      "max_cost": 290.19
+    },
+    "cooking_loss": 12
+  },
+  {
+    "id": 36,
+    "name": "Fish Pakoda",
+    "ingredients": [
+      {
+        "name": "Fish Fillets (Basa/Boneless)",
+        "unit": "kg",
+        "min_qty": 0.65,
+        "max_qty": 0.75,
+        "unit_cost": 170.0
+      },
+      {
+        "name": "Gram Flour (Besan)",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.15,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Rice Flour",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06,
+        "unit_cost": 42.0
+      },
+      {
+        "name": "Corn Flour",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 55.0
+      },
+      {
+        "name": "Ginger-Garlic Paste (in-house: ginger ₹80/kg + garlic ₹90/kg + oil)",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 95.0
+      },
+      {
+        "name": "Lemon Juice",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Red Chilli Powder (Kashmiri)",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 200.0
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 150.0
+      },
+      {
+        "name": "Carom Seeds (Ajwain)",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 180.0
+      },
+      {
+        "name": "Garam Masala (in-house blend)",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 350.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 12.0
+      },
+      {
+        "name": "Egg",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.06,
+        "unit_cost": 72.0
+      },
+      {
+        "name": "Refined Oil (absorbed during frying)",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.13,
+        "unit_cost": 115.0
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003,
+        "unit_cost": 550.0
+      },
+      {
+        "name": "Chaat Masala",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 220.0
+      }
+    ],
+    "totals": {
+      "min_qty": 1.047,
+      "max_qty": 1.28,
+      "min_cost": 143.9,
+      "max_cost": 172.72
+    },
+    "cooking_loss": 12
+  },
+  {
+    "id": 37,
+    "name": "Chilly Apollo Fish",
+    "ingredients": [
+      {
+        "name": "Basa Fish (boneless fillets)",
+        "unit": "kg",
+        "min_qty": 0.55,
+        "max_qty": 0.65,
+        "unit_cost": 200.0
+      },
+      {
+        "name": "Refined Oil (for deep frying - absorbed)",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.15,
+        "unit_cost": 110.0
+      },
+      {
+        "name": "Cornflour",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06,
+        "unit_cost": 55.0
+      },
+      {
+        "name": "Maida (All-purpose flour)",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05,
+        "unit_cost": 35.0
+      },
+      {
+        "name": "Egg",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.06,
+        "unit_cost": 130.0
+      },
+      {
+        "name": "Onion (sliced)",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.12,
+        "unit_cost": 25.0
+      },
+      {
+        "name": "Capsicum (Bell Pepper)",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.07,
+        "unit_cost": 40.0
+      },
+      {
+        "name": "Green Chillies",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Ginger-Garlic Paste (in-house: ginger ₹80/kg, garlic ₹100/kg, avg ₹90/kg)",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 90.0
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 180.0
+      },
+      {
+        "name": "Kashmiri Red Chilli Powder (for colour)",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 220.0
+      },
+      {
+        "name": "Soy Sauce",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 90.0
+      },
+      {
+        "name": "Tomato Ketchup / Chilli Sauce",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 80.0
+      },
+      {
+        "name": "Curry Leaves",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 150.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 12.0
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 150.0
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 400.0
+      },
+      {
+        "name": "Lemon Juice",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 80.0
+      },
+      {
+        "name": "Sesame Oil (for tossing sauce)",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 200.0
+      }
+    ],
+    "totals": {
+      "min_qty": 1.069,
+      "max_qty": 1.353,
+      "min_cost": 151.6,
+      "max_cost": 186.6
+    },
+    "cooking_loss": 15
+  },
+  {
+    "id": 38,
+    "name": "Prawns Vepudu",
+    "ingredients": [
+      {
+        "name": "Prawns (medium, cleaned & deveined)",
+        "unit": "kg",
+        "min_qty": 0.65,
+        "max_qty": 0.75,
+        "unit_cost": 380.0
+      },
+      {
+        "name": "Onions (finely sliced)",
+        "unit": "kg",
+        "min_qty": 0.18,
+        "max_qty": 0.25,
+        "unit_cost": 28.0
+      },
+      {
+        "name": "Tomatoes (chopped)",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12,
+        "unit_cost": 30.0
+      },
+      {
+        "name": "Oil (refined sunflower)",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.1,
+        "unit_cost": 110.0
+      },
+      {
+        "name": "Ginger-Garlic Paste (in-house: ginger ₹80/kg, garlic ₹120/kg, avg ₹100/kg)",
+        "unit": "kg",
+        "min_qty": 0.025,
+        "max_qty": 0.035,
+        "unit_cost": 100.0
+      },
+      {
+        "name": "Red Chilli Powder (Guntur, in-house ground: dry red chilli ₹180/kg)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 180.0
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.004,
+        "max_qty": 0.006,
+        "unit_cost": 150.0
+      },
+      {
+        "name": "Fennel Powder (in-house ground: fennel seeds ₹200/kg)",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 200.0
+      },
+      {
+        "name": "Cumin Powder (in-house ground: cumin seeds ₹280/kg)",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 280.0
+      },
+      {
+        "name": "Coriander Powder (in-house ground: coriander seeds ₹90/kg)",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 90.0
+      },
+      {
+        "name": "Curry Leaves",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 100.0
+      },
+      {
+        "name": "Green Chillies (slit)",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 50.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 12.0
+      },
+      {
+        "name": "Mustard Seeds",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 120.0
+      },
+      {
+        "name": "Lemon Juice",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Fresh Coriander Leaves (garnish)",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 40.0
+      }
+    ],
+    "totals": {
+      "min_qty": 1.093,
+      "max_qty": 1.372,
+      "min_cost": 273.73,
+      "max_cost": 322.03
+    },
+    "cooking_loss": 18
+  },
+  {
+    "id": 39,
+    "name": "Chilly Prawns",
+    "ingredients": [
+      {
+        "name": "Prawns (medium, cleaned/deveined)",
+        "unit": "kg",
+        "min_qty": 0.55,
+        "max_qty": 0.65,
+        "unit_cost": 400.0
+      },
+      {
+        "name": "Onion (sliced/cubed)",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.14,
+        "unit_cost": 28.0
+      },
+      {
+        "name": "Capsicum (green bell pepper, cubed)",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12,
+        "unit_cost": 40.0
+      },
+      {
+        "name": "Cornflour (for batter coating)",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06,
+        "unit_cost": 55.0
+      },
+      {
+        "name": "Maida (all-purpose flour, for batter)",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 38.0
+      },
+      {
+        "name": "Egg (for batter)",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.06,
+        "unit_cost": 7.0
+      },
+      {
+        "name": "Ginger-garlic paste (in-house: ginger ₹80/kg + garlic ₹120/kg + oil)",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 110.0
+      },
+      {
+        "name": "Green chillies (chopped)",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 50.0
+      },
+      {
+        "name": "Dry red chillies",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 200.0
+      },
+      {
+        "name": "Soy sauce",
+        "unit": "kg",
+        "min_qty": 0.025,
+        "max_qty": 0.035,
+        "unit_cost": 90.0
+      },
+      {
+        "name": "Vinegar",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 40.0
+      },
+      {
+        "name": "Tomato ketchup/sauce",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.04,
+        "unit_cost": 70.0
+      },
+      {
+        "name": "Sugar",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 40.0
+      },
+      {
+        "name": "Black pepper powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 600.0
+      },
+      {
+        "name": "Spring onions (garnish)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Refined oil (for deep frying + sautéing)",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.15,
+        "unit_cost": 110.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012,
+        "unit_cost": 12.0
+      },
+      {
+        "name": "Sesame oil (finishing)",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 250.0
+      }
+    ],
+    "totals": {
+      "min_qty": 1.106,
+      "max_qty": 1.423,
+      "min_cost": 255.61,
+      "max_cost": 309.72
+    },
+    "cooking_loss": 20
+  },
+  {
+    "id": 40,
+    "name": "Mutton Ghee Roast",
+    "ingredients": [
+      {
+        "name": "Mutton (bone-in, curry cut)",
+        "unit": "kg",
+        "min_qty": 0.55,
+        "max_qty": 0.65,
+        "unit_cost": 550.0
+      },
+      {
+        "name": "Ghee (in-house/bulk)",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12,
+        "unit_cost": 450.0
+      },
+      {
+        "name": "Onion (sliced)",
+        "unit": "kg",
+        "min_qty": 0.15,
+        "max_qty": 0.2,
+        "unit_cost": 25.0
+      },
+      {
+        "name": "Yogurt/Curd (for marinade)",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.07,
+        "unit_cost": 50.0
+      },
+      {
+        "name": "Dried Red Chillies (Byadagi)",
+        "unit": "kg",
+        "min_qty": 0.025,
+        "max_qty": 0.035,
+        "unit_cost": 280.0
+      },
+      {
+        "name": "Coriander Seeds",
+        "unit": "kg",
+        "min_qty": 0.012,
+        "max_qty": 0.018,
+        "unit_cost": 150.0
+      },
+      {
+        "name": "Cumin Seeds",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 280.0
+      },
+      {
+        "name": "Black Pepper",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 550.0
+      },
+      {
+        "name": "Fennel Seeds (Saunf)",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 180.0
+      },
+      {
+        "name": "Fenugreek Seeds (Methi)",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003,
+        "unit_cost": 120.0
+      },
+      {
+        "name": "Garlic",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 120.0
+      },
+      {
+        "name": "Ginger",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 100.0
+      },
+      {
+        "name": "Tamarind Pulp",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025,
+        "unit_cost": 100.0
+      },
+      {
+        "name": "Curry Leaves",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 150.0
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 160.0
+      },
+      {
+        "name": "Jaggery (Palm/Cane)",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 12.0
+      },
+      {
+        "name": "Cooking Oil (for tempering)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025,
+        "unit_cost": 110.0
+      },
+      {
+        "name": "Water (for cooking)",
+        "unit": "kg",
+        "min_qty": 0.2,
+        "max_qty": 0.3,
+        "unit_cost": 0.0
+      }
+    ],
+    "totals": {
+      "min_qty": 1.165,
+      "max_qty": 1.55,
+      "min_cost": 366.68,
+      "max_cost": 453.53
+    },
+    "cooking_loss": 18
+  },
+  {
+    "id": 41,
+    "name": "Mutton Shami Kebab",
+    "ingredients": [
+      {
+        "name": "Mutton (boneless)",
+        "unit": "kg",
+        "min_qty": 0.7,
+        "max_qty": 0.85,
+        "unit_cost": 600.0
+      },
+      {
+        "name": "Chana Dal (Bengal Gram Dal)",
+        "unit": "kg",
+        "min_qty": 0.18,
+        "max_qty": 0.22,
+        "unit_cost": 80.0
+      },
+      {
+        "name": "Eggs (for binding)",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.13,
+        "unit_cost": 90.0
+      },
+      {
+        "name": "Onion (finely chopped, stuffing)",
+        "unit": "kg",
+        "min_qty": 0.06,
+        "max_qty": 0.08,
+        "unit_cost": 25.0
+      },
+      {
+        "name": "Ginger (for in-house paste)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 120.0
+      },
+      {
+        "name": "Garlic (for in-house paste)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 100.0
+      },
+      {
+        "name": "Green Chillies",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Fresh Coriander Leaves",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 50.0
+      },
+      {
+        "name": "Fresh Mint Leaves",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Green Cardamom (whole spice)",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 2200.0
+      },
+      {
+        "name": "Cinnamon Stick (whole spice)",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 700.0
+      },
+      {
+        "name": "Cloves (whole spice)",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003,
+        "unit_cost": 1100.0
+      },
+      {
+        "name": "Black Peppercorns (whole spice)",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003,
+        "unit_cost": 600.0
+      },
+      {
+        "name": "Bay Leaves",
+        "unit": "kg",
+        "min_qty": 0.001,
+        "max_qty": 0.002,
+        "unit_cost": 400.0
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 280.0
+      },
+      {
+        "name": "Roasted Gram Flour (Sattu/besan for binding)",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 70.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.012,
+        "max_qty": 0.015,
+        "unit_cost": 12.0
+      },
+      {
+        "name": "Oil (for shallow frying)",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12,
+        "unit_cost": 120.0
+      }
+    ],
+    "totals": {
+      "min_qty": 1.233,
+      "max_qty": 1.561,
+      "min_cost": 475.19,
+      "max_cost": 587.82
+    },
+    "cooking_loss": 15
+  },
+  {
+    "id": 42,
+    "name": "Prawn Pakoda",
+    "ingredients": [
+      {
+        "name": "Prawns (cleaned, small/medium)",
+        "unit": "kg",
+        "min_qty": 0.5,
+        "max_qty": 0.6,
+        "unit_cost": 320.0
+      },
+      {
+        "name": "Besan (Gram Flour)",
+        "unit": "kg",
+        "min_qty": 0.18,
+        "max_qty": 0.22,
+        "unit_cost": 60.0
+      },
+      {
+        "name": "Rice Flour",
+        "unit": "kg",
+        "min_qty": 0.06,
+        "max_qty": 0.08,
+        "unit_cost": 42.0
+      },
+      {
+        "name": "Corn Flour",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.04,
+        "unit_cost": 48.0
+      },
+      {
+        "name": "Egg",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.06,
+        "unit_cost": 85.0
+      },
+      {
+        "name": "Ginger-Garlic Paste (in-house)",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03,
+        "unit_cost": 100.0
+      },
+      {
+        "name": "Red Chilli Powder (in-house)",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02,
+        "unit_cost": 180.0
+      },
+      {
+        "name": "Turmeric Powder (in-house)",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 140.0
+      },
+      {
+        "name": "Black Pepper Powder (in-house)",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 550.0
+      },
+      {
+        "name": "Curry Leaves",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008,
+        "unit_cost": 80.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.012,
+        "max_qty": 0.015,
+        "unit_cost": 12.0
+      },
+      {
+        "name": "Oil (absorbed during deep frying)",
+        "unit": "kg",
+        "min_qty": 0.15,
+        "max_qty": 0.2,
+        "unit_cost": 115.0
+      },
+      {
+        "name": "Carom Seeds (Ajwain)",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005,
+        "unit_cost": 200.0
+      }
+    ],
+    "totals": {
+      "min_qty": 1.033,
+      "max_qty": 1.291,
+      "min_cost": 204.45,
+      "max_cost": 250.87
+    },
+    "cooking_loss": 15
+  }
+]

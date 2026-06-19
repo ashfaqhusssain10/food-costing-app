@@ -1,0 +1,604 @@
+[
+  {
+    "id": 1,
+    "name": "Chicken Boneless",
+    "category": "Proteins",
+    "unit": "kg",
+    "price": 220
+  },
+  {
+    "id": 2,
+    "name": "Chicken Bone-in",
+    "category": "Proteins",
+    "unit": "kg",
+    "price": 150
+  },
+  {
+    "id": 3,
+    "name": "Mutton Bone-in",
+    "category": "Proteins",
+    "unit": "kg",
+    "price": 700
+  },
+  {
+    "id": 4,
+    "name": "Mutton Boneless",
+    "category": "Proteins",
+    "unit": "kg",
+    "price": 900
+  },
+  {
+    "id": 5,
+    "name": "Prawns",
+    "category": "Proteins",
+    "unit": "kg",
+    "price": 400
+  },
+  {
+    "id": 6,
+    "name": "Fish Basa",
+    "category": "Proteins",
+    "unit": "kg",
+    "price": 150
+  },
+  {
+    "id": 7,
+    "name": "Eggs",
+    "category": "Proteins",
+    "unit": "kg",
+    "price": 100
+  },
+  {
+    "id": 8,
+    "name": "Onion",
+    "category": "Vegetables",
+    "unit": "kg",
+    "price": 18
+  },
+  {
+    "id": 9,
+    "name": "Capsicum",
+    "category": "Vegetables",
+    "unit": "kg",
+    "price": 40
+  },
+  {
+    "id": 10,
+    "name": "Carrot",
+    "category": "Vegetables",
+    "unit": "kg",
+    "price": 25
+  },
+  {
+    "id": 11,
+    "name": "Cabbage",
+    "category": "Vegetables",
+    "unit": "kg",
+    "price": 15
+  },
+  {
+    "id": 12,
+    "name": "Potato",
+    "category": "Vegetables",
+    "unit": "kg",
+    "price": 18
+  },
+  {
+    "id": 13,
+    "name": "Tomato",
+    "category": "Vegetables",
+    "unit": "kg",
+    "price": 20
+  },
+  {
+    "id": 14,
+    "name": "Broccoli",
+    "category": "Vegetables",
+    "unit": "kg",
+    "price": 60
+  },
+  {
+    "id": 15,
+    "name": "Cauliflower",
+    "category": "Vegetables",
+    "unit": "kg",
+    "price": 25
+  },
+  {
+    "id": 16,
+    "name": "Baby Corn",
+    "category": "Vegetables",
+    "unit": "kg",
+    "price": 80
+  },
+  {
+    "id": 17,
+    "name": "Mushroom",
+    "category": "Vegetables",
+    "unit": "kg",
+    "price": 120
+  },
+  {
+    "id": 18,
+    "name": "Spinach",
+    "category": "Vegetables",
+    "unit": "kg",
+    "price": 20
+  },
+  {
+    "id": 19,
+    "name": "Green Peas",
+    "category": "Vegetables",
+    "unit": "kg",
+    "price": 60
+  },
+  {
+    "id": 20,
+    "name": "Sweet Corn",
+    "category": "Vegetables",
+    "unit": "kg",
+    "price": 35
+  },
+  {
+    "id": 21,
+    "name": "French Beans",
+    "category": "Vegetables",
+    "unit": "kg",
+    "price": 40
+  },
+  {
+    "id": 22,
+    "name": "Ginger",
+    "category": "Fresh Herbs & Aromatics",
+    "unit": "kg",
+    "price": 80
+  },
+  {
+    "id": 23,
+    "name": "Garlic",
+    "category": "Fresh Herbs & Aromatics",
+    "unit": "kg",
+    "price": 120
+  },
+  {
+    "id": 24,
+    "name": "Green Chilli",
+    "category": "Fresh Herbs & Aromatics",
+    "unit": "kg",
+    "price": 60
+  },
+  {
+    "id": 25,
+    "name": "Curry Leaves",
+    "category": "Fresh Herbs & Aromatics",
+    "unit": "kg",
+    "price": 100
+  },
+  {
+    "id": 26,
+    "name": "Coriander Leaves",
+    "category": "Fresh Herbs & Aromatics",
+    "unit": "kg",
+    "price": 50
+  },
+  {
+    "id": 27,
+    "name": "Mint Leaves",
+    "category": "Fresh Herbs & Aromatics",
+    "unit": "kg",
+    "price": 60
+  },
+  {
+    "id": 28,
+    "name": "Spring Onion",
+    "category": "Fresh Herbs & Aromatics",
+    "unit": "kg",
+    "price": 40
+  },
+  {
+    "id": 29,
+    "name": "Cumin Seeds",
+    "category": "Spices - Whole",
+    "unit": "kg",
+    "price": 280
+  },
+  {
+    "id": 30,
+    "name": "Mustard Seeds",
+    "category": "Spices - Whole",
+    "unit": "kg",
+    "price": 80
+  },
+  {
+    "id": 31,
+    "name": "Fennel Seeds",
+    "category": "Spices - Whole",
+    "unit": "kg",
+    "price": 150
+  },
+  {
+    "id": 32,
+    "name": "Fenugreek Seeds",
+    "category": "Spices - Whole",
+    "unit": "kg",
+    "price": 90
+  },
+  {
+    "id": 33,
+    "name": "Cardamom",
+    "category": "Spices - Whole",
+    "unit": "kg",
+    "price": 2800
+  },
+  {
+    "id": 34,
+    "name": "Cloves",
+    "category": "Spices - Whole",
+    "unit": "kg",
+    "price": 1200
+  },
+  {
+    "id": 35,
+    "name": "Cinnamon",
+    "category": "Spices - Whole",
+    "unit": "kg",
+    "price": 450
+  },
+  {
+    "id": 36,
+    "name": "Black Peppercorns",
+    "category": "Spices - Whole",
+    "unit": "kg",
+    "price": 680
+  },
+  {
+    "id": 37,
+    "name": "Bay Leaves",
+    "category": "Spices - Whole",
+    "unit": "kg",
+    "price": 350
+  },
+  {
+    "id": 38,
+    "name": "Dried Red Chilli Byadagi",
+    "category": "Spices - Whole",
+    "unit": "kg",
+    "price": 360
+  },
+  {
+    "id": 39,
+    "name": "Dried Red Chilli Guntur",
+    "category": "Spices - Whole",
+    "unit": "kg",
+    "price": 280
+  },
+  {
+    "id": 40,
+    "name": "Nigella Seeds",
+    "category": "Spices - Whole",
+    "unit": "kg",
+    "price": 160
+  },
+  {
+    "id": 41,
+    "name": "Carom Seeds",
+    "category": "Spices - Whole",
+    "unit": "kg",
+    "price": 180
+  },
+  {
+    "id": 42,
+    "name": "Coriander Seeds",
+    "category": "Spices - Whole",
+    "unit": "kg",
+    "price": 140
+  },
+  {
+    "id": 43,
+    "name": "Star Anise",
+    "category": "Spices - Whole",
+    "unit": "kg",
+    "price": 550
+  },
+  {
+    "id": 44,
+    "name": "Mace",
+    "category": "Spices - Whole",
+    "unit": "kg",
+    "price": 2200
+  },
+  {
+    "id": 45,
+    "name": "Nutmeg",
+    "category": "Spices - Whole",
+    "unit": "kg",
+    "price": 850
+  },
+  {
+    "id": 46,
+    "name": "Red Chilli Powder",
+    "category": "Spices - Powder",
+    "unit": "kg",
+    "price": 200
+  },
+  {
+    "id": 47,
+    "name": "Kashmiri Chilli Powder",
+    "category": "Spices - Powder",
+    "unit": "kg",
+    "price": 400
+  },
+  {
+    "id": 48,
+    "name": "Turmeric Powder",
+    "category": "Spices - Powder",
+    "unit": "kg",
+    "price": 180
+  },
+  {
+    "id": 49,
+    "name": "Coriander Powder",
+    "category": "Spices - Powder",
+    "unit": "kg",
+    "price": 150
+  },
+  {
+    "id": 50,
+    "name": "Cumin Powder",
+    "category": "Spices - Powder",
+    "unit": "kg",
+    "price": 320
+  },
+  {
+    "id": 51,
+    "name": "Black Pepper Powder",
+    "category": "Spices - Powder",
+    "unit": "kg",
+    "price": 750
+  },
+  {
+    "id": 52,
+    "name": "Amchur Powder",
+    "category": "Spices - Powder",
+    "unit": "kg",
+    "price": 200
+  },
+  {
+    "id": 53,
+    "name": "White Pepper Powder",
+    "category": "Spices - Powder",
+    "unit": "kg",
+    "price": 900
+  },
+  {
+    "id": 54,
+    "name": "Refined Oil",
+    "category": "Oils & Fats",
+    "unit": "kg",
+    "price": 110
+  },
+  {
+    "id": 55,
+    "name": "Mustard Oil",
+    "category": "Oils & Fats",
+    "unit": "kg",
+    "price": 135
+  },
+  {
+    "id": 56,
+    "name": "Sesame Oil",
+    "category": "Oils & Fats",
+    "unit": "kg",
+    "price": 280
+  },
+  {
+    "id": 57,
+    "name": "Ghee",
+    "category": "Oils & Fats",
+    "unit": "kg",
+    "price": 450
+  },
+  {
+    "id": 58,
+    "name": "Butter",
+    "category": "Oils & Fats",
+    "unit": "kg",
+    "price": 380
+  },
+  {
+    "id": 59,
+    "name": "Besan",
+    "category": "Flours & Starches",
+    "unit": "kg",
+    "price": 55
+  },
+  {
+    "id": 60,
+    "name": "Cornflour",
+    "category": "Flours & Starches",
+    "unit": "kg",
+    "price": 40
+  },
+  {
+    "id": 61,
+    "name": "Maida",
+    "category": "Flours & Starches",
+    "unit": "kg",
+    "price": 32
+  },
+  {
+    "id": 62,
+    "name": "Rice Flour",
+    "category": "Flours & Starches",
+    "unit": "kg",
+    "price": 38
+  },
+  {
+    "id": 63,
+    "name": "Breadcrumbs",
+    "category": "Flours & Starches",
+    "unit": "kg",
+    "price": 60
+  },
+  {
+    "id": 64,
+    "name": "Soy Sauce",
+    "category": "Sauces & Condiments",
+    "unit": "kg",
+    "price": 80
+  },
+  {
+    "id": 65,
+    "name": "Vinegar",
+    "category": "Sauces & Condiments",
+    "unit": "kg",
+    "price": 30
+  },
+  {
+    "id": 66,
+    "name": "Tomato Ketchup",
+    "category": "Sauces & Condiments",
+    "unit": "kg",
+    "price": 70
+  },
+  {
+    "id": 67,
+    "name": "Red Chilli Sauce",
+    "category": "Sauces & Condiments",
+    "unit": "kg",
+    "price": 65
+  },
+  {
+    "id": 68,
+    "name": "Tamarind Pulp",
+    "category": "Sauces & Condiments",
+    "unit": "kg",
+    "price": 90
+  },
+  {
+    "id": 69,
+    "name": "Lemon Juice",
+    "category": "Sauces & Condiments",
+    "unit": "kg",
+    "price": 60
+  },
+  {
+    "id": 70,
+    "name": "Curd",
+    "category": "Dairy & Nuts",
+    "unit": "kg",
+    "price": 50
+  },
+  {
+    "id": 71,
+    "name": "Paneer",
+    "category": "Dairy & Nuts",
+    "unit": "kg",
+    "price": 280
+  },
+  {
+    "id": 72,
+    "name": "Fresh Cream",
+    "category": "Dairy & Nuts",
+    "unit": "kg",
+    "price": 350
+  },
+  {
+    "id": 73,
+    "name": "Processed Cheese",
+    "category": "Dairy & Nuts",
+    "unit": "kg",
+    "price": 380
+  },
+  {
+    "id": 74,
+    "name": "Cashew",
+    "category": "Dairy & Nuts",
+    "unit": "kg",
+    "price": 800
+  },
+  {
+    "id": 75,
+    "name": "Peanuts",
+    "category": "Dairy & Nuts",
+    "unit": "kg",
+    "price": 115
+  },
+  {
+    "id": 76,
+    "name": "Salt",
+    "category": "Others",
+    "unit": "kg",
+    "price": 12
+  },
+  {
+    "id": 77,
+    "name": "Sugar",
+    "category": "Others",
+    "unit": "kg",
+    "price": 38
+  },
+  {
+    "id": 78,
+    "name": "MSG",
+    "category": "Others",
+    "unit": "kg",
+    "price": 220
+  },
+  {
+    "id": 79,
+    "name": "Saffron",
+    "category": "Others",
+    "unit": "kg",
+    "price": 250000
+  },
+  {
+    "id": 80,
+    "name": "Food Colour",
+    "category": "Others",
+    "unit": "kg",
+    "price": 1500
+  },
+  {
+    "id": 81,
+    "name": "Jaggery",
+    "category": "Others",
+    "unit": "kg",
+    "price": 45
+  },
+  {
+    "id": 82,
+    "name": "Water",
+    "category": "Others",
+    "unit": "kg",
+    "price": 0.5
+  },
+  {
+    "id": 83,
+    "name": "Kasuri Methi",
+    "category": "Others",
+    "unit": "kg",
+    "price": 250
+  },
+  {
+    "id": 84,
+    "name": "Chana Dal",
+    "category": "Others",
+    "unit": "kg",
+    "price": 75
+  },
+  {
+    "id": 85,
+    "name": "Urad Dal",
+    "category": "Others",
+    "unit": "kg",
+    "price": 100
+  },
+  {
+    "id": 86,
+    "name": "Glass Noodles",
+    "category": "Others",
+    "unit": "kg",
+    "price": 150
+  }
+]

@@ -1,0 +1,5194 @@
+[
+  {
+    "name": "Veg Manchuria",
+    "ingredients": [
+      {
+        "name": "Cabbage",
+        "unit": "kg",
+        "min_qty": 0.35,
+        "max_qty": 0.45
+      },
+      {
+        "name": "Carrot",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12
+      },
+      {
+        "name": "French Beans",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06
+      },
+      {
+        "name": "Capsicum",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05
+      },
+      {
+        "name": "Onion",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12
+      },
+      {
+        "name": "Spring Onion",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.04
+      },
+      {
+        "name": "Cornflour",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.14
+      },
+      {
+        "name": "Maida",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06
+      },
+      {
+        "name": "Ginger-Garlic Paste",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05
+      },
+      {
+        "name": "Green Chilli Paste",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Soy Sauce",
+        "unit": "kg",
+        "min_qty": 0.025,
+        "max_qty": 0.035
+      },
+      {
+        "name": "Tomato Ketchup",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Vinegar",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Red Chilli Sauce",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.18
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Sugar",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Water",
+        "unit": "kg",
+        "min_qty": 0.2,
+        "max_qty": 0.3
+      },
+      {
+        "name": "MSG",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003
+      }
+    ],
+    "cooking_loss_percent": 18,
+    "invalid_names": []
+  },
+  {
+    "name": "Hara Bhara Kebab",
+    "ingredients": [
+      {
+        "name": "Spinach",
+        "unit": "kg",
+        "min_qty": 0.55,
+        "max_qty": 0.7
+      },
+      {
+        "name": "Potato",
+        "unit": "kg",
+        "min_qty": 0.22,
+        "max_qty": 0.28
+      },
+      {
+        "name": "Green Peas",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.16
+      },
+      {
+        "name": "Chana Dal",
+        "unit": "kg",
+        "min_qty": 0.06,
+        "max_qty": 0.08
+      },
+      {
+        "name": "Paneer",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.07
+      },
+      {
+        "name": "Cornflour",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.035
+      },
+      {
+        "name": "Breadcrumbs",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05
+      },
+      {
+        "name": "Ginger-Garlic Paste",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Green Chilli",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Coriander Leaves",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.06,
+        "max_qty": 0.08
+      },
+      {
+        "name": "Garam Masala",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Chaat Masala",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Cumin Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Amchur Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      }
+    ],
+    "cooking_loss_percent": 13,
+    "invalid_names": []
+  },
+  {
+    "name": "Crispy Corn",
+    "ingredients": [
+      {
+        "name": "Sweet Corn",
+        "unit": "kg",
+        "min_qty": 0.55,
+        "max_qty": 0.65
+      },
+      {
+        "name": "Cornflour",
+        "unit": "kg",
+        "min_qty": 0.06,
+        "max_qty": 0.08
+      },
+      {
+        "name": "Rice Flour",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05
+      },
+      {
+        "name": "Maida",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.18
+      },
+      {
+        "name": "Onion",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06
+      },
+      {
+        "name": "Capsicum",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05
+      },
+      {
+        "name": "Garlic",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Ginger",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01
+      },
+      {
+        "name": "Green Chilli",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01
+      },
+      {
+        "name": "Curry Leaves",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.004
+      },
+      {
+        "name": "Chaat Masala",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Sugar",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003
+      },
+      {
+        "name": "Soy Sauce",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01
+      },
+      {
+        "name": "Lemon Juice",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01
+      },
+      {
+        "name": "Coriander Leaves",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01
+      },
+      {
+        "name": "Spring Onion",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.02
+      }
+    ],
+    "cooking_loss_percent": 18,
+    "invalid_names": []
+  },
+  {
+    "name": "Veg Spring Rolls",
+    "ingredients": [
+      {
+        "name": "Maida",
+        "unit": "kg",
+        "min_qty": 0.18,
+        "max_qty": 0.22
+      },
+      {
+        "name": "Cornflour",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06
+      },
+      {
+        "name": "Cabbage",
+        "unit": "kg",
+        "min_qty": 0.18,
+        "max_qty": 0.25
+      },
+      {
+        "name": "Carrot",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.18
+      },
+      {
+        "name": "Capsicum",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12
+      },
+      {
+        "name": "Spring Onion",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06
+      },
+      {
+        "name": "French Beans",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06
+      },
+      {
+        "name": "Ginger-Garlic Paste",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Green Chilli",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01
+      },
+      {
+        "name": "Soy Sauce",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025
+      },
+      {
+        "name": "Vinegar",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01
+      },
+      {
+        "name": "Red Chilli Sauce",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.004
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.15,
+        "max_qty": 0.2
+      },
+      {
+        "name": "Water",
+        "unit": "kg",
+        "min_qty": 0.25,
+        "max_qty": 0.35
+      }
+    ],
+    "cooking_loss_percent": 18,
+    "invalid_names": []
+  },
+  {
+    "name": "Pachi Mirchi Kodi Kebab",
+    "ingredients": [
+      {
+        "name": "Chicken Bone-in",
+        "unit": "kg",
+        "min_qty": 0.75,
+        "max_qty": 0.9
+      },
+      {
+        "name": "Green Chilli",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12
+      },
+      {
+        "name": "Coriander Leaves",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05
+      },
+      {
+        "name": "Mint Leaves",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Onion",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.15
+      },
+      {
+        "name": "Ginger",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Garlic",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Curd",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.08
+      },
+      {
+        "name": "Lemon Juice",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Besan",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Rice Flour",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Cumin Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Garam Masala",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.012,
+        "max_qty": 0.018
+      },
+      {
+        "name": "Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.15
+      },
+      {
+        "name": "Curry Leaves",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Eggs",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.06
+      }
+    ],
+    "cooking_loss_percent": 18,
+    "invalid_names": []
+  },
+  {
+    "name": "Andhra Kodi Vepudu",
+    "ingredients": [
+      {
+        "name": "Chicken Bone-in",
+        "unit": "kg",
+        "min_qty": 0.9,
+        "max_qty": 1.1
+      },
+      {
+        "name": "Onion",
+        "unit": "kg",
+        "min_qty": 0.18,
+        "max_qty": 0.25
+      },
+      {
+        "name": "Ginger",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Garlic",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Green Chilli",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025
+      },
+      {
+        "name": "Curry Leaves",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Coriander Powder",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Cumin Seeds",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Mustard Seeds",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Vepudu Masala",
+        "unit": "kg",
+        "min_qty": 0.007,
+        "max_qty": 0.013
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Lemon Juice",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      }
+    ],
+    "cooking_loss_percent": 18,
+    "invalid_names": []
+  },
+  {
+    "name": "Egg Manchurian",
+    "ingredients": [
+      {
+        "name": "Eggs",
+        "unit": "kg",
+        "min_qty": 0.48,
+        "max_qty": 0.54
+      },
+      {
+        "name": "Cornflour",
+        "unit": "kg",
+        "min_qty": 0.06,
+        "max_qty": 0.08
+      },
+      {
+        "name": "Maida",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.04
+      },
+      {
+        "name": "Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.15
+      },
+      {
+        "name": "Onion",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.1
+      },
+      {
+        "name": "Capsicum",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06
+      },
+      {
+        "name": "Spring Onion",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.04
+      },
+      {
+        "name": "Ginger-Garlic Paste",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Green Chilli",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Soy Sauce",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Red Chilli Sauce",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Tomato Ketchup",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Vinegar",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Sugar",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "MSG",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003
+      },
+      {
+        "name": "Water",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12
+      },
+      {
+        "name": "Coriander Leaves",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      }
+    ],
+    "cooking_loss_percent": 15,
+    "invalid_names": []
+  },
+  {
+    "name": "Chicken Pakoda",
+    "ingredients": [
+      {
+        "name": "Chicken Boneless",
+        "unit": "kg",
+        "min_qty": 0.5,
+        "max_qty": 0.6
+      },
+      {
+        "name": "Besan",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.16
+      },
+      {
+        "name": "Rice Flour",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05
+      },
+      {
+        "name": "Cornflour",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Ginger-Garlic Paste",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Kashmiri Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Cumin Powder",
+        "unit": "kg",
+        "min_qty": 0.004,
+        "max_qty": 0.006
+      },
+      {
+        "name": "Garam Masala",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Carom Seeds",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.004
+      },
+      {
+        "name": "Lemon Juice",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025
+      },
+      {
+        "name": "Eggs",
+        "unit": "kg",
+        "min_qty": 0.06,
+        "max_qty": 0.12
+      },
+      {
+        "name": "Green Chilli",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Curry Leaves",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Coriander Leaves",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.15
+      },
+      {
+        "name": "Water",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05
+      },
+      {
+        "name": "Food Colour",
+        "unit": "kg",
+        "min_qty": 0.001,
+        "max_qty": 0.002
+      }
+    ],
+    "cooking_loss_percent": 15,
+    "invalid_names": []
+  },
+  {
+    "name": "Chilli Chicken",
+    "ingredients": [
+      {
+        "name": "Chicken Boneless",
+        "unit": "kg",
+        "min_qty": 0.5,
+        "max_qty": 0.6
+      },
+      {
+        "name": "Eggs",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.06
+      },
+      {
+        "name": "Cornflour",
+        "unit": "kg",
+        "min_qty": 0.035,
+        "max_qty": 0.05
+      },
+      {
+        "name": "Maida",
+        "unit": "kg",
+        "min_qty": 0.025,
+        "max_qty": 0.04
+      },
+      {
+        "name": "Ginger-Garlic Paste",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Soy Sauce",
+        "unit": "kg",
+        "min_qty": 0.025,
+        "max_qty": 0.035
+      },
+      {
+        "name": "Red Chilli Sauce",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025
+      },
+      {
+        "name": "Vinegar",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.15
+      },
+      {
+        "name": "Onion",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12
+      },
+      {
+        "name": "Capsicum",
+        "unit": "kg",
+        "min_qty": 0.06,
+        "max_qty": 0.1
+      },
+      {
+        "name": "Green Chilli",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Ginger",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Garlic",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Spring Onion",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.035
+      },
+      {
+        "name": "Tomato Ketchup",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Sugar",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "MSG",
+        "unit": "kg",
+        "min_qty": 0.001,
+        "max_qty": 0.002
+      },
+      {
+        "name": "Coriander Leaves",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01
+      },
+      {
+        "name": "Sesame Oil",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      }
+    ],
+    "cooking_loss_percent": 20,
+    "invalid_names": []
+  },
+  {
+    "name": "Pepper Egg fry",
+    "ingredients": [
+      {
+        "name": "Eggs",
+        "unit": "kg",
+        "min_qty": 12.0,
+        "max_qty": 14.0
+      },
+      {
+        "name": "Onion",
+        "unit": "kg",
+        "min_qty": 0.18,
+        "max_qty": 0.25
+      },
+      {
+        "name": "Ginger-Garlic Paste",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Green Chilli",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Curry Leaves",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Fennel Seeds",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.06,
+        "max_qty": 0.08
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Tomato",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12
+      }
+    ],
+    "cooking_loss_percent": 15,
+    "invalid_names": []
+  },
+  {
+    "name": "Chicken 65",
+    "ingredients": [
+      {
+        "name": "Chicken Boneless",
+        "unit": "kg",
+        "min_qty": 0.85,
+        "max_qty": 1.0
+      },
+      {
+        "name": "Cornflour",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06
+      },
+      {
+        "name": "Rice Flour",
+        "unit": "kg",
+        "min_qty": 0.025,
+        "max_qty": 0.035
+      },
+      {
+        "name": "Curd",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.07
+      },
+      {
+        "name": "Eggs",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05
+      },
+      {
+        "name": "Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.15
+      },
+      {
+        "name": "Ginger-Garlic Paste",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Kashmiri Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Garam Masala",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Curry Leaves",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Green Chilli",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Lemon Juice",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Sugar",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Food Colour",
+        "unit": "kg",
+        "min_qty": 0.001,
+        "max_qty": 0.002
+      }
+    ],
+    "cooking_loss_percent": 18,
+    "invalid_names": []
+  },
+  {
+    "name": "Chicken Hariyali Tikka",
+    "ingredients": [
+      {
+        "name": "Chicken Boneless",
+        "unit": "kg",
+        "min_qty": 0.75,
+        "max_qty": 0.85
+      },
+      {
+        "name": "Curd",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.15
+      },
+      {
+        "name": "Coriander Leaves",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.08
+      },
+      {
+        "name": "Mint Leaves",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06
+      },
+      {
+        "name": "Spinach",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05
+      },
+      {
+        "name": "Green Chilli",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Ginger-Garlic Paste",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Green Chilli Paste",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01
+      },
+      {
+        "name": "Cashew Paste",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Lemon Juice",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05
+      },
+      {
+        "name": "Garam Masala",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Cumin Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Coriander Powder",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.004
+      },
+      {
+        "name": "Kashmiri Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.001,
+        "max_qty": 0.002
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.001,
+        "max_qty": 0.002
+      },
+      {
+        "name": "Chaat Masala",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.004
+      },
+      {
+        "name": "Cornflour",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Fresh Cream",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Kasuri Methi",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003
+      },
+      {
+        "name": "Food Colour",
+        "unit": "kg",
+        "min_qty": 0.0005,
+        "max_qty": 0.001
+      }
+    ],
+    "cooking_loss_percent": 22,
+    "invalid_names": []
+  },
+  {
+    "name": "Boiled Peanuts fry",
+    "ingredients": [
+      {
+        "name": "Peanuts",
+        "unit": "kg",
+        "min_qty": 0.75,
+        "max_qty": 0.85
+      },
+      {
+        "name": "Onion",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12
+      },
+      {
+        "name": "Tomato",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.08
+      },
+      {
+        "name": "Green Chilli",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Curry Leaves",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01
+      },
+      {
+        "name": "Ginger",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01
+      },
+      {
+        "name": "Mustard Seeds",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Urad Dal",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Chana Dal",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Cumin Seeds",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.004
+      },
+      {
+        "name": "Dried Red Chilli Byadagi",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.035
+      },
+      {
+        "name": "Coriander Leaves",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Lemon Juice",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Water",
+        "unit": "kg",
+        "min_qty": 0.8,
+        "max_qty": 1.0
+      }
+    ],
+    "cooking_loss_percent": 18,
+    "invalid_names": []
+  },
+  {
+    "name": "Cheese Nuggets",
+    "ingredients": [
+      {
+        "name": "Potato",
+        "unit": "kg",
+        "min_qty": 0.45,
+        "max_qty": 0.55
+      },
+      {
+        "name": "Processed Cheese",
+        "unit": "kg",
+        "min_qty": 0.18,
+        "max_qty": 0.25
+      },
+      {
+        "name": "Sweet Corn",
+        "unit": "kg",
+        "min_qty": 0.06,
+        "max_qty": 0.08
+      },
+      {
+        "name": "Capsicum",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05
+      },
+      {
+        "name": "Carrot",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05
+      },
+      {
+        "name": "Cornflour",
+        "unit": "kg",
+        "min_qty": 0.06,
+        "max_qty": 0.08
+      },
+      {
+        "name": "Maida",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06
+      },
+      {
+        "name": "Breadcrumbs",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12
+      },
+      {
+        "name": "Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.18
+      },
+      {
+        "name": "Green Chilli Paste",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01
+      },
+      {
+        "name": "Ginger-Garlic Paste",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Kasuri Methi",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      }
+    ],
+    "cooking_loss_percent": 12,
+    "invalid_names": []
+  },
+  {
+    "name": "Gobi Manchurian",
+    "ingredients": [
+      {
+        "name": "Cauliflower",
+        "unit": "kg",
+        "min_qty": 0.55,
+        "max_qty": 0.7
+      },
+      {
+        "name": "Cornflour",
+        "unit": "kg",
+        "min_qty": 0.07,
+        "max_qty": 0.095
+      },
+      {
+        "name": "Maida",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06
+      },
+      {
+        "name": "Ginger",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025
+      },
+      {
+        "name": "Garlic",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025
+      },
+      {
+        "name": "Green Chilli",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Onion",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12
+      },
+      {
+        "name": "Capsicum",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05
+      },
+      {
+        "name": "Spring Onion",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Soy Sauce",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Schezwan Sauce",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025
+      },
+      {
+        "name": "Tomato Ketchup",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025
+      },
+      {
+        "name": "Vinegar",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.18
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "MSG",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003
+      },
+      {
+        "name": "Water",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.15
+      }
+    ],
+    "cooking_loss_percent": 18,
+    "invalid_names": []
+  },
+  {
+    "name": "Baby Corn Pakoda",
+    "ingredients": [
+      {
+        "name": "Baby Corn",
+        "unit": "kg",
+        "min_qty": 0.5,
+        "max_qty": 0.6
+      },
+      {
+        "name": "Besan",
+        "unit": "kg",
+        "min_qty": 0.18,
+        "max_qty": 0.25
+      },
+      {
+        "name": "Rice Flour",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06
+      },
+      {
+        "name": "Cornflour",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003
+      },
+      {
+        "name": "Garam Masala",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Cumin Powder",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003
+      },
+      {
+        "name": "Amchur Powder",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003
+      },
+      {
+        "name": "Ginger-Garlic Paste",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Green Chilli Paste",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Carom Seeds",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Coriander Leaves",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Water",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.15
+      },
+      {
+        "name": "Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.18
+      }
+    ],
+    "cooking_loss_percent": 15,
+    "invalid_names": []
+  },
+  {
+    "name": "Baby Corn Manchurian",
+    "ingredients": [
+      {
+        "name": "Baby Corn",
+        "unit": "kg",
+        "min_qty": 0.45,
+        "max_qty": 0.55
+      },
+      {
+        "name": "Cornflour",
+        "unit": "kg",
+        "min_qty": 0.06,
+        "max_qty": 0.08
+      },
+      {
+        "name": "Maida",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05
+      },
+      {
+        "name": "Rice Flour",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.004
+      },
+      {
+        "name": "Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.18
+      },
+      {
+        "name": "Ginger-Garlic Paste",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Green Chilli",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Onion",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12
+      },
+      {
+        "name": "Capsicum",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06
+      },
+      {
+        "name": "Spring Onion",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05
+      },
+      {
+        "name": "Soy Sauce",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Red Chilli Sauce",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025
+      },
+      {
+        "name": "Tomato Ketchup",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025
+      },
+      {
+        "name": "Vinegar",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Sugar",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "MSG",
+        "unit": "kg",
+        "min_qty": 0.001,
+        "max_qty": 0.002
+      },
+      {
+        "name": "Water",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.15
+      },
+      {
+        "name": "Coriander Leaves",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01
+      }
+    ],
+    "cooking_loss_percent": 20,
+    "invalid_names": []
+  },
+  {
+    "name": "Mushroom Pakoda",
+    "ingredients": [
+      {
+        "name": "Mushroom",
+        "unit": "kg",
+        "min_qty": 0.55,
+        "max_qty": 0.7
+      },
+      {
+        "name": "Besan",
+        "unit": "kg",
+        "min_qty": 0.25,
+        "max_qty": 0.32
+      },
+      {
+        "name": "Rice Flour",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06
+      },
+      {
+        "name": "Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.15,
+        "max_qty": 0.2
+      },
+      {
+        "name": "Ginger-Garlic Paste",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Green Chilli Paste",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Coriander Powder",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Garam Masala",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Carom Seeds",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.012,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Curry Leaves",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Water",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12
+      }
+    ],
+    "cooking_loss_percent": 12,
+    "invalid_names": []
+  },
+  {
+    "name": "Chilly Garlic Mushroom",
+    "ingredients": [
+      {
+        "name": "Mushroom",
+        "unit": "kg",
+        "min_qty": 0.55,
+        "max_qty": 0.7
+      },
+      {
+        "name": "Cornflour",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.075
+      },
+      {
+        "name": "Maida",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Garlic",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06
+      },
+      {
+        "name": "Dried Red Chilli Guntur",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Green Chilli",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Onion",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.15
+      },
+      {
+        "name": "Capsicum",
+        "unit": "kg",
+        "min_qty": 0.06,
+        "max_qty": 0.08
+      },
+      {
+        "name": "Spring Onion",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05
+      },
+      {
+        "name": "Soy Sauce",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.04
+      },
+      {
+        "name": "Vinegar",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Tomato Ketchup",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Red Chilli Sauce",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Sugar",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.18
+      },
+      {
+        "name": "Sesame Oil",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Ginger",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      }
+    ],
+    "cooking_loss_percent": 18,
+    "invalid_names": []
+  },
+  {
+    "name": "Malai Broccoli",
+    "ingredients": [
+      {
+        "name": "Broccoli",
+        "unit": "kg",
+        "min_qty": 0.55,
+        "max_qty": 0.65
+      },
+      {
+        "name": "Fresh Cream",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.15
+      },
+      {
+        "name": "Curd",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12
+      },
+      {
+        "name": "Processed Cheese",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06
+      },
+      {
+        "name": "Butter",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.04
+      },
+      {
+        "name": "Cornflour",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025
+      },
+      {
+        "name": "Besan",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Ginger-Garlic Paste",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Cashew Paste",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Lemon Juice",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01
+      },
+      {
+        "name": "Green Chilli Paste",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Garam Masala",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.004
+      },
+      {
+        "name": "White Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.001,
+        "max_qty": 0.002
+      },
+      {
+        "name": "Cardamom",
+        "unit": "kg",
+        "min_qty": 0.001,
+        "max_qty": 0.002
+      },
+      {
+        "name": "Kashmiri Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.004
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.001,
+        "max_qty": 0.002
+      },
+      {
+        "name": "Cumin Powder",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003
+      },
+      {
+        "name": "Chaat Masala",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.004
+      },
+      {
+        "name": "Kasuri Methi",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Coriander Leaves",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01
+      },
+      {
+        "name": "Food Colour",
+        "unit": "kg",
+        "min_qty": 0.0005,
+        "max_qty": 0.001
+      }
+    ],
+    "cooking_loss_percent": 18,
+    "invalid_names": []
+  },
+  {
+    "name": "Hariyali Paneer Tikka",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "unit": "kg",
+        "min_qty": 0.7,
+        "max_qty": 0.85
+      },
+      {
+        "name": "Curd",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.13
+      },
+      {
+        "name": "Coriander Leaves",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06
+      },
+      {
+        "name": "Mint Leaves",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.045
+      },
+      {
+        "name": "Green Chilli",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025
+      },
+      {
+        "name": "Ginger",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Garlic",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Capsicum",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12
+      },
+      {
+        "name": "Onion",
+        "unit": "kg",
+        "min_qty": 0.06,
+        "max_qty": 0.1
+      },
+      {
+        "name": "Besan",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Mustard Oil",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06
+      },
+      {
+        "name": "Lemon Juice",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025
+      },
+      {
+        "name": "Chaat Masala",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Garam Masala",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Kasuri Methi",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003
+      }
+    ],
+    "cooking_loss_percent": 18,
+    "invalid_names": []
+  },
+  {
+    "name": "Malai Paneer Tikka",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "unit": "kg",
+        "min_qty": 0.55,
+        "max_qty": 0.65
+      },
+      {
+        "name": "Fresh Cream",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.1
+      },
+      {
+        "name": "Curd",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.1
+      },
+      {
+        "name": "Cashew Paste",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.04
+      },
+      {
+        "name": "Processed Cheese",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Capsicum",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.15
+      },
+      {
+        "name": "Onion",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.12
+      },
+      {
+        "name": "Ginger-Garlic Paste",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Green Chilli Paste",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01
+      },
+      {
+        "name": "Lemon Juice",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "White Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Cardamom",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003
+      },
+      {
+        "name": "Mace",
+        "unit": "kg",
+        "min_qty": 0.001,
+        "max_qty": 0.002
+      },
+      {
+        "name": "Nutmeg",
+        "unit": "kg",
+        "min_qty": 0.001,
+        "max_qty": 0.002
+      },
+      {
+        "name": "Chaat Masala",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Kasuri Methi",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Saffron",
+        "unit": "kg",
+        "min_qty": 0.0001,
+        "max_qty": 0.0002
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Butter",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.05
+      },
+      {
+        "name": "Cornflour",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Food Colour",
+        "unit": "kg",
+        "min_qty": 0.0005,
+        "max_qty": 0.001
+      }
+    ],
+    "cooking_loss_percent": 20,
+    "invalid_names": []
+  },
+  {
+    "name": "Achari Paneer Tikka",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "unit": "kg",
+        "min_qty": 0.6,
+        "max_qty": 0.7
+      },
+      {
+        "name": "Curd",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.15
+      },
+      {
+        "name": "Capsicum",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12
+      },
+      {
+        "name": "Onion",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12
+      },
+      {
+        "name": "Tomato",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06
+      },
+      {
+        "name": "Mustard Oil",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05
+      },
+      {
+        "name": "Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025
+      },
+      {
+        "name": "Ginger-Garlic Paste",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025
+      },
+      {
+        "name": "Achari Masala",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025
+      },
+      {
+        "name": "Lemon Juice",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Kashmiri Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.004
+      },
+      {
+        "name": "Cumin Seeds",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Fennel Seeds",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Mustard Seeds",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.004
+      },
+      {
+        "name": "Nigella Seeds",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.004
+      },
+      {
+        "name": "Fenugreek Seeds",
+        "unit": "kg",
+        "min_qty": 0.001,
+        "max_qty": 0.003
+      },
+      {
+        "name": "Besan",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Cornflour",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01
+      },
+      {
+        "name": "Amchur Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Chaat Masala",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Garam Masala",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.004
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Kasuri Methi",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.004
+      },
+      {
+        "name": "Coriander Leaves",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01
+      },
+      {
+        "name": "Butter",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Food Colour",
+        "unit": "kg",
+        "min_qty": 0.001,
+        "max_qty": 0.002
+      }
+    ],
+    "cooking_loss_percent": 18,
+    "invalid_names": []
+  },
+  {
+    "name": "Paneer Tikka",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "unit": "kg",
+        "min_qty": 0.55,
+        "max_qty": 0.65
+      },
+      {
+        "name": "Capsicum",
+        "unit": "kg",
+        "min_qty": 0.15,
+        "max_qty": 0.2
+      },
+      {
+        "name": "Onion",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.18
+      },
+      {
+        "name": "Tomato",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.08
+      },
+      {
+        "name": "Curd",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.15
+      },
+      {
+        "name": "Ginger-Garlic Paste",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025
+      },
+      {
+        "name": "Mustard Oil",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.04
+      },
+      {
+        "name": "Lemon Juice",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Cumin Powder",
+        "unit": "kg",
+        "min_qty": 0.004,
+        "max_qty": 0.006
+      },
+      {
+        "name": "Coriander Powder",
+        "unit": "kg",
+        "min_qty": 0.004,
+        "max_qty": 0.006
+      },
+      {
+        "name": "Garam Masala",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Kasuri Methi",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003
+      },
+      {
+        "name": "Chaat Masala",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Besan",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Butter",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      }
+    ],
+    "cooking_loss_percent": 20,
+    "invalid_names": []
+  },
+  {
+    "name": "Paneer Manchurian",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "unit": "kg",
+        "min_qty": 0.4,
+        "max_qty": 0.5
+      },
+      {
+        "name": "Cornflour",
+        "unit": "kg",
+        "min_qty": 0.045,
+        "max_qty": 0.06
+      },
+      {
+        "name": "Maida",
+        "unit": "kg",
+        "min_qty": 0.035,
+        "max_qty": 0.05
+      },
+      {
+        "name": "Rice Flour",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12
+      },
+      {
+        "name": "Onion",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.15
+      },
+      {
+        "name": "Capsicum",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12
+      },
+      {
+        "name": "Spring Onion",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05
+      },
+      {
+        "name": "Ginger-Garlic Paste",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Green Chilli",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Garlic",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025
+      },
+      {
+        "name": "Soy Sauce",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025
+      },
+      {
+        "name": "Red Chilli Sauce",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Tomato Ketchup",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025
+      },
+      {
+        "name": "Vinegar",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Schezwan Sauce",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Sugar",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "MSG",
+        "unit": "kg",
+        "min_qty": 0.001,
+        "max_qty": 0.002
+      },
+      {
+        "name": "Water",
+        "unit": "kg",
+        "min_qty": 0.15,
+        "max_qty": 0.25
+      },
+      {
+        "name": "Coriander Leaves",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01
+      }
+    ],
+    "cooking_loss_percent": 20,
+    "invalid_names": []
+  },
+  {
+    "name": "Paneer 65",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "unit": "kg",
+        "min_qty": 0.55,
+        "max_qty": 0.65
+      },
+      {
+        "name": "Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.15,
+        "max_qty": 0.2
+      },
+      {
+        "name": "Cornflour",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06
+      },
+      {
+        "name": "Rice Flour",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05
+      },
+      {
+        "name": "Maida",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.04
+      },
+      {
+        "name": "Curd",
+        "unit": "kg",
+        "min_qty": 0.06,
+        "max_qty": 0.08
+      },
+      {
+        "name": "Ginger-Garlic Paste",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Kashmiri Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Garam Masala",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Curry Leaves",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Green Chilli",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025
+      },
+      {
+        "name": "Garlic",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Onion",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.07
+      },
+      {
+        "name": "Lemon Juice",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Food Colour",
+        "unit": "kg",
+        "min_qty": 0.001,
+        "max_qty": 0.002
+      }
+    ],
+    "cooking_loss_percent": 15,
+    "invalid_names": []
+  },
+  {
+    "name": "Boiled Egg",
+    "ingredients": [
+      {
+        "name": "Eggs",
+        "unit": "kg",
+        "min_qty": 1.0,
+        "max_qty": 1.05
+      },
+      {
+        "name": "Water",
+        "unit": "kg",
+        "min_qty": 0.8,
+        "max_qty": 1.0
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01
+      }
+    ],
+    "cooking_loss_percent": 5,
+    "invalid_names": []
+  },
+  {
+    "name": "Egg Pakoda",
+    "ingredients": [
+      {
+        "name": "Eggs",
+        "unit": "kg",
+        "min_qty": 0.48,
+        "max_qty": 0.54
+      },
+      {
+        "name": "Besan",
+        "unit": "kg",
+        "min_qty": 0.18,
+        "max_qty": 0.22
+      },
+      {
+        "name": "Rice Flour",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05
+      },
+      {
+        "name": "Onion",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12
+      },
+      {
+        "name": "Green Chilli",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Curry Leaves",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Coriander Leaves",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Ginger-Garlic Paste",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Cumin Seeds",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Carom Seeds",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.004
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.004
+      },
+      {
+        "name": "Chaat Masala",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.012,
+        "max_qty": 0.018
+      },
+      {
+        "name": "Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.18,
+        "max_qty": 0.25
+      },
+      {
+        "name": "Water",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.08
+      }
+    ],
+    "cooking_loss_percent": 15,
+    "invalid_names": []
+  },
+  {
+    "name": "Chilli Egg",
+    "ingredients": [
+      {
+        "name": "Eggs",
+        "unit": "kg",
+        "min_qty": 0.54,
+        "max_qty": 0.6
+      },
+      {
+        "name": "Maida",
+        "unit": "kg",
+        "min_qty": 0.035,
+        "max_qty": 0.05
+      },
+      {
+        "name": "Cornflour",
+        "unit": "kg",
+        "min_qty": 0.035,
+        "max_qty": 0.05
+      },
+      {
+        "name": "Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12
+      },
+      {
+        "name": "Onion",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.14
+      },
+      {
+        "name": "Capsicum",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.11
+      },
+      {
+        "name": "Ginger-Garlic Paste",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025
+      },
+      {
+        "name": "Green Chilli",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Spring Onion",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Soy Sauce",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025
+      },
+      {
+        "name": "Red Chilli Sauce",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025
+      },
+      {
+        "name": "Tomato Ketchup",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Vinegar",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.004
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.004
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Sugar",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "MSG",
+        "unit": "kg",
+        "min_qty": 0.001,
+        "max_qty": 0.002
+      },
+      {
+        "name": "Sesame Oil",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Coriander Leaves",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01
+      }
+    ],
+    "cooking_loss_percent": 18,
+    "invalid_names": []
+  },
+  {
+    "name": "Chicken Malai Tikka",
+    "ingredients": [
+      {
+        "name": "Chicken Boneless",
+        "unit": "kg",
+        "min_qty": 0.85,
+        "max_qty": 1.0
+      },
+      {
+        "name": "Curd",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12
+      },
+      {
+        "name": "Fresh Cream",
+        "unit": "kg",
+        "min_qty": 0.06,
+        "max_qty": 0.08
+      },
+      {
+        "name": "Processed Cheese",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06
+      },
+      {
+        "name": "Ginger-Garlic Paste",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.04
+      },
+      {
+        "name": "Green Chilli Paste",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Lemon Juice",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Cornflour",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Mustard Oil",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06
+      },
+      {
+        "name": "White Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Cardamom",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003
+      },
+      {
+        "name": "Mace",
+        "unit": "kg",
+        "min_qty": 0.001,
+        "max_qty": 0.002
+      },
+      {
+        "name": "Kasuri Methi",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Chaat Masala",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      }
+    ],
+    "cooking_loss_percent": 22,
+    "invalid_names": []
+  },
+  {
+    "name": "Chicken Joojeh Kebab",
+    "ingredients": [
+      {
+        "name": "Chicken Boneless",
+        "unit": "kg",
+        "min_qty": 0.95,
+        "max_qty": 1.15
+      },
+      {
+        "name": "Curd",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12
+      },
+      {
+        "name": "Onion",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12
+      },
+      {
+        "name": "Lemon Juice",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06
+      },
+      {
+        "name": "Saffron",
+        "unit": "kg",
+        "min_qty": 0.0003,
+        "max_qty": 0.0005
+      },
+      {
+        "name": "Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.08
+      },
+      {
+        "name": "Ginger-Garlic Paste",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.035
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.004
+      },
+      {
+        "name": "Kashmiri Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Capsicum",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.08
+      },
+      {
+        "name": "Tomato",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06
+      }
+    ],
+    "cooking_loss_percent": 22,
+    "invalid_names": []
+  },
+  {
+    "name": "Chicken Lollipop Pakoda",
+    "ingredients": [
+      {
+        "name": "Chicken Bone-in",
+        "unit": "kg",
+        "min_qty": 0.65,
+        "max_qty": 0.75
+      },
+      {
+        "name": "Curd",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.08
+      },
+      {
+        "name": "Eggs",
+        "unit": "kg",
+        "min_qty": 0.06,
+        "max_qty": 0.06
+      },
+      {
+        "name": "Besan",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12
+      },
+      {
+        "name": "Cornflour",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.08
+      },
+      {
+        "name": "Maida",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05
+      },
+      {
+        "name": "Rice Flour",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Ginger-Garlic Paste",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Kashmiri Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Garam Masala",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Cumin Powder",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003
+      },
+      {
+        "name": "Kasuri Methi",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Curry Leaves",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Coriander Leaves",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Green Chilli",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Onion",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05
+      },
+      {
+        "name": "Lemon Juice",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "MSG",
+        "unit": "kg",
+        "min_qty": 0.001,
+        "max_qty": 0.002
+      },
+      {
+        "name": "Food Colour",
+        "unit": "kg",
+        "min_qty": 0.001,
+        "max_qty": 0.002
+      },
+      {
+        "name": "Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.18
+      },
+      {
+        "name": "Water",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05
+      }
+    ],
+    "cooking_loss_percent": 18,
+    "invalid_names": []
+  },
+  {
+    "name": "Chilly Chicken Lollipop",
+    "ingredients": [
+      {
+        "name": "Chicken Bone-in",
+        "unit": "kg",
+        "min_qty": 0.75,
+        "max_qty": 0.9
+      },
+      {
+        "name": "Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.15
+      },
+      {
+        "name": "Cornflour",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06
+      },
+      {
+        "name": "Maida",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.04
+      },
+      {
+        "name": "Eggs",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.06
+      },
+      {
+        "name": "Ginger",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Garlic",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Green Chilli",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Dried Red Chilli Byadagi",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Onion",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.1
+      },
+      {
+        "name": "Capsicum",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.07
+      },
+      {
+        "name": "Spring Onion",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Soy Sauce",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Red Chilli Sauce",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Tomato Ketchup",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Vinegar",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.01
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Sugar",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "MSG",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003
+      }
+    ],
+    "cooking_loss_percent": 18,
+    "invalid_names": []
+  },
+  {
+    "name": "Chicken Manchurian",
+    "ingredients": [
+      {
+        "name": "Chicken Boneless",
+        "unit": "kg",
+        "min_qty": 0.45,
+        "max_qty": 0.55
+      },
+      {
+        "name": "Cornflour",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.075
+      },
+      {
+        "name": "Maida",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05
+      },
+      {
+        "name": "Eggs",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.06
+      },
+      {
+        "name": "Onion",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.15
+      },
+      {
+        "name": "Capsicum",
+        "unit": "kg",
+        "min_qty": 0.06,
+        "max_qty": 0.08
+      },
+      {
+        "name": "Spring Onion",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Ginger",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Garlic",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Green Chilli",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Soy Sauce",
+        "unit": "kg",
+        "min_qty": 0.025,
+        "max_qty": 0.035
+      },
+      {
+        "name": "Vinegar",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Red Chilli Sauce",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Tomato Ketchup",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Sugar",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.15
+      },
+      {
+        "name": "Water",
+        "unit": "kg",
+        "min_qty": 0.15,
+        "max_qty": 0.2
+      }
+    ],
+    "cooking_loss_percent": 18,
+    "invalid_names": []
+  },
+  {
+    "name": "Andhra Kodi Vepudu (Bone)",
+    "ingredients": [
+      {
+        "name": "Chicken Bone-in",
+        "unit": "kg",
+        "min_qty": 0.75,
+        "max_qty": 0.85
+      },
+      {
+        "name": "Onion",
+        "unit": "kg",
+        "min_qty": 0.15,
+        "max_qty": 0.2
+      },
+      {
+        "name": "Tomato",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.08
+      },
+      {
+        "name": "Ginger-Garlic Paste",
+        "unit": "kg",
+        "min_qty": 0.025,
+        "max_qty": 0.035
+      },
+      {
+        "name": "Green Chilli",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Curry Leaves",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Coriander Leaves",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.06,
+        "max_qty": 0.08
+      },
+      {
+        "name": "Ghee",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Lemon Juice",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Kashmiri Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Coriander Powder",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Cumin Powder",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Vepudu Masala",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Garam Masala",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Mustard Seeds",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Cumin Seeds",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Dried Red Chilli Guntur",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Fennel Seeds",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.004
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Water",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.08
+      }
+    ],
+    "cooking_loss_percent": 22,
+    "invalid_names": []
+  },
+  {
+    "name": "Andhra Pepper Chicken (Oil Fry)",
+    "ingredients": [
+      {
+        "name": "Chicken Bone-in",
+        "unit": "kg",
+        "min_qty": 0.75,
+        "max_qty": 0.9
+      },
+      {
+        "name": "Onion",
+        "unit": "kg",
+        "min_qty": 0.15,
+        "max_qty": 0.2
+      },
+      {
+        "name": "Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.18
+      },
+      {
+        "name": "Black Peppercorns",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025
+      },
+      {
+        "name": "Ginger",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Garlic",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Green Chilli",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025
+      },
+      {
+        "name": "Curry Leaves",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Cumin Seeds",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Cinnamon",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Cloves",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.004
+      },
+      {
+        "name": "Lemon Juice",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Coriander Leaves",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01
+      }
+    ],
+    "cooking_loss_percent": 20,
+    "invalid_names": []
+  },
+  {
+    "name": "Kaju Chicken Pakoda",
+    "ingredients": [
+      {
+        "name": "Chicken Boneless",
+        "unit": "kg",
+        "min_qty": 0.5,
+        "max_qty": 0.6
+      },
+      {
+        "name": "Cashew",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12
+      },
+      {
+        "name": "Eggs",
+        "unit": "kg",
+        "min_qty": 0.06,
+        "max_qty": 0.08
+      },
+      {
+        "name": "Ginger-Garlic Paste",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Green Chilli Paste",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Cornflour",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.07
+      },
+      {
+        "name": "Maida",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05
+      },
+      {
+        "name": "Besan",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05
+      },
+      {
+        "name": "Rice Flour",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Coriander Powder",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Cumin Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Garam Masala",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.004
+      },
+      {
+        "name": "Lemon Juice",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Curry Leaves",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Coriander Leaves",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.012,
+        "max_qty": 0.018
+      },
+      {
+        "name": "Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.18
+      },
+      {
+        "name": "Food Colour",
+        "unit": "kg",
+        "min_qty": 0.001,
+        "max_qty": 0.002
+      }
+    ],
+    "cooking_loss_percent": 18,
+    "invalid_names": []
+  },
+  {
+    "name": "Fish Pakoda",
+    "ingredients": [
+      {
+        "name": "Fish Basa",
+        "unit": "kg",
+        "min_qty": 0.5,
+        "max_qty": 0.6
+      },
+      {
+        "name": "Besan",
+        "unit": "kg",
+        "min_qty": 0.15,
+        "max_qty": 0.2
+      },
+      {
+        "name": "Rice Flour",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05
+      },
+      {
+        "name": "Cornflour",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Ginger-Garlic Paste",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Kashmiri Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003
+      },
+      {
+        "name": "Amchur Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Cumin Powder",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003
+      },
+      {
+        "name": "Carom Seeds",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003
+      },
+      {
+        "name": "Chaat Masala",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Lemon Juice",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Coriander Leaves",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01
+      },
+      {
+        "name": "Green Chilli Paste",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Water",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12
+      },
+      {
+        "name": "Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.18
+      },
+      {
+        "name": "Food Colour",
+        "unit": "kg",
+        "min_qty": 0.0005,
+        "max_qty": 0.001
+      }
+    ],
+    "cooking_loss_percent": 15,
+    "invalid_names": []
+  },
+  {
+    "name": "Chilly Apollo Fish",
+    "ingredients": [
+      {
+        "name": "Fish Basa",
+        "unit": "kg",
+        "min_qty": 0.55,
+        "max_qty": 0.65
+      },
+      {
+        "name": "Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.15
+      },
+      {
+        "name": "Cornflour",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06
+      },
+      {
+        "name": "Maida",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.05
+      },
+      {
+        "name": "Eggs",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.06
+      },
+      {
+        "name": "Onion",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.12
+      },
+      {
+        "name": "Capsicum",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.07
+      },
+      {
+        "name": "Green Chilli",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Ginger-Garlic Paste",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Kashmiri Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Soy Sauce",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Tomato Ketchup",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Curry Leaves",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Lemon Juice",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Sesame Oil",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      }
+    ],
+    "cooking_loss_percent": 15,
+    "invalid_names": []
+  },
+  {
+    "name": "Prawns Vepudu",
+    "ingredients": [
+      {
+        "name": "Prawns",
+        "unit": "kg",
+        "min_qty": 0.65,
+        "max_qty": 0.75
+      },
+      {
+        "name": "Onion",
+        "unit": "kg",
+        "min_qty": 0.18,
+        "max_qty": 0.25
+      },
+      {
+        "name": "Tomato",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12
+      },
+      {
+        "name": "Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.1
+      },
+      {
+        "name": "Ginger-Garlic Paste",
+        "unit": "kg",
+        "min_qty": 0.025,
+        "max_qty": 0.035
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.004,
+        "max_qty": 0.006
+      },
+      {
+        "name": "Fennel Seeds",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Cumin Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Coriander Powder",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Curry Leaves",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Green Chilli",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Mustard Seeds",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Lemon Juice",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Coriander Leaves",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      }
+    ],
+    "cooking_loss_percent": 18,
+    "invalid_names": []
+  },
+  {
+    "name": "Chilly Prawns",
+    "ingredients": [
+      {
+        "name": "Prawns",
+        "unit": "kg",
+        "min_qty": 0.55,
+        "max_qty": 0.65
+      },
+      {
+        "name": "Onion",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.14
+      },
+      {
+        "name": "Capsicum",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12
+      },
+      {
+        "name": "Cornflour",
+        "unit": "kg",
+        "min_qty": 0.04,
+        "max_qty": 0.06
+      },
+      {
+        "name": "Maida",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Eggs",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.06
+      },
+      {
+        "name": "Ginger-Garlic Paste",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Green Chilli",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Dried Red Chilli Guntur",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Soy Sauce",
+        "unit": "kg",
+        "min_qty": 0.025,
+        "max_qty": 0.035
+      },
+      {
+        "name": "Vinegar",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Tomato Ketchup",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.04
+      },
+      {
+        "name": "Sugar",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Spring Onion",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025
+      },
+      {
+        "name": "Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.12,
+        "max_qty": 0.15
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Sesame Oil",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      }
+    ],
+    "cooking_loss_percent": 20,
+    "invalid_names": []
+  },
+  {
+    "name": "Mutton Ghee Roast",
+    "ingredients": [
+      {
+        "name": "Mutton Bone-in",
+        "unit": "kg",
+        "min_qty": 0.65,
+        "max_qty": 0.75
+      },
+      {
+        "name": "Ghee",
+        "unit": "kg",
+        "min_qty": 0.06,
+        "max_qty": 0.09
+      },
+      {
+        "name": "Onion",
+        "unit": "kg",
+        "min_qty": 0.15,
+        "max_qty": 0.2
+      },
+      {
+        "name": "Ginger-Garlic Paste",
+        "unit": "kg",
+        "min_qty": 0.025,
+        "max_qty": 0.035
+      },
+      {
+        "name": "Garlic",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Dried Red Chilli Byadagi",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.025
+      },
+      {
+        "name": "Dried Red Chilli Guntur",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01
+      },
+      {
+        "name": "Coriander Seeds",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Cumin Seeds",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Black Peppercorns",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Fenugreek Seeds",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003
+      },
+      {
+        "name": "Cloves",
+        "unit": "kg",
+        "min_qty": 0.001,
+        "max_qty": 0.002
+      },
+      {
+        "name": "Cinnamon",
+        "unit": "kg",
+        "min_qty": 0.001,
+        "max_qty": 0.002
+      },
+      {
+        "name": "Fennel Seeds",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003
+      },
+      {
+        "name": "Tamarind Pulp",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Kashmiri Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.008,
+        "max_qty": 0.012
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003
+      },
+      {
+        "name": "Curry Leaves",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Mustard Seeds",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003
+      },
+      {
+        "name": "Jaggery",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Water",
+        "unit": "kg",
+        "min_qty": 0.15,
+        "max_qty": 0.25
+      },
+      {
+        "name": "Coriander Leaves",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.01
+      }
+    ],
+    "cooking_loss_percent": 22,
+    "invalid_names": []
+  },
+  {
+    "name": "Mutton Shami Kebab",
+    "ingredients": [
+      {
+        "name": "Mutton Boneless",
+        "unit": "kg",
+        "min_qty": 0.7,
+        "max_qty": 0.85
+      },
+      {
+        "name": "Chana Dal",
+        "unit": "kg",
+        "min_qty": 0.18,
+        "max_qty": 0.22
+      },
+      {
+        "name": "Eggs",
+        "unit": "kg",
+        "min_qty": 0.1,
+        "max_qty": 0.13
+      },
+      {
+        "name": "Onion",
+        "unit": "kg",
+        "min_qty": 0.06,
+        "max_qty": 0.08
+      },
+      {
+        "name": "Ginger",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Garlic",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Green Chilli",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Coriander Leaves",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Mint Leaves",
+        "unit": "kg",
+        "min_qty": 0.01,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Cardamom",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Cinnamon",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Cloves",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003
+      },
+      {
+        "name": "Black Peppercorns",
+        "unit": "kg",
+        "min_qty": 0.002,
+        "max_qty": 0.003
+      },
+      {
+        "name": "Bay Leaves",
+        "unit": "kg",
+        "min_qty": 0.001,
+        "max_qty": 0.002
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Besan",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.012,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.08,
+        "max_qty": 0.12
+      }
+    ],
+    "cooking_loss_percent": 15,
+    "invalid_names": []
+  },
+  {
+    "name": "Prawn Pakoda",
+    "ingredients": [
+      {
+        "name": "Prawns",
+        "unit": "kg",
+        "min_qty": 0.5,
+        "max_qty": 0.6
+      },
+      {
+        "name": "Besan",
+        "unit": "kg",
+        "min_qty": 0.18,
+        "max_qty": 0.22
+      },
+      {
+        "name": "Rice Flour",
+        "unit": "kg",
+        "min_qty": 0.06,
+        "max_qty": 0.08
+      },
+      {
+        "name": "Cornflour",
+        "unit": "kg",
+        "min_qty": 0.03,
+        "max_qty": 0.04
+      },
+      {
+        "name": "Eggs",
+        "unit": "kg",
+        "min_qty": 0.05,
+        "max_qty": 0.06
+      },
+      {
+        "name": "Ginger-Garlic Paste",
+        "unit": "kg",
+        "min_qty": 0.02,
+        "max_qty": 0.03
+      },
+      {
+        "name": "Red Chilli Powder",
+        "unit": "kg",
+        "min_qty": 0.015,
+        "max_qty": 0.02
+      },
+      {
+        "name": "Turmeric Powder",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Black Pepper Powder",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      },
+      {
+        "name": "Curry Leaves",
+        "unit": "kg",
+        "min_qty": 0.005,
+        "max_qty": 0.008
+      },
+      {
+        "name": "Salt",
+        "unit": "kg",
+        "min_qty": 0.012,
+        "max_qty": 0.015
+      },
+      {
+        "name": "Refined Oil",
+        "unit": "kg",
+        "min_qty": 0.15,
+        "max_qty": 0.2
+      },
+      {
+        "name": "Carom Seeds",
+        "unit": "kg",
+        "min_qty": 0.003,
+        "max_qty": 0.005
+      }
+    ],
+    "cooking_loss_percent": 15,
+    "invalid_names": []
+  }
+]

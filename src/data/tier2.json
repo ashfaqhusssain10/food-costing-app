@@ -1,0 +1,164 @@
+{
+  "Ginger-Garlic Paste": {
+    "components": {
+      "Ginger": 0.45,
+      "Garlic": 0.45,
+      "Refined Oil": 0.05,
+      "Salt": 0.05
+    },
+    "unit": "kg",
+    "description": "Equal parts ginger and garlic blended with oil"
+  },
+  "Green Chilli Paste": {
+    "components": {
+      "Green Chilli": 0.88,
+      "Salt": 0.05,
+      "Refined Oil": 0.05,
+      "Water": 0.02
+    },
+    "unit": "kg",
+    "description": "Fresh green chillies blended to paste"
+  },
+  "Garam Masala": {
+    "components": {
+      "Cardamom": 0.15,
+      "Cloves": 0.12,
+      "Cinnamon": 0.2,
+      "Black Peppercorns": 0.18,
+      "Cumin Seeds": 0.15,
+      "Fennel Seeds": 0.1,
+      "Bay Leaves": 0.05,
+      "Mace": 0.05
+    },
+    "unit": "kg",
+    "description": "Dry roasted and ground whole spice blend"
+  },
+  "Chaat Masala": {
+    "components": {
+      "Cumin Powder": 0.2,
+      "Amchur Powder": 0.3,
+      "Black Pepper Powder": 0.1,
+      "Salt": 0.2,
+      "Red Chilli Powder": 0.1,
+      "Coriander Powder": 0.1
+    },
+    "unit": "kg",
+    "description": "Tangy spice blend with dry mango powder"
+  },
+  "Biryani Masala": {
+    "components": {
+      "Cardamom": 0.15,
+      "Cloves": 0.1,
+      "Cinnamon": 0.15,
+      "Black Peppercorns": 0.1,
+      "Bay Leaves": 0.05,
+      "Mace": 0.1,
+      "Nutmeg": 0.1,
+      "Fennel Seeds": 0.1,
+      "Star Anise": 0.05,
+      "Cumin Seeds": 0.1
+    },
+    "unit": "kg",
+    "description": "Aromatic whole spice blend for biryani"
+  },
+  "Sambar Powder": {
+    "components": {
+      "Coriander Seeds": 0.3,
+      "Dried Red Chilli Byadagi": 0.2,
+      "Cumin Seeds": 0.1,
+      "Black Peppercorns": 0.08,
+      "Fenugreek Seeds": 0.05,
+      "Turmeric Powder": 0.07,
+      "Mustard Seeds": 0.05,
+      "Chana Dal": 0.08,
+      "Urad Dal": 0.07
+    },
+    "unit": "kg",
+    "description": "South Indian lentil soup spice powder"
+  },
+  "Coriander-Cumin Powder": {
+    "components": {
+      "Coriander Seeds": 0.65,
+      "Cumin Seeds": 0.35
+    },
+    "unit": "kg",
+    "description": "Roasted and ground dhania-jeera mix"
+  },
+  "Tandoori Masala": {
+    "components": {
+      "Kashmiri Chilli Powder": 0.25,
+      "Coriander Powder": 0.15,
+      "Cumin Powder": 0.15,
+      "Black Pepper Powder": 0.08,
+      "Cardamom": 0.05,
+      "Cloves": 0.05,
+      "Cinnamon": 0.05,
+      "Amchur Powder": 0.1,
+      "Ginger": 0.06,
+      "Garlic": 0.06
+    },
+    "unit": "kg",
+    "description": "Tandoor/grill marinade spice blend"
+  },
+  "Schezwan Sauce": {
+    "components": {
+      "Dried Red Chilli Guntur": 0.2,
+      "Garlic": 0.15,
+      "Ginger": 0.1,
+      "Soy Sauce": 0.15,
+      "Vinegar": 0.1,
+      "Refined Oil": 0.15,
+      "Sugar": 0.05,
+      "Salt": 0.05,
+      "Tomato Ketchup": 0.05
+    },
+    "unit": "kg",
+    "description": "Indo-Chinese hot sauce made in-house"
+  },
+  "Panch Phoron": {
+    "components": {
+      "Cumin Seeds": 0.2,
+      "Mustard Seeds": 0.2,
+      "Fennel Seeds": 0.2,
+      "Fenugreek Seeds": 0.2,
+      "Nigella Seeds": 0.2
+    },
+    "unit": "kg",
+    "description": "Bengali five-spice whole seed blend"
+  },
+  "Vepudu Masala": {
+    "components": {
+      "Coriander Seeds": 0.25,
+      "Dried Red Chilli Guntur": 0.2,
+      "Black Peppercorns": 0.15,
+      "Cumin Seeds": 0.15,
+      "Fennel Seeds": 0.1,
+      "Cinnamon": 0.08,
+      "Cloves": 0.07
+    },
+    "unit": "kg",
+    "description": "Andhra dry fry spice blend"
+  },
+  "Achari Masala": {
+    "components": {
+      "Fennel Seeds": 0.2,
+      "Mustard Seeds": 0.15,
+      "Nigella Seeds": 0.15,
+      "Fenugreek Seeds": 0.1,
+      "Cumin Seeds": 0.15,
+      "Red Chilli Powder": 0.15,
+      "Turmeric Powder": 0.05,
+      "Salt": 0.05
+    },
+    "unit": "kg",
+    "description": "Pickle-style spice blend for achari preparations"
+  },
+  "Cashew Paste": {
+    "components": {
+      "Cashew": 0.85,
+      "Water": 0.15
+    },
+    "unit": "kg",
+    "description": "Soaked cashews blended to smooth paste"
+  }
+}

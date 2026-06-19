@@ -1,0 +1,1745 @@
+[
+  {
+    "id": 1,
+    "ingredient": "Ajinomoto (MSG - optional)",
+    "unit": "kg",
+    "price": 200.0,
+    "editable": true
+  },
+  {
+    "id": 2,
+    "ingredient": "Ajinomoto (MSG) - optional",
+    "unit": "kg",
+    "price": 200.0,
+    "editable": true
+  },
+  {
+    "id": 3,
+    "ingredient": "Amchur",
+    "unit": "kg",
+    "price": 200.0,
+    "editable": true
+  },
+  {
+    "id": 4,
+    "ingredient": "Baby Corn",
+    "unit": "kg",
+    "price": 85.0,
+    "editable": true
+  },
+  {
+    "id": 5,
+    "ingredient": "Basa Fish (boneless fillets)",
+    "unit": "kg",
+    "price": 200.0,
+    "editable": true
+  },
+  {
+    "id": 6,
+    "ingredient": "Bay Leaves",
+    "unit": "kg",
+    "price": 400.0,
+    "editable": true
+  },
+  {
+    "id": 7,
+    "ingredient": "Besan (Gram Flour - binding)",
+    "unit": "kg",
+    "price": 70.0,
+    "editable": true
+  },
+  {
+    "id": 8,
+    "ingredient": "Besan (Gram Flour - roasted)",
+    "unit": "kg",
+    "price": 90.0,
+    "editable": true
+  },
+  {
+    "id": 9,
+    "ingredient": "Besan (Gram Flour)",
+    "unit": "kg",
+    "price": 60.0,
+    "editable": true
+  },
+  {
+    "id": 10,
+    "ingredient": "Black Pepper",
+    "unit": "kg",
+    "price": 550.0,
+    "editable": true
+  },
+  {
+    "id": 11,
+    "ingredient": "Black Pepper Powder",
+    "unit": "kg",
+    "price": 450.0,
+    "editable": true
+  },
+  {
+    "id": 12,
+    "ingredient": "Black Pepper Powder (in-house)",
+    "unit": "kg",
+    "price": 550.0,
+    "editable": true
+  },
+  {
+    "id": 13,
+    "ingredient": "Black Peppercorns",
+    "unit": "kg",
+    "price": 600.0,
+    "editable": true
+  },
+  {
+    "id": 14,
+    "ingredient": "Black pepper",
+    "unit": "kg",
+    "price": 600.0,
+    "editable": true
+  },
+  {
+    "id": 15,
+    "ingredient": "Black pepper (in-house vepudu masala)",
+    "unit": "kg",
+    "price": 550.0,
+    "editable": true
+  },
+  {
+    "id": 16,
+    "ingredient": "Black pepper powder",
+    "unit": "kg",
+    "price": 575.0,
+    "editable": true
+  },
+  {
+    "id": 17,
+    "ingredient": "Boneless Chicken",
+    "unit": "kg",
+    "price": 220.0,
+    "editable": true
+  },
+  {
+    "id": 18,
+    "ingredient": "Boneless Chicken (thigh/breast cubes)",
+    "unit": "kg",
+    "price": 220.0,
+    "editable": true
+  },
+  {
+    "id": 19,
+    "ingredient": "Boneless Chicken (thigh/breast)",
+    "unit": "kg",
+    "price": 232.5,
+    "editable": true
+  },
+  {
+    "id": 20,
+    "ingredient": "Boneless Chicken (thigh/breast, cut into pieces)",
+    "unit": "kg",
+    "price": 230.0,
+    "editable": true
+  },
+  {
+    "id": 21,
+    "ingredient": "Breadcrumbs (coating)",
+    "unit": "kg",
+    "price": 67.5,
+    "editable": true
+  },
+  {
+    "id": 22,
+    "ingredient": "Broccoli (florets)",
+    "unit": "kg",
+    "price": 80.0,
+    "editable": true
+  },
+  {
+    "id": 23,
+    "ingredient": "Butter",
+    "unit": "kg",
+    "price": 450.0,
+    "editable": true
+  },
+  {
+    "id": 24,
+    "ingredient": "Butter/Ghee",
+    "unit": "kg",
+    "price": 450.0,
+    "editable": true
+  },
+  {
+    "id": 25,
+    "ingredient": "Button Mushroom",
+    "unit": "kg",
+    "price": 90.0,
+    "editable": true
+  },
+  {
+    "id": 26,
+    "ingredient": "Cabbage",
+    "unit": "kg",
+    "price": 18.0,
+    "editable": true
+  },
+  {
+    "id": 27,
+    "ingredient": "Cabbage (shredded)",
+    "unit": "kg",
+    "price": 18.0,
+    "editable": true
+  },
+  {
+    "id": 28,
+    "ingredient": "Capsicum",
+    "unit": "kg",
+    "price": 40.0,
+    "editable": true
+  },
+  {
+    "id": 29,
+    "ingredient": "Capsicum (Bell Pepper)",
+    "unit": "kg",
+    "price": 45.0,
+    "editable": true
+  },
+  {
+    "id": 30,
+    "ingredient": "Capsicum (Bell Peppers - mixed)",
+    "unit": "kg",
+    "price": 50.0,
+    "editable": true
+  },
+  {
+    "id": 31,
+    "ingredient": "Capsicum (green bell pepper)",
+    "unit": "kg",
+    "price": 40.0,
+    "editable": true
+  },
+  {
+    "id": 32,
+    "ingredient": "Capsicum / Bell Pepper",
+    "unit": "kg",
+    "price": 50.0,
+    "editable": true
+  },
+  {
+    "id": 33,
+    "ingredient": "Cardamom Powder",
+    "unit": "kg",
+    "price": 1900.0,
+    "editable": true
+  },
+  {
+    "id": 34,
+    "ingredient": "Carom Seeds (Ajwain)",
+    "unit": "kg",
+    "price": 200.0,
+    "editable": true
+  },
+  {
+    "id": 35,
+    "ingredient": "Carrot",
+    "unit": "kg",
+    "price": 25.0,
+    "editable": true
+  },
+  {
+    "id": 36,
+    "ingredient": "Cashew Nuts (broken/split, W450 grade)",
+    "unit": "kg",
+    "price": 750.0,
+    "editable": true
+  },
+  {
+    "id": 37,
+    "ingredient": "Cashew Paste (in-house from raw cashews)",
+    "unit": "kg",
+    "price": 700.0,
+    "editable": true
+  },
+  {
+    "id": 38,
+    "ingredient": "Cashew Paste (raw cashew cost)",
+    "unit": "kg",
+    "price": 750.0,
+    "editable": true
+  },
+  {
+    "id": 39,
+    "ingredient": "Cauliflower (florets)",
+    "unit": "kg",
+    "price": 25.0,
+    "editable": true
+  },
+  {
+    "id": 40,
+    "ingredient": "Chaat Masala",
+    "unit": "kg",
+    "price": 220.0,
+    "editable": true
+  },
+  {
+    "id": 41,
+    "ingredient": "Chaat Masala (in-house)",
+    "unit": "kg",
+    "price": 350.0,
+    "editable": true
+  },
+  {
+    "id": 42,
+    "ingredient": "Chaat masala (in-house)",
+    "unit": "kg",
+    "price": 250.0,
+    "editable": true
+  },
+  {
+    "id": 43,
+    "ingredient": "Chana Dal",
+    "unit": "kg",
+    "price": 90.0,
+    "editable": true
+  },
+  {
+    "id": 44,
+    "ingredient": "Chana Dal (Bengal Gram Dal)",
+    "unit": "kg",
+    "price": 80.0,
+    "editable": true
+  },
+  {
+    "id": 45,
+    "ingredient": "Chana Dal (soaked & cooked)",
+    "unit": "kg",
+    "price": 80.0,
+    "editable": true
+  },
+  {
+    "id": 46,
+    "ingredient": "Charcoal/Fuel",
+    "unit": "kg",
+    "price": 30.0,
+    "editable": true
+  },
+  {
+    "id": 47,
+    "ingredient": "Chat Masala",
+    "unit": "kg",
+    "price": 225.0,
+    "editable": true
+  },
+  {
+    "id": 48,
+    "ingredient": "Chicken (bone-in pieces)",
+    "unit": "kg",
+    "price": 150.0,
+    "editable": true
+  },
+  {
+    "id": 49,
+    "ingredient": "Chicken (boneless)",
+    "unit": "kg",
+    "price": 210.0,
+    "editable": true
+  },
+  {
+    "id": 50,
+    "ingredient": "Chicken Boneless (thigh/breast)",
+    "unit": "kg",
+    "price": 227.5,
+    "editable": true
+  },
+  {
+    "id": 51,
+    "ingredient": "Chicken Winglets (Lollipop cut)",
+    "unit": "kg",
+    "price": 180.0,
+    "editable": true
+  },
+  {
+    "id": 52,
+    "ingredient": "Chicken Winglets/Drumettes (frenched into lollipop)",
+    "unit": "kg",
+    "price": 150.0,
+    "editable": true
+  },
+  {
+    "id": 53,
+    "ingredient": "Chicken with bone (curry cut)",
+    "unit": "kg",
+    "price": 145.0,
+    "editable": true
+  },
+  {
+    "id": 54,
+    "ingredient": "Chicken with bone (cut pieces)",
+    "unit": "kg",
+    "price": 150.0,
+    "editable": true
+  },
+  {
+    "id": 55,
+    "ingredient": "Chilli Sauce (bulk)",
+    "unit": "kg",
+    "price": 80.0,
+    "editable": true
+  },
+  {
+    "id": 56,
+    "ingredient": "Cinnamon (in-house vepudu masala)",
+    "unit": "kg",
+    "price": 500.0,
+    "editable": true
+  },
+  {
+    "id": 57,
+    "ingredient": "Cinnamon Stick",
+    "unit": "kg",
+    "price": 700.0,
+    "editable": true
+  },
+  {
+    "id": 58,
+    "ingredient": "Cinnamon stick",
+    "unit": "kg",
+    "price": 550.0,
+    "editable": true
+  },
+  {
+    "id": 59,
+    "ingredient": "Cloves",
+    "unit": "kg",
+    "price": 1000.0,
+    "editable": true
+  },
+  {
+    "id": 60,
+    "ingredient": "Cloves (in-house vepudu masala)",
+    "unit": "kg",
+    "price": 900.0,
+    "editable": true
+  },
+  {
+    "id": 61,
+    "ingredient": "Colored bell pepper (red/yellow)",
+    "unit": "kg",
+    "price": 80.0,
+    "editable": true
+  },
+  {
+    "id": 62,
+    "ingredient": "Cooking Oil",
+    "unit": "kg",
+    "price": 110.0,
+    "editable": true
+  },
+  {
+    "id": 63,
+    "ingredient": "Cooking Oil (net absorption during deep frying)",
+    "unit": "kg",
+    "price": 115.0,
+    "editable": true
+  },
+  {
+    "id": 64,
+    "ingredient": "Cooking oil",
+    "unit": "kg",
+    "price": 125.0,
+    "editable": true
+  },
+  {
+    "id": 65,
+    "ingredient": "Coriander Leaves",
+    "unit": "kg",
+    "price": 30.0,
+    "editable": true
+  },
+  {
+    "id": 66,
+    "ingredient": "Coriander Powder",
+    "unit": "kg",
+    "price": 145.0,
+    "editable": true
+  },
+  {
+    "id": 67,
+    "ingredient": "Coriander Seeds",
+    "unit": "kg",
+    "price": 150.0,
+    "editable": true
+  },
+  {
+    "id": 68,
+    "ingredient": "Coriander leaves (garnish)",
+    "unit": "kg",
+    "price": 50.0,
+    "editable": true
+  },
+  {
+    "id": 69,
+    "ingredient": "Coriander powder",
+    "unit": "kg",
+    "price": 130.0,
+    "editable": true
+  },
+  {
+    "id": 70,
+    "ingredient": "Corn Flour",
+    "unit": "kg",
+    "price": 52.5,
+    "editable": true
+  },
+  {
+    "id": 71,
+    "ingredient": "Corn Starch",
+    "unit": "kg",
+    "price": 60.0,
+    "editable": true
+  },
+  {
+    "id": 72,
+    "ingredient": "Cornflour",
+    "unit": "kg",
+    "price": 55.0,
+    "editable": true
+  },
+  {
+    "id": 73,
+    "ingredient": "Cornflour (binder)",
+    "unit": "kg",
+    "price": 55.0,
+    "editable": true
+  },
+  {
+    "id": 74,
+    "ingredient": "Cornflour (binding + batter)",
+    "unit": "kg",
+    "price": 52.0,
+    "editable": true
+  },
+  {
+    "id": 75,
+    "ingredient": "Cornflour (binding agent)",
+    "unit": "kg",
+    "price": 55.0,
+    "editable": true
+  },
+  {
+    "id": 76,
+    "ingredient": "Cream Cheese / Processed Cheese",
+    "unit": "kg",
+    "price": 300.0,
+    "editable": true
+  },
+  {
+    "id": 77,
+    "ingredient": "Cumin Powder",
+    "unit": "kg",
+    "price": 280.0,
+    "editable": true
+  },
+  {
+    "id": 78,
+    "ingredient": "Cumin Powder (Jeera)",
+    "unit": "kg",
+    "price": 250.0,
+    "editable": true
+  },
+  {
+    "id": 79,
+    "ingredient": "Cumin Powder (in-house)",
+    "unit": "kg",
+    "price": 280.0,
+    "editable": true
+  },
+  {
+    "id": 80,
+    "ingredient": "Cumin Seeds",
+    "unit": "kg",
+    "price": 280.0,
+    "editable": true
+  },
+  {
+    "id": 81,
+    "ingredient": "Cumin powder",
+    "unit": "kg",
+    "price": 220.0,
+    "editable": true
+  },
+  {
+    "id": 82,
+    "ingredient": "Cumin seeds",
+    "unit": "kg",
+    "price": 280.0,
+    "editable": true
+  },
+  {
+    "id": 83,
+    "ingredient": "Cumin seeds (jeera)",
+    "unit": "kg",
+    "price": 320.0,
+    "editable": true
+  },
+  {
+    "id": 84,
+    "ingredient": "Curd (Yogurt)",
+    "unit": "kg",
+    "price": 50.0,
+    "editable": true
+  },
+  {
+    "id": 85,
+    "ingredient": "Curd (yogurt)",
+    "unit": "kg",
+    "price": 50.0,
+    "editable": true
+  },
+  {
+    "id": 86,
+    "ingredient": "Curd / Yogurt (thick)",
+    "unit": "kg",
+    "price": 55.0,
+    "editable": true
+  },
+  {
+    "id": 87,
+    "ingredient": "Curd/Yogurt",
+    "unit": "kg",
+    "price": 50.0,
+    "editable": true
+  },
+  {
+    "id": 88,
+    "ingredient": "Curry Leaves",
+    "unit": "kg",
+    "price": 120.0,
+    "editable": true
+  },
+  {
+    "id": 89,
+    "ingredient": "Curry leaves",
+    "unit": "kg",
+    "price": 120.0,
+    "editable": true
+  },
+  {
+    "id": 90,
+    "ingredient": "Dried Red Chillies",
+    "unit": "kg",
+    "price": 200.0,
+    "editable": true
+  },
+  {
+    "id": 91,
+    "ingredient": "Dried Red Chillies (Byadagi)",
+    "unit": "kg",
+    "price": 280.0,
+    "editable": true
+  },
+  {
+    "id": 92,
+    "ingredient": "Dry Red Chilli (Kashmiri)",
+    "unit": "kg",
+    "price": 200.0,
+    "editable": true
+  },
+  {
+    "id": 93,
+    "ingredient": "Dry red chillies",
+    "unit": "kg",
+    "price": 200.0,
+    "editable": true
+  },
+  {
+    "id": 94,
+    "ingredient": "Egg",
+    "unit": "piece",
+    "price": 85.0,
+    "editable": true
+  },
+  {
+    "id": 95,
+    "ingredient": "Eggs",
+    "unit": "pieces",
+    "price": 92.5,
+    "editable": true
+  },
+  {
+    "id": 96,
+    "ingredient": "Fennel Powder",
+    "unit": "kg",
+    "price": 200.0,
+    "editable": true
+  },
+  {
+    "id": 97,
+    "ingredient": "Fennel Seeds (Saunf)",
+    "unit": "kg",
+    "price": 180.0,
+    "editable": true
+  },
+  {
+    "id": 98,
+    "ingredient": "Fennel Seeds (saunf)",
+    "unit": "kg",
+    "price": 180.0,
+    "editable": true
+  },
+  {
+    "id": 99,
+    "ingredient": "Fennel seeds (in-house vepudu masala)",
+    "unit": "kg",
+    "price": 180.0,
+    "editable": true
+  },
+  {
+    "id": 100,
+    "ingredient": "Fennel seeds (saunf)",
+    "unit": "kg",
+    "price": 200.0,
+    "editable": true
+  },
+  {
+    "id": 101,
+    "ingredient": "Fenugreek Seeds (Methi)",
+    "unit": "kg",
+    "price": 120.0,
+    "editable": true
+  },
+  {
+    "id": 102,
+    "ingredient": "Fenugreek seeds (methi dana)",
+    "unit": "kg",
+    "price": 150.0,
+    "editable": true
+  },
+  {
+    "id": 103,
+    "ingredient": "Fish Fillets (Basa/Boneless)",
+    "unit": "kg",
+    "price": 170.0,
+    "editable": true
+  },
+  {
+    "id": 104,
+    "ingredient": "Food Colour (Orange/Red)",
+    "unit": "kg",
+    "price": 600.0,
+    "editable": true
+  },
+  {
+    "id": 105,
+    "ingredient": "Food Colour (Red, optional)",
+    "unit": "kg",
+    "price": 500.0,
+    "editable": true
+  },
+  {
+    "id": 106,
+    "ingredient": "Food Colour (orange/red, optional)",
+    "unit": "kg",
+    "price": 500.0,
+    "editable": true
+  },
+  {
+    "id": 107,
+    "ingredient": "Food Colour (orange/yellow - optional)",
+    "unit": "kg",
+    "price": 500.0,
+    "editable": true
+  },
+  {
+    "id": 108,
+    "ingredient": "French Beans",
+    "unit": "kg",
+    "price": 37.5,
+    "editable": true
+  },
+  {
+    "id": 109,
+    "ingredient": "Fresh Coriander Leaves",
+    "unit": "kg",
+    "price": 35.0,
+    "editable": true
+  },
+  {
+    "id": 110,
+    "ingredient": "Fresh Coriander Leaves (garnish)",
+    "unit": "kg",
+    "price": 50.0,
+    "editable": true
+  },
+  {
+    "id": 111,
+    "ingredient": "Fresh Cream",
+    "unit": "kg",
+    "price": 235.0,
+    "editable": true
+  },
+  {
+    "id": 112,
+    "ingredient": "Fresh Cream (full fat)",
+    "unit": "kg",
+    "price": 220.0,
+    "editable": true
+  },
+  {
+    "id": 113,
+    "ingredient": "Fresh Mint Leaves",
+    "unit": "kg",
+    "price": 50.0,
+    "editable": true
+  },
+  {
+    "id": 114,
+    "ingredient": "Fresh Mint Leaves (Pudina)",
+    "unit": "kg",
+    "price": 60.0,
+    "editable": true
+  },
+  {
+    "id": 115,
+    "ingredient": "Garam Masala",
+    "unit": "kg",
+    "price": 600.0,
+    "editable": true
+  },
+  {
+    "id": 116,
+    "ingredient": "Garam Masala (in-house blend)",
+    "unit": "kg",
+    "price": 350.0,
+    "editable": true
+  },
+  {
+    "id": 117,
+    "ingredient": "Garam Masala (in-house blend: clove, cardamom, cinnamon, pepper, etc.)",
+    "unit": "kg",
+    "price": 450.0,
+    "editable": true
+  },
+  {
+    "id": 118,
+    "ingredient": "Garam Masala (in-house)",
+    "unit": "kg",
+    "price": 350.0,
+    "editable": true
+  },
+  {
+    "id": 119,
+    "ingredient": "Garam masala (in-house)",
+    "unit": "kg",
+    "price": 350.0,
+    "editable": true
+  },
+  {
+    "id": 120,
+    "ingredient": "Garlic",
+    "unit": "kg",
+    "price": 100.0,
+    "editable": true
+  },
+  {
+    "id": 121,
+    "ingredient": "Ghee (in-house/bulk)",
+    "unit": "kg",
+    "price": 450.0,
+    "editable": true
+  },
+  {
+    "id": 122,
+    "ingredient": "Ginger",
+    "unit": "kg",
+    "price": 100.0,
+    "editable": true
+  },
+  {
+    "id": 123,
+    "ingredient": "Ginger-Garlic Paste (in-house)",
+    "unit": "kg",
+    "price": 95.0,
+    "editable": true
+  },
+  {
+    "id": 124,
+    "ingredient": "Ginger-garlic paste (in-house)",
+    "unit": "kg",
+    "price": 110.0,
+    "editable": true
+  },
+  {
+    "id": 125,
+    "ingredient": "Glass Noodles/Vermicelli",
+    "unit": "kg",
+    "price": 55.0,
+    "editable": true
+  },
+  {
+    "id": 126,
+    "ingredient": "Gram Flour (Besan)",
+    "unit": "kg",
+    "price": 67.5,
+    "editable": true
+  },
+  {
+    "id": 127,
+    "ingredient": "Gram Flour (besan)",
+    "unit": "kg",
+    "price": 55.0,
+    "editable": true
+  },
+  {
+    "id": 128,
+    "ingredient": "Gram flour",
+    "unit": "kg",
+    "price": 70.0,
+    "editable": true
+  },
+  {
+    "id": 129,
+    "ingredient": "Green Capsicum",
+    "unit": "kg",
+    "price": 40.0,
+    "editable": true
+  },
+  {
+    "id": 130,
+    "ingredient": "Green Cardamom",
+    "unit": "kg",
+    "price": 2200.0,
+    "editable": true
+  },
+  {
+    "id": 131,
+    "ingredient": "Green Cardamom Powder",
+    "unit": "kg",
+    "price": 2200.0,
+    "editable": true
+  },
+  {
+    "id": 132,
+    "ingredient": "Green Chilli",
+    "unit": "kg",
+    "price": 55.0,
+    "editable": true
+  },
+  {
+    "id": 133,
+    "ingredient": "Green Chilli Paste (in-house)",
+    "unit": "kg",
+    "price": 60.0,
+    "editable": true
+  },
+  {
+    "id": 134,
+    "ingredient": "Green Chillies",
+    "unit": "kg",
+    "price": 50.0,
+    "editable": true
+  },
+  {
+    "id": 135,
+    "ingredient": "Green Peas",
+    "unit": "kg",
+    "price": 70.0,
+    "editable": true
+  },
+  {
+    "id": 136,
+    "ingredient": "Green chillies",
+    "unit": "kg",
+    "price": 50.0,
+    "editable": true
+  },
+  {
+    "id": 137,
+    "ingredient": "Hung Curd (Yogurt)",
+    "unit": "kg",
+    "price": 50.0,
+    "editable": true
+  },
+  {
+    "id": 138,
+    "ingredient": "Jaggery (Palm/Cane)",
+    "unit": "kg",
+    "price": 60.0,
+    "editable": true
+  },
+  {
+    "id": 139,
+    "ingredient": "Kashmiri Chilli Powder",
+    "unit": "kg",
+    "price": 250.0,
+    "editable": true
+  },
+  {
+    "id": 140,
+    "ingredient": "Kashmiri Red Chilli Powder",
+    "unit": "kg",
+    "price": 280.0,
+    "editable": true
+  },
+  {
+    "id": 141,
+    "ingredient": "Kasoori Methi",
+    "unit": "kg",
+    "price": 350.0,
+    "editable": true
+  },
+  {
+    "id": 142,
+    "ingredient": "Kasuri Methi",
+    "unit": "kg",
+    "price": 350.0,
+    "editable": true
+  },
+  {
+    "id": 143,
+    "ingredient": "Lemon Juice",
+    "unit": "kg",
+    "price": 60.0,
+    "editable": true
+  },
+  {
+    "id": 144,
+    "ingredient": "Lemon juice",
+    "unit": "kg",
+    "price": 60.0,
+    "editable": true
+  },
+  {
+    "id": 145,
+    "ingredient": "MSG (Ajinomoto - optional)",
+    "unit": "kg",
+    "price": 200.0,
+    "editable": true
+  },
+  {
+    "id": 146,
+    "ingredient": "MSG (Ajinomoto)",
+    "unit": "kg",
+    "price": 200.0,
+    "editable": true
+  },
+  {
+    "id": 147,
+    "ingredient": "MSG (Ajinomoto) - optional",
+    "unit": "kg",
+    "price": 200.0,
+    "editable": true
+  },
+  {
+    "id": 148,
+    "ingredient": "MSG / Ajinomoto (optional)",
+    "unit": "kg",
+    "price": 200.0,
+    "editable": true
+  },
+  {
+    "id": 149,
+    "ingredient": "MSG/Ajinomoto (optional)",
+    "unit": "kg",
+    "price": 200.0,
+    "editable": true
+  },
+  {
+    "id": 150,
+    "ingredient": "Mace (Javitri) Powder",
+    "unit": "kg",
+    "price": 2800.0,
+    "editable": true
+  },
+  {
+    "id": 151,
+    "ingredient": "Mace Powder (Javitri)",
+    "unit": "kg",
+    "price": 2500.0,
+    "editable": true
+  },
+  {
+    "id": 152,
+    "ingredient": "Maida",
+    "unit": "kg",
+    "price": 36.5,
+    "editable": true
+  },
+  {
+    "id": 153,
+    "ingredient": "Maida (All Purpose Flour)",
+    "unit": "kg",
+    "price": 32.0,
+    "editable": true
+  },
+  {
+    "id": 154,
+    "ingredient": "Maida (All-purpose flour)",
+    "unit": "kg",
+    "price": 35.0,
+    "editable": true
+  },
+  {
+    "id": 155,
+    "ingredient": "Maida (all purpose flour)",
+    "unit": "kg",
+    "price": 32.0,
+    "editable": true
+  },
+  {
+    "id": 156,
+    "ingredient": "Maida / All Purpose Flour",
+    "unit": "kg",
+    "price": 33.5,
+    "editable": true
+  },
+  {
+    "id": 157,
+    "ingredient": "Maida / All-purpose flour (batter)",
+    "unit": "kg",
+    "price": 35.0,
+    "editable": true
+  },
+  {
+    "id": 158,
+    "ingredient": "Maida / Plain Flour",
+    "unit": "kg",
+    "price": 32.0,
+    "editable": true
+  },
+  {
+    "id": 159,
+    "ingredient": "Mustard Oil / Cooking Oil",
+    "unit": "kg",
+    "price": 130.0,
+    "editable": true
+  },
+  {
+    "id": 160,
+    "ingredient": "Mustard Oil / Refined Oil",
+    "unit": "kg",
+    "price": 130.0,
+    "editable": true
+  },
+  {
+    "id": 161,
+    "ingredient": "Mustard Seeds",
+    "unit": "kg",
+    "price": 130.0,
+    "editable": true
+  },
+  {
+    "id": 162,
+    "ingredient": "Mustard oil",
+    "unit": "kg",
+    "price": 180.0,
+    "editable": true
+  },
+  {
+    "id": 163,
+    "ingredient": "Mustard seeds",
+    "unit": "kg",
+    "price": 140.0,
+    "editable": true
+  },
+  {
+    "id": 164,
+    "ingredient": "Mustard seeds (rai)",
+    "unit": "kg",
+    "price": 120.0,
+    "editable": true
+  },
+  {
+    "id": 165,
+    "ingredient": "Mutton (bone-in, curry cut)",
+    "unit": "kg",
+    "price": 550.0,
+    "editable": true
+  },
+  {
+    "id": 166,
+    "ingredient": "Mutton (boneless)",
+    "unit": "kg",
+    "price": 600.0,
+    "editable": true
+  },
+  {
+    "id": 167,
+    "ingredient": "Nigella seeds (kalonji)",
+    "unit": "kg",
+    "price": 220.0,
+    "editable": true
+  },
+  {
+    "id": 168,
+    "ingredient": "Nutmeg Powder (Jaiphal)",
+    "unit": "kg",
+    "price": 1800.0,
+    "editable": true
+  },
+  {
+    "id": 169,
+    "ingredient": "Oil",
+    "unit": "kg",
+    "price": 110.0,
+    "editable": true
+  },
+  {
+    "id": 170,
+    "ingredient": "Oil (absorbed during deep frying)",
+    "unit": "kg",
+    "price": 115.0,
+    "editable": true
+  },
+  {
+    "id": 171,
+    "ingredient": "Oil (absorbed during frying)",
+    "unit": "kg",
+    "price": 120.0,
+    "editable": true
+  },
+  {
+    "id": 172,
+    "ingredient": "Oil (refined sunflower)",
+    "unit": "kg",
+    "price": 110.0,
+    "editable": true
+  },
+  {
+    "id": 173,
+    "ingredient": "Oil (sunflower/refined)",
+    "unit": "kg",
+    "price": 110.0,
+    "editable": true
+  },
+  {
+    "id": 174,
+    "ingredient": "Onion",
+    "unit": "kg",
+    "price": 25.0,
+    "editable": true
+  },
+  {
+    "id": 175,
+    "ingredient": "Onions",
+    "unit": "kg",
+    "price": 28.0,
+    "editable": true
+  },
+  {
+    "id": 176,
+    "ingredient": "Oregano / Mixed Herbs",
+    "unit": "kg",
+    "price": 400.0,
+    "editable": true
+  },
+  {
+    "id": 177,
+    "ingredient": "Paneer",
+    "unit": "kg",
+    "price": 300.0,
+    "editable": true
+  },
+  {
+    "id": 178,
+    "ingredient": "Paneer (cottage cheese)",
+    "unit": "kg",
+    "price": 300.0,
+    "editable": true
+  },
+  {
+    "id": 179,
+    "ingredient": "Paneer (crumbled)",
+    "unit": "kg",
+    "price": 300.0,
+    "editable": true
+  },
+  {
+    "id": 180,
+    "ingredient": "Potato",
+    "unit": "kg",
+    "price": 22.0,
+    "editable": true
+  },
+  {
+    "id": 181,
+    "ingredient": "Prawns (cleaned, small/medium)",
+    "unit": "kg",
+    "price": 320.0,
+    "editable": true
+  },
+  {
+    "id": 182,
+    "ingredient": "Prawns (medium, cleaned & deveined)",
+    "unit": "kg",
+    "price": 380.0,
+    "editable": true
+  },
+  {
+    "id": 183,
+    "ingredient": "Prawns (medium, cleaned/deveined)",
+    "unit": "kg",
+    "price": 400.0,
+    "editable": true
+  },
+  {
+    "id": 184,
+    "ingredient": "Processed Cheese",
+    "unit": "kg",
+    "price": 350.0,
+    "editable": true
+  },
+  {
+    "id": 185,
+    "ingredient": "Processed Cheese / Mozzarella",
+    "unit": "kg",
+    "price": 340.0,
+    "editable": true
+  },
+  {
+    "id": 186,
+    "ingredient": "Raw Peanuts (shelled)",
+    "unit": "kg",
+    "price": 105.0,
+    "editable": true
+  },
+  {
+    "id": 187,
+    "ingredient": "Red Chilli Powder",
+    "unit": "kg",
+    "price": 200.0,
+    "editable": true
+  },
+  {
+    "id": 188,
+    "ingredient": "Red Chilli Powder (Kashmiri)",
+    "unit": "kg",
+    "price": 265.0,
+    "editable": true
+  },
+  {
+    "id": 189,
+    "ingredient": "Red Chilli Powder (in-house)",
+    "unit": "kg",
+    "price": 180.0,
+    "editable": true
+  },
+  {
+    "id": 190,
+    "ingredient": "Red Chilli Sauce",
+    "unit": "kg",
+    "price": 80.0,
+    "editable": true
+  },
+  {
+    "id": 191,
+    "ingredient": "Red Chilli Sauce (bulk)",
+    "unit": "kg",
+    "price": 70.0,
+    "editable": true
+  },
+  {
+    "id": 192,
+    "ingredient": "Red Chilli Sauce / Schezwan Sauce",
+    "unit": "kg",
+    "price": 110.0,
+    "editable": true
+  },
+  {
+    "id": 193,
+    "ingredient": "Red chilli powder",
+    "unit": "kg",
+    "price": 190.0,
+    "editable": true
+  },
+  {
+    "id": 194,
+    "ingredient": "Red chilli powder (Guntur)",
+    "unit": "kg",
+    "price": 200.0,
+    "editable": true
+  },
+  {
+    "id": 195,
+    "ingredient": "Red chilli powder (Kashmiri)",
+    "unit": "kg",
+    "price": 280.0,
+    "editable": true
+  },
+  {
+    "id": 196,
+    "ingredient": "Refined Oil",
+    "unit": "litre",
+    "price": 110.0,
+    "editable": true
+  },
+  {
+    "id": 197,
+    "ingredient": "Refined Oil (absorbed during deep frying)",
+    "unit": "kg",
+    "price": 120.0,
+    "editable": true
+  },
+  {
+    "id": 198,
+    "ingredient": "Refined Oil (absorbed during frying)",
+    "unit": "kg",
+    "price": 115.0,
+    "editable": true
+  },
+  {
+    "id": 199,
+    "ingredient": "Refined Oil / Butter",
+    "unit": "kg",
+    "price": 150.0,
+    "editable": true
+  },
+  {
+    "id": 200,
+    "ingredient": "Refined oil",
+    "unit": "kg",
+    "price": 110.0,
+    "editable": true
+  },
+  {
+    "id": 201,
+    "ingredient": "Rice Flour",
+    "unit": "kg",
+    "price": 45.0,
+    "editable": true
+  },
+  {
+    "id": 202,
+    "ingredient": "Roasted Gram Flour",
+    "unit": "kg",
+    "price": 70.0,
+    "editable": true
+  },
+  {
+    "id": 203,
+    "ingredient": "Saffron (Kesar)",
+    "unit": "kg",
+    "price": 300000.0,
+    "editable": true
+  },
+  {
+    "id": 204,
+    "ingredient": "Salt",
+    "unit": "kg",
+    "price": 12.0,
+    "editable": true
+  },
+  {
+    "id": 205,
+    "ingredient": "Sesame Oil",
+    "unit": "kg",
+    "price": 200.0,
+    "editable": true
+  },
+  {
+    "id": 206,
+    "ingredient": "Sesame Oil (finishing)",
+    "unit": "kg",
+    "price": 280.0,
+    "editable": true
+  },
+  {
+    "id": 207,
+    "ingredient": "Sesame oil (finishing)",
+    "unit": "kg",
+    "price": 250.0,
+    "editable": true
+  },
+  {
+    "id": 208,
+    "ingredient": "Soy Sauce",
+    "unit": "litre",
+    "price": 90.0,
+    "editable": true
+  },
+  {
+    "id": 209,
+    "ingredient": "Soy Sauce (bulk)",
+    "unit": "kg",
+    "price": 90.0,
+    "editable": true
+  },
+  {
+    "id": 210,
+    "ingredient": "Soy Sauce (in-house or bulk purchased)",
+    "unit": "kg",
+    "price": 80.0,
+    "editable": true
+  },
+  {
+    "id": 211,
+    "ingredient": "Soy sauce",
+    "unit": "kg",
+    "price": 90.0,
+    "editable": true
+  },
+  {
+    "id": 212,
+    "ingredient": "Spinach",
+    "unit": "kg",
+    "price": 25.0,
+    "editable": true
+  },
+  {
+    "id": 213,
+    "ingredient": "Spinach (Palak)",
+    "unit": "kg",
+    "price": 25.0,
+    "editable": true
+  },
+  {
+    "id": 214,
+    "ingredient": "Spring Onion",
+    "unit": "kg",
+    "price": 50.0,
+    "editable": true
+  },
+  {
+    "id": 215,
+    "ingredient": "Spring Onion (greens & whites)",
+    "unit": "kg",
+    "price": 40.0,
+    "editable": true
+  },
+  {
+    "id": 216,
+    "ingredient": "Spring Onion (greens + whites)",
+    "unit": "kg",
+    "price": 60.0,
+    "editable": true
+  },
+  {
+    "id": 217,
+    "ingredient": "Spring Onion (greens)",
+    "unit": "kg",
+    "price": 60.0,
+    "editable": true
+  },
+  {
+    "id": 218,
+    "ingredient": "Spring Onion Greens",
+    "unit": "kg",
+    "price": 60.0,
+    "editable": true
+  },
+  {
+    "id": 219,
+    "ingredient": "Spring onions (garnish)",
+    "unit": "kg",
+    "price": 60.0,
+    "editable": true
+  },
+  {
+    "id": 220,
+    "ingredient": "Sugar",
+    "unit": "kg",
+    "price": 40.0,
+    "editable": true
+  },
+  {
+    "id": 221,
+    "ingredient": "Sugar (brown/white)",
+    "unit": "kg",
+    "price": 40.0,
+    "editable": true
+  },
+  {
+    "id": 222,
+    "ingredient": "Sunflower oil",
+    "unit": "kg",
+    "price": 110.0,
+    "editable": true
+  },
+  {
+    "id": 223,
+    "ingredient": "Sweet Corn",
+    "unit": "kg",
+    "price": 60.0,
+    "editable": true
+  },
+  {
+    "id": 224,
+    "ingredient": "Sweet Corn Kernels",
+    "unit": "kg",
+    "price": 55.0,
+    "editable": true
+  },
+  {
+    "id": 225,
+    "ingredient": "Tamarind Pulp",
+    "unit": "kg",
+    "price": 100.0,
+    "editable": true
+  },
+  {
+    "id": 226,
+    "ingredient": "Thick Curd (Yogurt)",
+    "unit": "kg",
+    "price": 55.0,
+    "editable": true
+  },
+  {
+    "id": 227,
+    "ingredient": "Thick curd (hung yogurt)",
+    "unit": "kg",
+    "price": 50.0,
+    "editable": true
+  },
+  {
+    "id": 228,
+    "ingredient": "Tomato",
+    "unit": "kg",
+    "price": 25.0,
+    "editable": true
+  },
+  {
+    "id": 229,
+    "ingredient": "Tomato Ketchup",
+    "unit": "kg",
+    "price": 70.0,
+    "editable": true
+  },
+  {
+    "id": 230,
+    "ingredient": "Tomato Ketchup (bulk)",
+    "unit": "kg",
+    "price": 70.0,
+    "editable": true
+  },
+  {
+    "id": 231,
+    "ingredient": "Tomato Ketchup / Chilli Sauce",
+    "unit": "kg",
+    "price": 80.0,
+    "editable": true
+  },
+  {
+    "id": 232,
+    "ingredient": "Tomato Ketchup / Sauce",
+    "unit": "kg",
+    "price": 70.0,
+    "editable": true
+  },
+  {
+    "id": 233,
+    "ingredient": "Tomato Ketchup/Sauce",
+    "unit": "kg",
+    "price": 70.0,
+    "editable": true
+  },
+  {
+    "id": 234,
+    "ingredient": "Tomato ketchup/sauce",
+    "unit": "kg",
+    "price": 70.0,
+    "editable": true
+  },
+  {
+    "id": 235,
+    "ingredient": "Tomatoes",
+    "unit": "kg",
+    "price": 30.0,
+    "editable": true
+  },
+  {
+    "id": 236,
+    "ingredient": "Turmeric Powder",
+    "unit": "kg",
+    "price": 150.0,
+    "editable": true
+  },
+  {
+    "id": 237,
+    "ingredient": "Turmeric Powder (in-house)",
+    "unit": "kg",
+    "price": 140.0,
+    "editable": true
+  },
+  {
+    "id": 238,
+    "ingredient": "Turmeric powder",
+    "unit": "kg",
+    "price": 160.0,
+    "editable": true
+  },
+  {
+    "id": 239,
+    "ingredient": "Urad Dal",
+    "unit": "kg",
+    "price": 110.0,
+    "editable": true
+  },
+  {
+    "id": 240,
+    "ingredient": "Vegetable Oil",
+    "unit": "kg",
+    "price": 110.0,
+    "editable": true
+  },
+  {
+    "id": 241,
+    "ingredient": "Vinegar",
+    "unit": "litre",
+    "price": 40.0,
+    "editable": true
+  },
+  {
+    "id": 242,
+    "ingredient": "Vinegar (white/synthetic)",
+    "unit": "kg",
+    "price": 30.0,
+    "editable": true
+  },
+  {
+    "id": 243,
+    "ingredient": "Water",
+    "unit": "kg",
+    "price": 0.5,
+    "editable": true
+  },
+  {
+    "id": 244,
+    "ingredient": "White Pepper Powder",
+    "unit": "kg",
+    "price": 625.0,
+    "editable": true
+  },
+  {
+    "id": 245,
+    "ingredient": "Whole Eggs (with shell)",
+    "unit": "kg",
+    "price": 96.0,
+    "editable": true
+  },
+  {
+    "id": 246,
+    "ingredient": "Yogurt (curd)",
+    "unit": "kg",
+    "price": 55.0,
+    "editable": true
+  },
+  {
+    "id": 247,
+    "ingredient": "Yogurt (hung curd)",
+    "unit": "kg",
+    "price": 55.0,
+    "editable": true
+  },
+  {
+    "id": 248,
+    "ingredient": "Yogurt/Curd",
+    "unit": "kg",
+    "price": 50.0,
+    "editable": true
+  },
+  {
+    "id": 249,
+    "ingredient": "Yogurt/Curd (in-house from milk)",
+    "unit": "kg",
+    "price": 48.0,
+    "editable": true
+  }
+]
