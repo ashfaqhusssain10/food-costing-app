@@ -1,6 +1,7 @@
 import { useState } from 'react'
+import PricingModeToggle from './PricingModeToggle'
 
-function RawMaterialsTab({ tier1, tier2, tier2Costs, onUpdatePrice }) {
+function RawMaterialsTab({ tier1, tier2, tier2Costs, tier3Market, pricingMode, setPricingMode, onUpdatePrice, onUpdateMarketPrice }) {
   const [searchTerm, setSearchTerm] = useState('')
 
   const filteredTier1 = tier1.filter(item =>
@@ -12,6 +13,12 @@ function RawMaterialsTab({ tier1, tier2, tier2Costs, onUpdatePrice }) {
     <div>
       <h2>Raw Materials (Tier 1 - Purchasable)</h2>
       <p className="subtitle">Edit prices here — all item costs recalculate automatically</p>
+
+      <PricingModeToggle pricingMode={pricingMode} setPricingMode={setPricingMode} />
+
+      <div className="active-pricing-indicator">
+        Currently using: <strong>{pricingMode === 'market' ? 'Market' : 'Wholesale'}</strong> prices for calculations
+      </div>
 
       <input
         type="text"
@@ -27,26 +34,50 @@ function RawMaterialsTab({ tier1, tier2, tier2Costs, onUpdatePrice }) {
             <tr>
               <th>Ingredient</th>
               <th>Category</th>
-              <th>Unit</th>
-              <th className="number-right">Price (₹/kg)</th>
+              <th className="number-right">Wholesale (₹/kg)</th>
+              <th className="number-right">Market (₹/kg)</th>
+              <th className="number-right">Markup %</th>
             </tr>
           </thead>
           <tbody>
-            {filteredTier1.map((item) => (
-              <tr key={item.id}>
-                <td>{item.name}</td>
-                <td><span className="category-badge">{item.category}</span></td>
-                <td>{item.unit}</td>
-                <td className="editable-cell number-right">
-                  <input
-                    type="number"
-                    step="0.5"
-                    value={item.price}
-                    onChange={(e) => onUpdatePrice(item.id, e.target.value)}
-                  />
-                </td>
-              </tr>
-            ))}
+            {filteredTier1.map((item) => {
+              const marketPrice = tier3Market.market_prices[item.name] || item.price
+              const markup = ((marketPrice / item.price - 1) * 100).toFixed(0)
+
+              return (
+                <tr key={item.id}>
+                  <td>{item.name}</td>
+                  <td><span className="category-badge">{item.category}</span></td>
+
+                  {/* Wholesale Price - Editable */}
+                  <td className="editable-cell number-right">
+                    <input
+                      type="number"
+                      step="0.5"
+                      value={item.price}
+                      onChange={(e) => onUpdatePrice(item.id, e.target.value)}
+                    />
+                  </td>
+
+                  {/* Market Price - Editable */}
+                  <td className="editable-cell number-right">
+                    <input
+                      type="number"
+                      step="0.5"
+                      value={marketPrice}
+                      onChange={(e) => onUpdateMarketPrice(item.name, e.target.value)}
+                    />
+                  </td>
+
+                  {/* Markup % - Calculated */}
+                  <td className="number-right">
+                    <span className={markup > 100 ? 'high-markup' : ''}>
+                      {markup}%
+                    </span>
+                  </td>
+                </tr>
+              )
+            })}
           </tbody>
         </table>
       </div>

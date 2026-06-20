@@ -1,29 +1,40 @@
 import { useMemo } from 'react'
 import tier2Data from '../data/tier2.json'
+import PricingModeToggle from './PricingModeToggle'
 
-function ItemDetailTab({ item, getPrice, onBack }) {
+function ItemDetailTab({ item, getWholesalePrice, getMarketPrice, pricingMode, setPricingMode, onBack }) {
+  const showMarket = pricingMode === 'market'
+
   const { ingredients, totals } = useMemo(() => {
-    let minQtySum = 0, maxQtySum = 0, minCostSum = 0, maxCostSum = 0
+    let minQtySum = 0, maxQtySum = 0
+    let wMinCostSum = 0, wMaxCostSum = 0
+    let mMinCostSum = 0, mMaxCostSum = 0
 
     const updated = item.ingredients.map(ing => {
-      const price = getPrice(ing.name)
-      const minCost = ing.min_qty * price
-      const maxCost = ing.max_qty * price
+      const wPrice = getWholesalePrice(ing.name)
+      const mPrice = getMarketPrice(ing.name)
+      const wMinCost = ing.min_qty * wPrice
+      const wMaxCost = ing.max_qty * wPrice
+      const mMinCost = ing.min_qty * mPrice
+      const mMaxCost = ing.max_qty * mPrice
+
       minQtySum += ing.min_qty
       maxQtySum += ing.max_qty
-      minCostSum += minCost
-      maxCostSum += maxCost
+      wMinCostSum += wMinCost
+      wMaxCostSum += wMaxCost
+      mMinCostSum += mMinCost
+      mMaxCostSum += mMaxCost
 
       const isTier2 = tier2Data[ing.name] !== undefined
 
-      return { ...ing, price, minCost, maxCost, isTier2 }
+      return { ...ing, wPrice, mPrice, wMinCost, wMaxCost, mMinCost, mMaxCost, isTier2 }
     })
 
     return {
       ingredients: updated,
-      totals: { minQtySum, maxQtySum, minCostSum, maxCostSum }
+      totals: { minQtySum, maxQtySum, wMinCostSum, wMaxCostSum, mMinCostSum, mMaxCostSum }
     }
-  }, [item, getPrice])
+  }, [item, getWholesalePrice, getMarketPrice])
 
   return (
     <div>
@@ -31,15 +42,19 @@ function ItemDetailTab({ item, getPrice, onBack }) {
 
       <h2>Costing: {item.name}</h2>
 
+      <PricingModeToggle pricingMode={pricingMode} setPricingMode={setPricingMode} />
+
       <div className="stats">
         <div className="stat-card">
-          <div className="stat-label">Min Cost</div>
-          <div className="stat-value">₹{totals.minCostSum.toFixed(2)}</div>
+          <div className="stat-label">Wholesale Cost</div>
+          <div className="stat-value">₹{totals.wMinCostSum.toFixed(0)} - ₹{totals.wMaxCostSum.toFixed(0)}</div>
         </div>
-        <div className="stat-card">
-          <div className="stat-label">Max Cost</div>
-          <div className="stat-value">₹{totals.maxCostSum.toFixed(2)}</div>
-        </div>
+        {showMarket && (
+          <div className="stat-card">
+            <div className="stat-label">Market Cost</div>
+            <div className="stat-value">₹{totals.mMinCostSum.toFixed(0)} - ₹{totals.mMaxCostSum.toFixed(0)}</div>
+          </div>
+        )}
         <div className="stat-card">
           <div className="stat-label">Cooking Loss</div>
           <div className="stat-value">{item.cooking_loss_percent}%</div>
@@ -58,9 +73,20 @@ function ItemDetailTab({ item, getPrice, onBack }) {
               <th>Type</th>
               <th className="number-right">Min Qty (kg)</th>
               <th className="number-right">Max Qty (kg)</th>
-              <th className="number-right">Unit Cost (₹/kg)</th>
-              <th className="number-right">Min Cost (₹)</th>
-              <th className="number-right">Max Cost (₹)</th>
+              {showMarket ? (
+                <>
+                  <th className="number-right">W Price (₹/kg)</th>
+                  <th className="number-right">M Price (₹/kg)</th>
+                  <th className="number-right">W Cost (₹)</th>
+                  <th className="number-right">M Cost (₹)</th>
+                </>
+              ) : (
+                <>
+                  <th className="number-right">Price (₹/kg)</th>
+                  <th className="number-right">Min Cost (₹)</th>
+                  <th className="number-right">Max Cost (₹)</th>
+                </>
+              )}
             </tr>
           </thead>
           <tbody>
@@ -72,18 +98,40 @@ function ItemDetailTab({ item, getPrice, onBack }) {
                 </span></td>
                 <td className="number-right">{ing.min_qty.toFixed(4)}</td>
                 <td className="number-right">{ing.max_qty.toFixed(4)}</td>
-                <td className="number-right">₹{ing.price.toFixed(2)}</td>
-                <td className="number-right">₹{ing.minCost.toFixed(2)}</td>
-                <td className="number-right">₹{ing.maxCost.toFixed(2)}</td>
+                {showMarket ? (
+                  <>
+                    <td className="number-right">₹{ing.wPrice.toFixed(0)}</td>
+                    <td className="number-right market-cost">₹{ing.mPrice.toFixed(0)}</td>
+                    <td className="number-right">₹{((ing.wMinCost + ing.wMaxCost) / 2).toFixed(2)}</td>
+                    <td className="number-right market-cost">₹{((ing.mMinCost + ing.mMaxCost) / 2).toFixed(2)}</td>
+                  </>
+                ) : (
+                  <>
+                    <td className="number-right">₹{ing.wPrice.toFixed(2)}</td>
+                    <td className="number-right">₹{ing.wMinCost.toFixed(2)}</td>
+                    <td className="number-right">₹{ing.wMaxCost.toFixed(2)}</td>
+                  </>
+                )}
               </tr>
             ))}
             <tr className="total-row">
               <td colSpan="2"><strong>TOTAL</strong></td>
               <td className="number-right"><strong>{totals.minQtySum.toFixed(3)}</strong></td>
               <td className="number-right"><strong>{totals.maxQtySum.toFixed(3)}</strong></td>
-              <td></td>
-              <td className="number-right"><strong>₹{totals.minCostSum.toFixed(2)}</strong></td>
-              <td className="number-right"><strong>₹{totals.maxCostSum.toFixed(2)}</strong></td>
+              {showMarket ? (
+                <>
+                  <td></td>
+                  <td></td>
+                  <td className="number-right"><strong>₹{((totals.wMinCostSum + totals.wMaxCostSum) / 2).toFixed(2)}</strong></td>
+                  <td className="number-right market-cost"><strong>₹{((totals.mMinCostSum + totals.mMaxCostSum) / 2).toFixed(2)}</strong></td>
+                </>
+              ) : (
+                <>
+                  <td></td>
+                  <td className="number-right"><strong>₹{totals.wMinCostSum.toFixed(2)}</strong></td>
+                  <td className="number-right"><strong>₹{totals.wMaxCostSum.toFixed(2)}</strong></td>
+                </>
+              )}
             </tr>
           </tbody>
         </table>

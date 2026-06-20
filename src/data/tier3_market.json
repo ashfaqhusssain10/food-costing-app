@@ -1,0 +1,702 @@
+{
+  "market_prices": {
+    "Chicken Boneless": 352,
+    "Chicken Bone-in": 240,
+    "Mutton Bone-in": 1050,
+    "Mutton Boneless": 1350,
+    "Prawns": 800,
+    "Fish Basa": 300,
+    "Eggs": 170,
+    "Onion": 23,
+    "Capsicum": 52,
+    "Carrot": 32,
+    "Cabbage": 19,
+    "Potato": 23,
+    "Tomato": 26,
+    "Broccoli": 126,
+    "Cauliflower": 32,
+    "Baby Corn": 168,
+    "Mushroom": 252,
+    "Spinach": 26,
+    "Green Peas": 78,
+    "Sweet Corn": 45,
+    "French Beans": 52,
+    "Ginger": 104,
+    "Garlic": 156,
+    "Green Chilli": 78,
+    "Curry Leaves": 130,
+    "Coriander Leaves": 65,
+    "Mint Leaves": 78,
+    "Spring Onion": 52,
+    "Cumin Seeds": 364,
+    "Mustard Seeds": 104,
+    "Fennel Seeds": 195,
+    "Fenugreek Seeds": 117,
+    "Cardamom": 3640,
+    "Cloves": 1560,
+    "Cinnamon": 585,
+    "Black Peppercorns": 884,
+    "Bay Leaves": 455,
+    "Dried Red Chilli Byadagi": 468,
+    "Dried Red Chilli Guntur": 364,
+    "Nigella Seeds": 208,
+    "Carom Seeds": 234,
+    "Coriander Seeds": 182,
+    "Star Anise": 715,
+    "Mace": 2860,
+    "Nutmeg": 1105,
+    "Red Chilli Powder": 260,
+    "Kashmiri Chilli Powder": 520,
+    "Turmeric Powder": 234,
+    "Coriander Powder": 195,
+    "Cumin Powder": 416,
+    "Black Pepper Powder": 975,
+    "Amchur Powder": 260,
+    "White Pepper Powder": 1170,
+    "Refined Oil": 143,
+    "Mustard Oil": 175,
+    "Sesame Oil": 364,
+    "Ghee": 585,
+    "Butter": 494,
+    "Besan": 71,
+    "Cornflour": 52,
+    "Maida": 41,
+    "Rice Flour": 49,
+    "Breadcrumbs": 78,
+    "Soy Sauce": 104,
+    "Vinegar": 39,
+    "Tomato Ketchup": 91,
+    "Red Chilli Sauce": 84,
+    "Tamarind Pulp": 117,
+    "Lemon Juice": 78,
+    "Curd": 65,
+    "Paneer": 364,
+    "Fresh Cream": 455,
+    "Processed Cheese": 494,
+    "Cashew": 1040,
+    "Peanuts": 149,
+    "Salt": 15,
+    "Sugar": 49,
+    "MSG": 286,
+    "Saffron": 325000,
+    "Food Colour": 1950,
+    "Jaggery": 58,
+    "Water": 0,
+    "Kasuri Methi": 325,
+    "Chana Dal": 97,
+    "Urad Dal": 130,
+    "Glass Noodles": 195
+  },
+  "metadata": {
+    "generated_date": "2026-06-20",
+    "method": "web_search_claude_extraction",
+    "total_items": 86,
+    "web_search_count": 0,
+    "estimated_count": 86,
+    "note": "Prices from web search. Editable in UI. Re-run script to refresh."
+  },
+  "price_details": {
+    "Chicken Boneless": {
+      "price": 352,
+      "wholesale_price": 220,
+      "markup_percent": 60.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Chicken Bone-in": {
+      "price": 240,
+      "wholesale_price": 150,
+      "markup_percent": 60.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Mutton Bone-in": {
+      "price": 1050,
+      "wholesale_price": 700,
+      "markup_percent": 50.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Mutton Boneless": {
+      "price": 1350,
+      "wholesale_price": 900,
+      "markup_percent": 50.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Prawns": {
+      "price": 800,
+      "wholesale_price": 400,
+      "markup_percent": 100.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Fish Basa": {
+      "price": 300,
+      "wholesale_price": 150,
+      "markup_percent": 100.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Eggs": {
+      "price": 170,
+      "wholesale_price": 100,
+      "markup_percent": 70.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Onion": {
+      "price": 23,
+      "wholesale_price": 18,
+      "markup_percent": 27.8,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Capsicum": {
+      "price": 52,
+      "wholesale_price": 40,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Carrot": {
+      "price": 32,
+      "wholesale_price": 25,
+      "markup_percent": 28.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Cabbage": {
+      "price": 19,
+      "wholesale_price": 15,
+      "markup_percent": 26.7,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Potato": {
+      "price": 23,
+      "wholesale_price": 18,
+      "markup_percent": 27.8,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Tomato": {
+      "price": 26,
+      "wholesale_price": 20,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Broccoli": {
+      "price": 126,
+      "wholesale_price": 60,
+      "markup_percent": 110.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Cauliflower": {
+      "price": 32,
+      "wholesale_price": 25,
+      "markup_percent": 28.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Baby Corn": {
+      "price": 168,
+      "wholesale_price": 80,
+      "markup_percent": 110.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Mushroom": {
+      "price": 252,
+      "wholesale_price": 120,
+      "markup_percent": 110.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Spinach": {
+      "price": 26,
+      "wholesale_price": 20,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Green Peas": {
+      "price": 78,
+      "wholesale_price": 60,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Sweet Corn": {
+      "price": 45,
+      "wholesale_price": 35,
+      "markup_percent": 28.6,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "French Beans": {
+      "price": 52,
+      "wholesale_price": 40,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Ginger": {
+      "price": 104,
+      "wholesale_price": 80,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Garlic": {
+      "price": 156,
+      "wholesale_price": 120,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Green Chilli": {
+      "price": 78,
+      "wholesale_price": 60,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Curry Leaves": {
+      "price": 130,
+      "wholesale_price": 100,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Coriander Leaves": {
+      "price": 65,
+      "wholesale_price": 50,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Mint Leaves": {
+      "price": 78,
+      "wholesale_price": 60,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Spring Onion": {
+      "price": 52,
+      "wholesale_price": 40,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Cumin Seeds": {
+      "price": 364,
+      "wholesale_price": 280,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Mustard Seeds": {
+      "price": 104,
+      "wholesale_price": 80,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Fennel Seeds": {
+      "price": 195,
+      "wholesale_price": 150,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Fenugreek Seeds": {
+      "price": 117,
+      "wholesale_price": 90,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Cardamom": {
+      "price": 3640,
+      "wholesale_price": 2800,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Cloves": {
+      "price": 1560,
+      "wholesale_price": 1200,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Cinnamon": {
+      "price": 585,
+      "wholesale_price": 450,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Black Peppercorns": {
+      "price": 884,
+      "wholesale_price": 680,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Bay Leaves": {
+      "price": 455,
+      "wholesale_price": 350,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Dried Red Chilli Byadagi": {
+      "price": 468,
+      "wholesale_price": 360,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Dried Red Chilli Guntur": {
+      "price": 364,
+      "wholesale_price": 280,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Nigella Seeds": {
+      "price": 208,
+      "wholesale_price": 160,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Carom Seeds": {
+      "price": 234,
+      "wholesale_price": 180,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Coriander Seeds": {
+      "price": 182,
+      "wholesale_price": 140,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Star Anise": {
+      "price": 715,
+      "wholesale_price": 550,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Mace": {
+      "price": 2860,
+      "wholesale_price": 2200,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Nutmeg": {
+      "price": 1105,
+      "wholesale_price": 850,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Red Chilli Powder": {
+      "price": 260,
+      "wholesale_price": 200,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Kashmiri Chilli Powder": {
+      "price": 520,
+      "wholesale_price": 400,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Turmeric Powder": {
+      "price": 234,
+      "wholesale_price": 180,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Coriander Powder": {
+      "price": 195,
+      "wholesale_price": 150,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Cumin Powder": {
+      "price": 416,
+      "wholesale_price": 320,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Black Pepper Powder": {
+      "price": 975,
+      "wholesale_price": 750,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Amchur Powder": {
+      "price": 260,
+      "wholesale_price": 200,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "White Pepper Powder": {
+      "price": 1170,
+      "wholesale_price": 900,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Refined Oil": {
+      "price": 143,
+      "wholesale_price": 110,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Mustard Oil": {
+      "price": 175,
+      "wholesale_price": 135,
+      "markup_percent": 29.6,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Sesame Oil": {
+      "price": 364,
+      "wholesale_price": 280,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Ghee": {
+      "price": 585,
+      "wholesale_price": 450,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Butter": {
+      "price": 494,
+      "wholesale_price": 380,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Besan": {
+      "price": 71,
+      "wholesale_price": 55,
+      "markup_percent": 29.1,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Cornflour": {
+      "price": 52,
+      "wholesale_price": 40,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Maida": {
+      "price": 41,
+      "wholesale_price": 32,
+      "markup_percent": 28.1,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Rice Flour": {
+      "price": 49,
+      "wholesale_price": 38,
+      "markup_percent": 28.9,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Breadcrumbs": {
+      "price": 78,
+      "wholesale_price": 60,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Soy Sauce": {
+      "price": 104,
+      "wholesale_price": 80,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Vinegar": {
+      "price": 39,
+      "wholesale_price": 30,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Tomato Ketchup": {
+      "price": 91,
+      "wholesale_price": 70,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Red Chilli Sauce": {
+      "price": 84,
+      "wholesale_price": 65,
+      "markup_percent": 29.2,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Tamarind Pulp": {
+      "price": 117,
+      "wholesale_price": 90,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Lemon Juice": {
+      "price": 78,
+      "wholesale_price": 60,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Curd": {
+      "price": 65,
+      "wholesale_price": 50,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Paneer": {
+      "price": 364,
+      "wholesale_price": 280,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Fresh Cream": {
+      "price": 455,
+      "wholesale_price": 350,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Processed Cheese": {
+      "price": 494,
+      "wholesale_price": 380,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Cashew": {
+      "price": 1040,
+      "wholesale_price": 800,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Peanuts": {
+      "price": 149,
+      "wholesale_price": 115,
+      "markup_percent": 29.6,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Salt": {
+      "price": 15,
+      "wholesale_price": 12,
+      "markup_percent": 25.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Sugar": {
+      "price": 49,
+      "wholesale_price": 38,
+      "markup_percent": 28.9,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "MSG": {
+      "price": 286,
+      "wholesale_price": 220,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Saffron": {
+      "price": 325000,
+      "wholesale_price": 250000,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Food Colour": {
+      "price": 1950,
+      "wholesale_price": 1500,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Jaggery": {
+      "price": 58,
+      "wholesale_price": 45,
+      "markup_percent": 28.9,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Water": {
+      "price": 0,
+      "wholesale_price": 0.5,
+      "markup_percent": -100.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Kasuri Methi": {
+      "price": 325,
+      "wholesale_price": 250,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Chana Dal": {
+      "price": 97,
+      "wholesale_price": 75,
+      "markup_percent": 29.3,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Urad Dal": {
+      "price": 130,
+      "wholesale_price": 100,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    },
+    "Glass Noodles": {
+      "price": 195,
+      "wholesale_price": 150,
+      "markup_percent": 30.0,
+      "source": "estimated",
+      "searched_on": "2026-06-20"
+    }
+  }
+}
